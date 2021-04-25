@@ -48,7 +48,7 @@ A supply-chain management game, in which participants manage the production proc
 A Python based command line application to download files matching given extension from any website. The package is available in pip as extscrape. It supports multithreaded downloading.
 
 * **Smart Metering**<br>
-A real time fault monitoring system using Raspberry Pi and Intel Edison boards. The Raspberry and Edison act as nodes and measure voltage, current and send data to the server. The server stores the values in database. Administrators can login to the web app and monitor the values. The backend was coded in Python Django framework.
+A real time fault monitoring system using Raspberry Pi and Intel Edison boards. The Raspberry and Edison act as nodes and measure voltage, current and send data to the server. The server stores the values in database. Administrators can login to the web app and monitor the values. The backend was written in Django framework.
 
 <br>
 
@@ -57,4 +57,4 @@ A real time fault monitoring system using Raspberry Pi and Intel Edison boards. 
 
 * **Programming Languages:** Python, C++, Java
 * **Distributed:** Kubernetes
-* **ML Frameworks:** PyTorch, Tensorflow, Tranformers (huggingface)
+* **ML Frameworks:** PyTorch, Tensorflow, Transformers (Huggingface)
