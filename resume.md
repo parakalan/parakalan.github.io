@@ -1,4 +1,6 @@
-## Sudharsan Thirumalai
+## About
+
+# Sudharsan Thirumalai
 
 
 ### Education
