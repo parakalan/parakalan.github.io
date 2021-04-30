@@ -1,5 +1,3 @@
-# Resume
-
 ## Sudharsan Thirumalai
 
 
