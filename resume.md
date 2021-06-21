@@ -14,7 +14,7 @@
 ### Experience
 ----------
 
-  **Product Engineer, Sprinklr (2019 - Present)**
+  **Senior Product Engineer, Sprinklr (2019 - Present)**
 
 Experience with training cutting edge models in NLP and Computer Vision and deploying them with k8s
 
