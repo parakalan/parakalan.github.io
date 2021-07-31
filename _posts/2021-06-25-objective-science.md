@@ -15,7 +15,7 @@ We cannot bend discoveries to fit social constructs, we have to change social co
 
 #### Sources
 
-[^1]: [Sapiens: A Brief History of Humankind](https://www.amazon.in/Sapiens-Humankind-Yuval-Noah-Harari/dp/0099590085)
+[^1]: [Sapiens: A Brief History of Humankind](https://amzn.to/3yeZ3cc)
 
 [^2]: [Twitter thread by @TheSeeker summarizing the evidence](https://twitter.com/TheSeeker268/status/1313858771064512517)
 
