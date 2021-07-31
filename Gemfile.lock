@@ -252,11 +252,14 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  activesupport (>= 6.0.3.1)
   faraday (< 1.0)
   github-pages
   jekyll-feed (~> 0.12)
   jekyll-octicons
+  kramdown (>= 1.17.0)
   minima (~> 2.5)
+  nokogiri (>= 1.11.0)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)

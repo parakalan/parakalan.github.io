@@ -31,7 +31,7 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 gem "faraday", "< 1.0"
 
 # Dependabot alerts, have no idea about this
-gem "kramdown", ">= 2.3.1"
+gem "kramdown", ">= 1.17.0"
 gem "activesupport", ">= 6.0.3.1"
 gem "nokogiri", ">= 1.11.0"
 
