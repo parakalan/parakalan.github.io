@@ -24,4 +24,8 @@ _______________________________________________________________
 ```
 The embedding evaluation and the training happens on your browser! You can tryout with any text classification dataset. I tried out with a dataset of 5000 documents, took about 10 to 15 minutes for the training to complete. The batch size is tuned for not going out for memory, I'll make it configurable so if your PC has more compute power and memory you can increase them. I'd suggest to keep it the same though, I tried to increase on my Intel Core i9 16GB MacBook Pro, it overheated and restarted!
 
+Here is a screenshot from training 100 epochs on Movie Review Dataset from [here](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data).
+
+![100 epochs on Movie Review Dataset](/images/tf-js-complete.png)
+
 Please feel free to raise an issue or give PRs to the [repo](https://github.com/parakalan/explore-tf-js). I am planning to add an image classifier using MobileNet / EfficientNet, as well as some unsupervised ML techniques like clustering.
