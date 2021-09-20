@@ -1,4 +1,7 @@
-## About
+---
+permalink: /resume
+exclude: true
+---
 
 # Sudharsan Thirumalai
 
