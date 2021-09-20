@@ -1,11 +1,16 @@
+---
+exclude: true
+---
+# Reliable, Scalable and Maintainable Applications
+
 _"The Internet was done so well that most people think of it as a natural resource like the Pacific Ocean, rather than something that was man-made. When was the last time a technology with a scale like that was so error-free?" - Alan Kay_
 
 * Applications today are data intensive, as opposed to compute intensive.
 
-* In more recent years, the lines between different data systems are blurred. There are datastore like Redis which are used as message queues, there are messages queues like Kafka which have enough durability to work as databases. (["Postgres Full-Text Search is Good Enough!"](http://rachbelaid.com/postgres-full-text-search-is-good-enough/))<br>_We (my buddy and I) used Redis as a message queue for scraping stuff off Amazon for a very short lived project. Worked like a charm._
+* In more recent years, the lines between different data systems are blurred. There are datastore like Redis which are used as message queues, there are messages queues like Kafka which have enough durability to work as databases. (["Postgres Full-Text Search is Good Enough!"](http://rachbelaid.com/postgres-full-text-search-is-good-enough/))<br>_We (my friend and I) used Redis as a message queue for scraping stuff off Amazon for a very short lived project. Worked like a charm._
 
 * Applications today have demanding and wide ranging expectations that one tool cannot solve everything. It is the responsibility of the application code to keep all these systems in sync.
-<br>_The scraping I mentioned above needed us to deploy Redis, RabbitMQ and Postgres instance on DO. Part of it could have been our inefficiency, but felt like all that was needed to do the scraping._
+<br>_The scraping I mentioned above needed us to deploy Redis, RabbitMQ and Postgres instance on DO. Part of the reason could have been our inefficiency, but felt like all that was needed to do the scraping at scale._
 
 * **Reliability**: The system should work correctly (with desired level of performance) even in the face of adversity.
 * For a software to work correctly, these are the expectations -
@@ -15,7 +20,7 @@ _"The Internet was done so well that most people think of it as a natural resour
 	* The system prevents any unathourized access and abuse.
 * If a system continues to "work correctly", based on above conditions, it is reliable. Reliability = working correctly across time.
 
-* Things that can go wrong are called faults. A reliable system is _fault tolerant_ or _resilient_. We can tolerate only certain types of faults though. A system failure is different from a fault. A fault is when one component of a system deviated from spec, a failure is when the whole system stops providing the required service.<br>_Let's take some time to understand the difference, seems to be important. A program which runs the node out of memory is a fault, which makes the node go out of reach, or restart, which is a failure. Not all faults are equally fatal. A security loophole is a fault, which is very fatal to the system, as compared to out-of-memory faults._
+* Things that can go wrong are called faults. A reliable system is _fault tolerant_ or _resilient_. We can tolerate only certain types of faults though. A system failure is different from a fault. A fault is when one component of a system deviates from spec, a failure is when the whole system stops providing the required service.<br>_Let's take some time to understand the difference, seems to be important. A program which runs the node out of memory is a fault, which makes the node go out of reach, or restart, which is a failure. Not all faults are equally fatal. A security loophole is a fault, which is very fatal to the system, as compared to out-of-memory faults._
 
 * We generally prefer tolerating faults over preventing them, but in some cases the latter is better. If an attacker has compromised a system and gained access to sensitive data, it cannot be undone.
 
@@ -55,4 +60,4 @@ _"The Internet was done so well that most people think of it as a natural resour
 
 
 
-_Please ping me or share a PR if you find anything wrong_
+_Please ping me on [Twitter](https://twitter.com/parakalakavi) or share a PR if you find anything wrong_
