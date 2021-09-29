@@ -3,9 +3,9 @@ title: NSE Insider Trades
 permalink: /nse-insider-trades
 ---
 
-I came through [this post](https://www.reddit.com/r/stocks/comments/puhzzv/should_you_follow_insider_transactions_i_analyzed/) which analyses insider trades filed with the SEC and buy shares based on that info.  and tried to replicate this for insider trades files with the NSE. [Here are the results](https://docs.google.com/spreadsheets/d/1AEs4K4PZOg1vfK42M2StGNqC6dI0Dyux/edit#gid=2111613884) if you want to jump right in. The code and data are available [here](https://github.com/parakalan/nse-insider-trades)
+I saw [this post](https://www.reddit.com/r/stocks/comments/puhzzv/should_you_follow_insider_transactions_i_analyzed/) on Reddit which analyses insider trades filed with the SEC for investment ideas and tried to replicate this for insider trades files with the NSE. [Here are the results](https://docs.google.com/spreadsheets/d/1AEs4K4PZOg1vfK42M2StGNqC6dI0Dyux/edit#gid=2111613884) if you want to jump right in. The code and data are available [here](https://github.com/parakalan/nse-insider-trades)
 
-We filter companies with market cap greater than INR 5000 cr (to weed out promoter pumping stocks) and consider buying only by the following people -
+We filter companies with market cap greater than INR 5000 cr (to weed out risky small caps) and consider buying only by the following people. -
 * Employees/Designated Employees
 * Immediate relative
 * Director
