@@ -6,3 +6,4 @@ I will try to summarise the chapters of [Designing Data Intensive Applications](
 
 
 1. [Reliable, Scalable and Maintainable Applications](/design-data-intensive-apps/1-reliable-scalable-maintainable.html)
+	1. [Reliability](/design-data-intensive-apps/1-1-reliability.html)
