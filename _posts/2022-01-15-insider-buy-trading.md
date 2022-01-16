@@ -10,7 +10,7 @@ On the first of every month, get the company with maximum insider buying in the 
 <br>
 
 |	**Corpus** 						|	200000
-|	**Stop Loss** 					|	-0.05
+|	**Stop Loss** 					|	-5%
 |	**Net Return With SL** 			|	178%
 |	**Net Return Without SL** 		|	6%
 |	**Monthly Average With SL** 	|	5148.582954
