@@ -103,7 +103,7 @@ e.exports=function(t){return null!=t&&(n(t)||function(t){return"function"==typeo
 
 1. Start off with an amount you can afford to lose. You can make a copy of [this excel](https://docs.google.com/spreadsheets/d/1xtWw99OCv7bAe1NdQNfGYB0Nir4rK8oo/edit#gid=1574867501) to calculate returns for different corpus amounts and stop losses.
 
-2. Subscribe to [Vikhed Monthly Insider Summary Newsletter](https://vikhed.in/monthly-insider). Every month, you'll get a mail of companies with maximum insider buying and maximum insider selling.
+2. Subscribe to [Vikhed Monthly Insider Summary Newsletter](https://vikhed.in/insider-summary). Every month, you'll get a mail of companies with maximum insider buying and maximum insider selling.
 
 3. Buy the company with maximum buying and hold till the end of the month.
 
