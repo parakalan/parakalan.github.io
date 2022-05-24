@@ -26,6 +26,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-octicons
+  - jekyll-redirect-from
 
 titles_from_headings:
   enabled:     false
