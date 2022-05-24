@@ -34,5 +34,6 @@ gem "faraday", "< 1.0"
 gem "kramdown", ">= 1.17.0"
 gem "activesupport", ">= 6.0.3.1"
 gem "nokogiri", ">= 1.11.0"
+gem "jekyll-redirect-from"
 
 
