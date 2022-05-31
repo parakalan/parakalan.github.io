@@ -2,9 +2,6 @@
 title: Competence Bubble
 permalink: /competence-bubble
 ---
-
-# Competence bubble
-
 In the learning phase, student years, people with common interest form groups or clubs. This becomes something like a bubble. For people outside, this bubble
 feels elusive. For people inside, it feels like the bubble, a competence bubble, is exhaustive. If you are in one of these bubbles, you probably feel good
 about yourself, you probably wouldn't consider someone outside the bubble to be good on the skill.
