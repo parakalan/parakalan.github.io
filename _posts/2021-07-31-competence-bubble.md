@@ -1,3 +1,8 @@
+---
+title: Competence Bubble
+permalink: /competence-bubble
+---
+
 # Competence bubble
 
 In the learning phase, student years, people with common interest form groups or clubs. This becomes something like a bubble. For people outside, this bubble
