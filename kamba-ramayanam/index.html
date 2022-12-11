@@ -27,9 +27,17 @@
 </div>
 </form>
 <style type="text/css">
-  tr {
-
+  .results {
+    margin: auto; 
+    width: 40%;
   }
+
+  @media only screen and (max-width: 600px) {
+  .results {
+    margin: auto; 
+    width: 100%;
+  }
+}
 </style>
 <script type="text/javascript" src="../js/jquery-3.6.1.slim.min.js"></script>
 <script src="./flexsearch.bundle.js"></script>
@@ -74,7 +82,7 @@
   }
 </script>
 </div>
-<div id="results" style="margin: auto; width: 40%;" class="results">
+<div id="results" style="" class="results">
   <table id="result_table">
   </table>
 </div>
