@@ -53,9 +53,8 @@
       }
       else {
         $("#result_table").html("");
-
         for(var r in searchResults[0].result) {
-          let doc = docs[searchResults[0].result[r]];
+          let doc = docs[searchResults[0].result[r]-1];
           $("#result_table").append(`
             <tr>
              <td>` + 
