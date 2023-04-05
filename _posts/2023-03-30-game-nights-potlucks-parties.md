@@ -11,6 +11,9 @@ Upon arriving in the United States, Arjun quickly formed bonds with other Indian
 
 This was one of them, a potluck and a game night. Sunita had brought her famous butter chicken, while Rohit had made paneer tikka. Anjali's dosas were a bit dry but the chutney made up for it. They were planning to play Catan for the day, the notoriously long game which makes you question life.
 
+![](../images/game-nights-potlucks-parties.png)
+
+
 Beneath the laughter and the shared memories, Arjun began to feel a growing sense of unease about the life he was building. He couldn’t shake the nagging feeling that they were becoming overly focused on the routines of their daily lives, losing sight of the dreams and aspirations that had brought them to the US in the first place. Today was game night, two days ago there was that event in Downtown with Ed Sheeran and last week was when they all went to Big Sur with a bunch of visiting friends. 
 
 As the night progressed, the conversation inevitably steered towards the daunting H1B lottery. The uncertainty that surrounded their lives became palpable in the room. With furrowed brows and concerned faces, they discussed the H1B visa lottery system and the excruciatingly long wait for green cards, issues that cast an ominous shadow over their futures. As Arjun listened intently to his friends' experiences, he began to reevaluate the merits of remaining in the US. Considering the burgeoning optimism in India and the diminishing gap in opportunities between both countries, he wondered if it was truly worth enduring a life of uncertainty and monotony when an exciting and dynamic world was unfolding back home.
