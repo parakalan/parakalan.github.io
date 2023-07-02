@@ -1,9 +1,9 @@
 ---
-title: Great Work - Brief
-permalink: /great-work-brief
+title: Paul's Commandments
+permalink: /pauls-commandments
 ---
 
-This is a point by point bried of Paul Graham's [Greak Work](http://paulgraham.com/greatwork.html) essay. It is the best of his yet, but it is also too long. I'm going to revisit it multiple times so I made this brief.
+This is a point by point brief of Paul Graham's [Greak Work](http://paulgraham.com/greatwork.html) essay. It is the best of his yet, but it is also too long. I'm going to revisit it multiple times so I made this summary, using ChatGPT.
 
 ## Techniques for Doing Great Work
 
