@@ -4,7 +4,7 @@ title: Why I should be VC
 
 This is a post directed to me. 
 
-I will open it later when I actually join a VC firm, if I am able to, or if I fail to join or become a VC.
+I will publish it later when I actually join a VC firm, if I am able to, or if I fail to join or become a VC. This post was written on 3rd of August, 2023.
 
 I am going to list all the things I think I am good at, and come to a conclusion of what kind of job I will do.
 
