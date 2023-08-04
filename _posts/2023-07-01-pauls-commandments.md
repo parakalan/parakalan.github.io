@@ -3,7 +3,7 @@ title: Paul's Commandments
 permalink: /pauls-commandments
 ---
 
-This is a point by point brief of Paul Graham's [Greak Work](http://paulgraham.com/greatwork.html) essay. It is the best of his yet, but it is also too long. I'm going to revisit it multiple times so I made this summary, using ChatGPT. This is not a substitute for the original article. This is just to read once every month so I stay in course. 
+This is a point by point brief of Paul Graham's [Greak Work](http://paulgraham.com/greatwork.html) essay. It is the best of his yet, but it is also too long. I'm going to revisit it multiple times so I made this summary, using ChatGPT. This is not a substitute for the original article. This is just to read once every month so I stay on course. 
 
 ## Techniques for Doing Great Work
 
