@@ -12,9 +12,12 @@
 
 7. **Vote Share win for BJP in TN.** 10% is great.
 
-8. **My learning - As always, voters are right. So -**
+8. **My learnings - As always, voters are right.**
+   
    a) According to Pradeep Gupta, Dalits were irked in UP. Also supports the rout in Maharashtra.
-   b) Tamil people't see any alt to DMK. It is not BJP (yet).
+
+   b) Tamil people don't see any alternative to DMK. It is not BJP (yet).
+
    c) AP is just done with YSRCP. So is Odisha with BJD, Pandian is not cutting it for them.
 
-9. **Irrespective of the result, India is an amazing democracy.** People punish parties with vote. Parties accept the results. There is no deep state working for or against a person (unlike the US). This is a good learning for all of us, and observers from outside the country.
+10. **Irrespective of the result, India is an amazing democracy.** People punish parties with vote. Parties accept the results. There is no deep state working for or against a person (unlike the US). This is a good learning for all of us, and observers from outside the country.
