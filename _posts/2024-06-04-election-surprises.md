@@ -1,6 +1,6 @@
 1. **Rahul Gandhi and the Congress cannot be written off.** What he said has struck a chord with some people. I think a lot of us (at least me) owe him an apology. Still don't like any of his politics but he's shown that the Twitter echo chamber are not real people.
 
-2. **DMK has done well too.** 40/40 is no easy feat. ADMK is done for. BJP, while vote share is better, has not opened their account. The Tamil people relate with the DMK somehow. Congrats to MKS on this. Very foolishly, I followed Savukku for TN politics and he was terribly wrong.
+2. **DMK has done well too.** 40/40 is no easy feat. ADMK is done for. BJP, while vote share is better, has not opened its account. The Tamil people somehow relate to the DMK. Congrats to MKS on this. Very foolishly, I followed Savukku for TN politics and he was terribly wrong.
 
 3. **BJP has to understand that only a part of their vote % is from Virat Hindus.** If that was true, Ram Mandir effect would still be on, it has clearly not. BJP is trailing in Ayodhya for Rama's sake!
 
