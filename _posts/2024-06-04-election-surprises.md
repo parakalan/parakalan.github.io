@@ -2,7 +2,7 @@
 
 2. **DMK has done well too.** 40/40 is no easy feat. ADMK is done for. BJP, while vote share is better, has not opened their account. The Tamil people relate with the DMK somehow. Congrats to MKS on this. Very foolishly, I followed Savukku for TN politics and he was terribly wrong.
 
-3. **BJP has to understand that only a part of their vote % is from Hindus.** If that was true, Ram Mandir effect would still be on, it has clearly not. BJP is trailing Ayodhya for Rama's sake!
+3. **BJP has to understand that only a part of their vote % is from Virat Hindus.** If that was true, Ram Mandir effect would still be on, it has clearly not. BJP is trailing in Ayodhya for Rama's sake!
 
 4. **There is a recklessness with the Modi-Shah government.** Whether it is inside the parliament or extrajudicial killings in US/Canada. "Gar me ghuske maarenge" is alright in Pakistan (we are not allies), but it is definitely not okay in Western countries (our allies). Not saying voters punished them for the killings, but it is indicative of the recklessness that is being seen everywhere. It spills over. It also pokes the opposition very bad. BJP needs to try to align more with other parties, even if it is the Congress. This 'Twitter Anger' cannot spill over to the real world. Vajpayee was a man to learn from. FFS Karunanidhi, from a diametrically opposite viewpoint aligned with the NDA for that man even if for a short while.
 
