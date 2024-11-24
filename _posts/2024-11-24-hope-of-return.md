@@ -1,5 +1,3 @@
-# Hope of Return
-
 The scent of grandmother's kitchen still lingers in my dreams. Cardamom and cinnamon, the steam rising from the pot as she stirred, her silver bangles jingling with each movement. I was ten when I last saw that kitchen, when I last sat on that worn wooden stool watching her cook.
 
 I remember the night everything changed. The whispers had been growing louder for weeks. Father would come home with worry etched deep in his face, and mother would send us to bed early so the adults could talk. But children have a way of hearing things, of piecing together fragments of hushed conversations.
