@@ -1,5 +1,5 @@
 ---
-title: Vishishtadvaita and Dvaita: How Philosophy's Greatest Students Walked Out
+title: Vishishtadvaita and Dvaita\: How Philosophy's Greatest Students Walked Out
 permalink: /vishishtadvaita-and-dvaita
 ---
 
