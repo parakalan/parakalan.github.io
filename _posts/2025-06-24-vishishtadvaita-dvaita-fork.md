@@ -1,9 +1,8 @@
 ---
-title: Vishishtadvaita and Dvaita #58; How Philosophy's Greatest Students Walked Out
+title: "Vishishtadvaita and Dvaita: How Philosophy's Greatest Students Walked Out"
 permalink: /vishishtadvaita-and-dvaita
+subtitle: The dramatic story of how Ramanujacharya and Madhwacharya broke from Advaita and created their own philosophical highways
 ---
-_The dramatic story of how Ramanujacharya and Madhwacharya broke from Advaita and created their own philosophical highways_
-
 Sankaracharya's Advaita once looked like the default highway of South Indian Vedānta. Then two brilliant students, separated by two centuries but united in their dissatisfaction, walked out of the Advaitic classroom forever.
 
 Ramanujacharya left first, reportedly in tears over how his teacher described the divine. Madhwacharya followed later, rising mid-lecture to list thirty-two logical flaws in the system he was supposed to be learning. Each departure sparked a philosophical revolution that still reverberates today.
