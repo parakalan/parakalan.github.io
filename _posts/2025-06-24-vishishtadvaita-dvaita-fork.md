@@ -1,7 +1,7 @@
 ---
 title: "Vishishtadvaita and Dvaita: Ocean of Equal Light, Ladder of Distinct Flames"
 permalink: /vishishtadvaita-and-dvaita
-subtitle: The dramatic story of how Ramanujacharya and Madhwacharya broke from Advaita and created their own philosophical highways
+description: The dramatic story of how Ramanujacharya and Madhwacharya broke from Advaita and created their own philosophical highways
 ---
 Sankaracharya's Advaita once looked like the default highway of South Indian Vedānta. Then two brilliant students, separated by two centuries but united in their dissatisfaction, walked out of the Advaitic classroom forever.
 
