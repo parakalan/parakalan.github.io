@@ -12,11 +12,11 @@ Ramanujacharya left first, reportedly in tears over how his teacher described th
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/73feb12f-53ad-4963-a567-55e0f79d0eed" />
 
-## Advaita's Two Provocative Claims
+### Advaita's Two Provocative Claims
 
 Before we understand the rebellion, we must grasp what was being rebelled against. Advaita's power lay in two foundational claims that struck at the heart of ordinary religious experience:
 
-### 1\. Non-difference (Abheda)
+#### 1\. Non-difference (Abheda)
 
 Imagine being told that you, your family, the chair you're sitting on, and the entire universe are ultimately illusions, that only one undifferentiated reality exists. This is Advaita's first bombshell, captured in a famous mnemonic that every philosophy student learns:
 
@@ -27,7 +27,7 @@ Imagine being told that you, your family, the chair you're sitting on, and the e
 
 This is a complete reframing of reality that makes all apparent differences ultimately illusory.
 
-### 2\. Quality-less Brahman (Nirguṇa-vāda)
+#### 2\. Quality-less Brahman (Nirguṇa-vāda)
 
 Ultimate Brahman has no positive attributes; words like 'omniscient' or 'loving' belong only to a provisional teaching level. Sankaracharya states this bluntly in his _Brahma-sūtra Bhāṣya_ (1.1.2):
 
@@ -38,9 +38,9 @@ Ultimate Brahman has no positive attributes; words like 'omniscient' or 'loving'
 
 Together, these two claims felt like dynamite under devotion and daily reality. Ramanujacharya and Madhwacharya felt the blast in different spots.
 
-## The Moments the Students Walked Away
+### The Moments the Students Walked Away
 
-### Ramanujacharya and the 'Monkey-Rump Eye'
+#### Ramanujacharya and the 'Monkey-Rump Eye'
 
 The breaking point for Ramanujacharya came during a lecture on _Chāndogya Upaniṣad_ 1.6.7, which describes the divine's eyes:
 
@@ -57,7 +57,7 @@ For Yādavaprakāśa, this was just another example proving that all divine epit
 
 He left the school that day and never returned, later declaring that divine qualities are real, eternal, and worthy of love. It was Advaita's attributeless Brahman, not its non-dualism, that wounded him most deeply and sent him off the philosophical highway to build his own road.
 
-### Madhwacharya and the 'Thirty-Two Errors'
+#### Madhwacharya and the 'Thirty-Two Errors'
 
 Two centuries later, young Vāsudeva (the future Madhwacharya) was studying the Advaita manual _Vākyārtha-candrikā_ under Āchyutaprekṣa. Mid-lecture, he rose from his seat and systematically listed thirty-two logical flaws in the Advaitic system, chiefly that calling the world "false" undercuts perception, ethics, and scripture all at once.
 
@@ -65,11 +65,11 @@ His teacher, stunned by this unprecedented challenge, suggested the student comp
 
 It was Advaita's sweeping _abheda_ doctrine, its claim that all differences are ultimately illusory, that drove him out of the classroom forever.
 
-## How the Two New Roads Collide with Each Other
+### How the Two New Roads Collide with Each Other
 
 Fast-forward to these two mature systems, and the clashes between them become inevitable. Having both rejected Advaita for different reasons, Ramanujacharya and Madhwacharya's traditions now find themselves in fundamental disagreement with each other, a perfect illustration of how philosophical positions, when pursued to their logical extremes, generate new conflicts.
 
-### The Positions of Each Tradition
+#### The Positions of Each Tradition
 
 **According to Madhwacharya:** Eternal damnation (_ananta narakāvasthā_) for some souls, and permanent gradations in liberation (_tāratamya_), even liberated souls experience different degrees of bliss based on their intrinsic capacities.
 
@@ -80,7 +80,7 @@ Fast-forward to these two mature systems, and the clashes between them become in
 
 "It is the destiny of all earthly beings to enter Vaikuṇṭha."
 
-### Viśiṣṭādvaita's Critique of Dvaita: The Problem of Divine Partiality
+#### Viśiṣṭādvaita's Critique of Dvaita: The Problem of Divine Partiality
 
 **Ramanujacharya's Logic:** If God truly possesses limitless compassion and auspicious qualities (_kalyāṇa-guṇa_), He cannot hand out unequal bliss forever nor condemn anyone eternally. A truly loving divine cannot systematically exclude certain souls from liberation. Final liberation must bathe every soul in the same ocean of joy.
 
@@ -91,7 +91,7 @@ Fast-forward to these two mature systems, and the clashes between them become in
 
 Ramanujacharya reads this literally: divine love cannot admit of permanent favorites or outcasts. Madhwacharya's doctrine of eternal damnation (_ananta narakāvasthā_) contradicts the very nature of infinite compassion.
 
-### Dvaita's Critique of Viśiṣṭādvaita: The Problem of Distinction Collapse
+#### Dvaita's Critique of Viśiṣṭādvaita: The Problem of Distinction Collapse
 
 **Madhwacharya's Logic:** If difference is ultimate, and Viśiṣṭādvaita accepts this against Advaita, then these differences cannot dissolve at the gates of liberation. Souls keep their natural "sizes"; bliss fills each to its brim, but volumes differ (_tāratamya_). Flatten that ladder and Advaita's oneness sneaks back through the side door.
 
@@ -109,7 +109,7 @@ Madhwacharya reads this as a stepped ladder of pleasures that continues even in 
 
 The two schools agree that the world is real, the Lord supreme, and devotion essential. They duel only at the edges, eternal hierarchy versus leveled love, graded bliss versus equal liberation.
 
-## How Core Commitments Generate Conflicts
+### How Core Commitments Generate Conflicts
 
 What emerges from this analysis is a fascinating pattern of philosophical genetics. Each school's core commitments generate specific problems that drive them toward particular solutions, and into conflict with alternatives.
 
