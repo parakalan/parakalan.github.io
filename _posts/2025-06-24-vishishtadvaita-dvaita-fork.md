@@ -1,3 +1,8 @@
+---
+title: Vishishtadvaita and Dvaita: How Philosophy's Greatest Students Walked Out
+permalink: /vishishtadvaita-and-dvaita
+---
+
 # Vishishtadvaita and Dvaita: How Philosophy's Greatest Students Walked Out
 
 _The dramatic story of how Ramanujacharya and Madhwacharya broke from Advaita and created their own philosophical highways_
