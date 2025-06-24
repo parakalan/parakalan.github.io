@@ -1,5 +1,5 @@
 ---
-title: "Vishishtadvaita and Dvaita: How Philosophy's Greatest Students Walked Out"
+title: "Vishishtadvaita and Dvaita: Ocean of Equal Light, Ladder of Distinct Flames"
 permalink: /vishishtadvaita-and-dvaita
 subtitle: The dramatic story of how Ramanujacharya and Madhwacharya broke from Advaita and created their own philosophical highways
 ---
