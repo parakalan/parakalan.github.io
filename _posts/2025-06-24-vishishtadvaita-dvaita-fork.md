@@ -13,11 +13,11 @@ Ramanujacharya left first, reportedly in tears over how his teacher described th
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
   src="https://scontent.fblr2-3.fna.fbcdn.net/v/t1.6435-9/127864454_2763765527224774_6941918208179891654_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=-ukh93QMJu4Q7kNvwFOwMqG&_nc_oc=AdkdazOgFGCCnTHuxPBhE068Xv_dbLb_EXZPo6djU6niYg_uOI1ZI2EzAI50K5OVGFEuM3AdgfzwFK3jELCwz_NU&_nc_zt=23&_nc_ht=scontent.fblr2-3.fna&_nc_gid=NeFqM_E1p6gDM_EhNvJ_Eg&oh=00_AfM9lVeKg3OLgAsTo-P7B9wqlqvITwc3e5th0Pyv6b42Jg&oe=6881A187"
-  height="600"
+  height="500"
 />
 <img
   src="https://scontent.fblr2-3.fna.fbcdn.net/v/t39.30808-6/506896732_3472374566235748_6037291709116899122_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=0b6b33&_nc_ohc=Oj_Yo29a4U0Q7kNvwGtRZZO&_nc_oc=Adn00E1BwtBf0zOnmjLnRU-vn3SJhACX1oNrwkZ8LwGmoBvD6q7FfC7wbKx4aJG6CJDNONG6Vcx5lDrrfm8c6g-C&_nc_zt=23&_nc_ht=scontent.fblr2-3.fna&_nc_gid=i1sFW0vNqaXXAJP8bUKUJQ&oh=00_AfM8tiKsuLEOoad1sHa2KItLsiYL_bMkXr5Bus9wJGPNsw&oe=685FF8D9"
-  height="600"
+  height="500"
   />
 </p>
 
