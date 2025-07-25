@@ -43,7 +43,7 @@ The advantage? No composition problem. Vishnu isn't made up of parts—He simply
 
 Ramanuja's followers see substances with qualities. When you say "blue pot," you're talking about two distinct but inseparable aspects: a pot (dravya/substance) that has blueness (adravya/quality). They're related but not identical.
 
-God is the dravya (divine substance) who possesses multiple adravya (divine qualities like truth, compassion, beauty). These qualities are real and distinct from each other, but depend on Him for their existence. There was no time when he was without the adravya, but the adravya is separate.
+God is the dravya (divine substance) who possesses multiple adravya (divine qualities like truth, compassion, beauty). These qualities are real and distinct from each other, but depend on Him for their existence. There was no time when He was without the adravya, but the adravya is distinct, though eternally associated with Him.
 
 The advantage? This allows the same God to have genuinely different qualities. You can meditate specifically on His compassion today, His beauty tomorrow—these are genuinely different experiences while still involving the same God.
 
@@ -53,7 +53,7 @@ The advantage? This allows the same God to have genuinely different qualities. Y
 
 There are actually two deep anxieties driving the Vishishtadvaita position:
 
-First, the kalyanaguna problem: For Sri Vaishnavas, **each divine quality deserves individual reverence**. When you meditate on God's karuna (compassion), that's a genuinely different experience from meditating on His saundarya (beauty) or satya (truth). Each kalyanaguna is a distinct object of devotional focus worthy of separate contemplation.
+First, the kalyanaguna problem: For Sri Vaishnavas, **each divine quality deserves individual reverence**, and when you meditate on God's karuna (compassion), that's a genuinely different experience from meditating on His saundarya (beauty) or satya (truth). Each kalyanaguna is a distinct object of devotional focus worthy of separate contemplation.
 
 If God's qualities are intrinsic and non-composite (Madhva position), then all divine perfections coalesce into one undifferentiated divine nature. You lose the ability to give each kalyanaguna the individual respect it deserves. This isn't just philosophical—it undermines the Alvar devotional tradition where different hymns focus on different divine qualities.
 
@@ -63,7 +63,7 @@ Second, the sarira-sariri problem: If God is not composite of qualities, He's no
 
 If "blue pot" means blue + pot, and "red pot" means red + pot, then both have the same underlying "pot"—some generic, attribute-less substrate. We're dangerously close to Advaitic thinking where there's one undifferentiated reality beneath all apparent differences.
 
-For Madhvacharya: "Brahman is the fullness of qualities, and by its own intrinsic nature" produces the world. God's compassion, omniscience, and beauty aren't separate entities that "belong to" Him—they ARE what He intrinsically IS. No composition, no separation, no risk of quality-less divinity.
+As Madhvacharya taught: "Brahman is the fullness of qualities, and by its own intrinsic nature" produces the world. God's compassion, omniscience, and beauty aren't separate entities that "belong to" Him—they ARE what He intrinsically IS. No composition, no separation, no risk of quality-less divinity.
 
 ## The Takeaway
 
@@ -73,6 +73,6 @@ Visishtadvaitis worry: *"Without the dravya-adravya distinction, we can't mainta
 
 Dvaitis worry: *"With the dravya-adravya distinction, we might slide into quality-less monism that destroys God's intrinsic personal nature."*
 
-What's remarkable is how complete these philosophical systems are. They can't just ignore this seemingly abstract distinction—their entire siddhanta depends on taking a clear position. Every detail matters because everything connects to everything else in a comprehensive worldview.
+What's remarkable is how complete these philosophical systems are. They couldn’t afford to ignore this seemingly abstract distinction—their entire siddhanta depends on taking a clear position. Every detail matters because everything connects to everything else in a comprehensive worldview.
 
 The medieval Indian philosophers knew these weren't just intellectual puzzles—they were existential questions about the nature of spiritual existence itself.
