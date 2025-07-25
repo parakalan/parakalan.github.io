@@ -31,7 +31,7 @@ This matters because the same logical structure applies to understanding God's n
 
 Madhva's followers see unified entities. When you say "blue pot," you're describing one bluepot—a single reality that is inherently blue-pot-ish. The blueness isn't something separate that got attached; it's intrinsic to this particular entity's nature.
 
-Vishnu's compassion, beauty, and sovereignty aren't separate qualities that got "added on." They're expressions of His inherent divine nature. When we experience His compassion versus His beauty, we're experiencing different aspects of one complete, indivisible divine Person.
+Vishnu's compassion, beauty, and sovereignty aren't separate qualities that got "added on." They're expressions of His inherent divine nature.
 
 The advantage? No composition problem. Vishnu isn't made up of parts—He simply is compassionate, beautiful, sovereign by His very nature.
 
@@ -39,11 +39,11 @@ The advantage? No composition problem. Vishnu isn't made up of parts—He simply
 
 Ramanuja's followers see substances with qualities. When you say "blue pot," you're talking about two distinct but inseparable aspects: a pot (dravya/substance) that has blueness (adravya/quality). They're related but not identical.
 
-God is the dravya (divine substance) who possesses multiple adravya (divine qualities like truth, compassion, beauty). These qualities are real and distinct from each other, but depend on Him for their existence.
+God is the dravya (divine substance) who possesses multiple adravya (divine qualities like truth, compassion, beauty). These qualities are real and distinct from each other, but depend on Him for their existence. There was no time when he was without the adravya, but the adravya is separate and added on to him.
 
 The advantage? This allows the same God to have genuinely different qualities. You can meditate specifically on His compassion today, His beauty tomorrow—these are genuinely different experiences while still involving the same God.
 
-## The Problem Each Side Sees
+## Why worry about this?
 
 ### What Worries the Vishishtadvaitis
 
