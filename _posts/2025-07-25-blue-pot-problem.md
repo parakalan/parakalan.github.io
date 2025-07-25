@@ -20,7 +20,7 @@ When you say "blue pot," are you talking about:
 1. One unified entity that is inherently blue-pot-ish? 
 2. A pot (substance) that has blueness (quality) - two distinct but related aspects?
 
-This matters because the same logical structure applies to understanding God's nature. When we say God is "Satyavan" (truthful entity), does it mean:
+This matters because the same logical structure applies to understanding God's nature. When we say God is "Satyavan", does it mean:
 
 1. God possesses truthfulness (like a pot possesses blueness - substance + quality)
 2. God just IS the Truthful One (like a unified "truthful-God" entity)
