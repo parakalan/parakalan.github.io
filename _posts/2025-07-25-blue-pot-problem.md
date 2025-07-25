@@ -1,8 +1,12 @@
 ---
 title: "The Blue Pot Problem"
 permalink: /blue-pot-problem
+redirect_from:
+  - /vishishtadvaitis-blue-pot
+  - /dvaitis-bluepot
 subtitle: Is it a bluepot or a blue pot?
 ---
+
 
 What do you see here: a blue pot or a bluepot?
 
