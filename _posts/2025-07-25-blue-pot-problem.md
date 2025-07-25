@@ -1,6 +1,6 @@
 ---
 title: "The Blue Pot Problem"
-permalink: /vishishtadvaita-and-dvaita-2
+permalink: /blue-pot-problem
 subtitle: Is it a bluepot or a blue pot?
 ---
 
