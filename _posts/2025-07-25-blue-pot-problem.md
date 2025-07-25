@@ -1,6 +1,12 @@
+---
+title: "The Blue Pot Problem"
+permalink: /vishishtadvaita-and-dvaita-2
+subtitle: Is it a bluepot or a blue pot?
+---
+
 What do you see here: a blue pot or a bluepot?
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c47748a1-ea3a-4a56-a26d-583b651ea514" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c51ffeb2-be05-4687-8462-ce84f563d096" />
 
 Sounds like a pedantic question, right? Like asking whether you're eating "fried rice" or "friedrice"—who cares about the spacing?
 
