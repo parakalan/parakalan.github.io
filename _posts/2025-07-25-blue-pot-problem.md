@@ -14,9 +14,9 @@ What do you see here: a blue pot or a bluepot?
 
 Sounds like a pedantic question, right? Like asking whether you're eating "fried rice" or "friedrice"—who cares about the spacing?
 
-But this distinction sparked a sophisticated theological debate in southern India that is supposed to shape how people understand their relationship with the divine.
+But this distinction sparked a sophisticated theological debate in southern India that has shaped how people understand their relationship with the divine.
 
-In my [previous post](https://sudhar.xyz/vishishtadvaita-and-dvaita), I explored the fundamental differences between Visishtadvaita and Dvaita philosophy - starting from how they forked off Advaita. In this post, I talk about a subtler disagreement that reveals something fascinating about how theological anxiety drives philosophical innovation.
+In my [previous post](https://sudhar.xyz/vishishtadvaita-and-dvaita), I explored the fundamental differences between Vishishtadvaita and Dvaita philosophy - starting from how they forked off Advaita. In this post, I explore a subtler disagreement that reveals something fascinating about how theological anxiety drives philosophical innovation.
 
 ## The Question That Matters
 
@@ -27,7 +27,7 @@ When you say "blue pot," are you talking about:
 This matters because the same logical structure applies to understanding God's nature. When we say God is "Satyavan", does it mean:
 
 1. God possesses truthfulness (like a pot possesses blueness - substance + quality)
-2. God just IS the Truthful One (like a unified "truthful-God" entity)
+2. God just IS the Truthful One (like a unified "Truthful-God" entity)
 
 ## Two Ways of Seeing Reality
 
@@ -35,7 +35,7 @@ This matters because the same logical structure applies to understanding God's n
 
 Madhva's followers see unified entities. When you say "blue pot," you're describing one bluepot—a single reality that is inherently blue-pot-ish. The blueness isn't something separate that got attached; it's intrinsic to this particular entity's nature.
 
-Vishnu's compassion, beauty, and sovereignty aren't separate qualities that got "added on." They're expressions of His inherent divine nature.
+God isn't composed of compassion, omniscience, and beauty—they are what He intrinsically is.
 
 The advantage? No composition problem. Vishnu isn't made up of parts—He simply is compassionate, beautiful, sovereign by His very nature.
 
@@ -43,7 +43,7 @@ The advantage? No composition problem. Vishnu isn't made up of parts—He simply
 
 Ramanuja's followers see substances with qualities. When you say "blue pot," you're talking about two distinct but inseparable aspects: a pot (dravya/substance) that has blueness (adravya/quality). They're related but not identical.
 
-God is the dravya (divine substance) who possesses multiple adravya (divine qualities like truth, compassion, beauty). These qualities are real and distinct from each other, but depend on Him for their existence. There was no time when he was without the adravya, but the adravya is separate and added on to him.
+God is the dravya (divine substance) who possesses multiple adravya (divine qualities like truth, compassion, beauty). These qualities are real and distinct from each other, but depend on Him for their existence. There was no time when he was without the adravya, but the adravya is separate.
 
 The advantage? This allows the same God to have genuinely different qualities. You can meditate specifically on His compassion today, His beauty tomorrow—these are genuinely different experiences while still involving the same God.
 
@@ -51,9 +51,9 @@ The advantage? This allows the same God to have genuinely different qualities. Y
 
 ### What Worries the Vishishtadvaitis
 
-There are actually two deep anxieties driving the Visishtadvaita position:
+There are actually two deep anxieties driving the Vishishtadvaita position:
 
-First, the kalyanaguna problem: For Sri Vaishnavas, **each divine quality deserves individual reverence**. When you meditate on God's karuna (compassion), that's genuinely different from meditating on His saundarya (beauty) or satya (truth). Each kalyanaguna is a distinct object of devotional focus worthy of separate contemplation.
+First, the kalyanaguna problem: For Sri Vaishnavas, **each divine quality deserves individual reverence**. When you meditate on God's karuna (compassion), that's a genuinely different experience from meditating on His saundarya (beauty) or satya (truth). Each kalyanaguna is a distinct object of devotional focus worthy of separate contemplation.
 
 If God's qualities are intrinsic and non-composite (Madhva position), then all divine perfections coalesce into one undifferentiated divine nature. You lose the ability to give each kalyanaguna the individual respect it deserves. This isn't just philosophical—it undermines the Alvar devotional tradition where different hymns focus on different divine qualities.
 
@@ -75,4 +75,4 @@ Dvaitis worry: *"With the dravya-adravya distinction, we might slide into qualit
 
 What's remarkable is how complete these philosophical systems are. They can't just ignore this seemingly abstract distinction—their entire siddhanta depends on taking a clear position. Every detail matters because everything connects to everything else in a comprehensive worldview.
 
-The medieval Indian philosophers knew these weren't just intellectual puzzles—they were life-and-death questions about the nature of spiritual existence itself.
+The medieval Indian philosophers knew these weren't just intellectual puzzles—they were existential questions about the nature of spiritual existence itself.
