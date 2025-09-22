@@ -1,6 +1,4 @@
-# Tu Mājhi Māuli - Sant Tukaram's Abhang
-
-I have been getting into Abhangs about Vittala of Pandharpur. This one beautifully captures the maternal aspect of divine love through nature's metaphors. It mirrors the sentiment found in Kulasekara Azhwar's "Tharu thuyaram thadayel" from Perumal Thirumozhi, where the devotee approaches the Divine with vulnerability and total dependence
+I have been getting into Abhangs about Vittala of Pandharpur. This one by Sant Tukaram beautifully captures the maternal aspect of divine love through nature's metaphors. It mirrors the sentiment found in Kulasekara Azhwar's "Tharu thuyaram thadayel" from Perumal Thirumozhi, where the devotee approaches the Divine with vulnerability and total dependence
 
 _तू माझी माउली, मी तुझे लेंकरू,<br>
 नको दूरी ठरू, विठ्ठल बाई<br>
@@ -42,6 +40,6 @@ _तुका म्हणे गायी - धवळा हरी,<br>
 Tuka says while singing, white-clad Hari came running.<br>
 I'm drowning in worldly existence - O Vittala!<br>
 
-**Note:** This transcription is based on what I hear in recordings. I couldn't find an authoritative source even in Maharashtra government's official Tukaram collections. If you know this abhang or Marathi better, please feel free to correct any errors.
+**Note:** This transcription is based on what I hear in recordings. I couldn't find an authoritative source even in Maharashtra government's official Sant Tukaram collections. If you know this abhang or Marathi better, please feel free to correct any errors.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height=500 style="float: right;  margin-left: 20px;" src="https://github.com/user-attachments/assets/08a265ae-b060-41d6-a31f-8298b78556a3">
+<img height=500 style="float: right;  margin-left: 20px;" src="https://github.com/user-attachments/assets/08a265ae-b060-41d6-a31f-8298b78556a3">
