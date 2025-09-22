@@ -41,5 +41,3 @@ Tuka says while singing, white-clad Hari came running.<br>
 I'm drowning in worldly existence - O Vittala!<br>
 
 **Note:** This transcription is based on what I hear in recordings. I couldn't find an authoritative source even in Maharashtra government's official Sant Tukaram collections. If you know this abhang or Marathi better, please feel free to correct any errors.
-
-<img height=500 style="float: right;  margin-left: 20px;" src="https://github.com/user-attachments/assets/08a265ae-b060-41d6-a31f-8298b78556a3">
