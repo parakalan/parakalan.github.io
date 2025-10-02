@@ -1,5 +1,5 @@
 ---
-title: "A Tribute to Paati"
+title: "A Tribute to Paati | Enakkoru nalvazhi"
 permalink: /a-tribute-to-paati
 ---
 <img src="images/paati.jpeg" height="500"/>
