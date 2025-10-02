@@ -7,6 +7,11 @@ My paati (grandmother), Mrs. Alamelu Thirumalai, was born this day, October 2 in
 
 I have added my notes below. What emerges is a composition that works simultaneously as accessible devotional poetry and sophisticated theological meditation. Paati's "Alamelu" mudra places her squarely within the Carnatic kriti tradition, while her systematic use of scriptural references, Alwar quotations, and linguistic theology shows someone who lived so deeply within the Sri Vaishnava tradition that these connections emerged naturally through devotional expression. 
 
+
+![](../images/azhagiya_manavalan.jpeg)
+*அரையர்கள் பண் பாடும் அழகியமாணவாளன்*
+
+
 **Ragam:** Simhendramadyamam<br>
 **Talam:** Adi
 
@@ -52,11 +57,11 @@ O blissful form to whom Alamelu bows<br>
 
 [^1]: The opening "எனக்கொரு நல்வழி காட்டும் ஐயா" reminds me of Arjuna's moment in the Gita:<br>*कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः*<br>*यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्* (BG 2.7)<br>"I'm overwhelmed by weakness and confused about dharma. Please tell me decisively what's best - I'm your disciple, guide me." Same energy of total surrender when you're lost.
 
-[^2]: "உன் கோயில் வாசல் வந்து பணிந்து நின்றோம்" situates us at Srirangam itself. Which entrance/vaasal? Srirangam has three main entrances, and if she lived near Therku Chithirai Veedhi like I suspect, maybe she had a specific one in mind - the Ranga Ranga gopuram as locals call it, or the more archaic 'Naanmugan Thiruvasal'
+[^2]: "உன் கோயில் வாசல் வந்து பணிந்து நின்றோம்" situates us at Srirangam itself. Which entrance/vaasal is paati talking about? Srirangam has three main entrances, and if she lived near Therku Chithirai Veedhi like I suspect, maybe she had a specific one in mind - the Ranga Ranga gopuram as locals call it, or the more archaic 'Naanmugan Thiruvasal'
 
-[^3]: "பொன்னிசூழ் அரங்கனே" establishes Srirangam's sacred geography - the Lord surrounded by Ponni, or the Kaveri. This echoes Thirumazhisai Azhwar's "பொன்னிசூழ ரங்கமேய பூவைவண்ணமாயகேள்" from Thiruchandhavirutham (119).
+[^3]: "பொன்னிசூழ் அரங்கனே" establishes Srirangam's sacred geography - the Lord surrounded by Ponni, the Kaveri, every close to Thirumazhisai Azhwar's "பொன்னிசூழ ரங்கமேய பூவைவண்ணமாயகேள்" from Thiruchandhavirutham (119).
 
-[^4]: "பூமகள் நாயகனே" is intriguing because it depends on pronunciation. If "பூமகள்" (poomagal), it refers to Sridevi, the divine consort. But if pronounced "பூமகள்" (boomagal), it's Bhuma Devi - the all-patient Earth goddess. Nammazhwar's "மாதர் மா மண்மடந்தை" (Thiruvaimozhi 4.2.6) celebrates her as the one who tolerates and sustains all - the epitome of patient endurance. A trait that was predominant in my grandmother too.
+[^4]: "பூமகள் நாயகனே" is intriguing because who it refers to depends on pronunciation. If "பூமகள்" (poomagal), it refers to Sridevi, the divine consort. But if pronounced "பூமகள்" (boomagal), it's Bhuma Devi - the all-patient Earth goddess. Nammazhwar's "மாதர் மா மண்மடந்தை" (Thiruvaimozhi 4.2.6) celebrates her as the one who tolerates and sustains all - the epitome of patient endurance. A trait that was predominant in my grandmother too.
 
 [^5]: Here's where it gets interesting. Look at the charanam - every half-phrase starts with 'A': "annai, archikkum, AzhwArgal, anantasayanane, araiyargal, azhagiya, alamelu,Anandha." That's eight 'A' sounds opening each line. Reminds me of Parasara Bhattar's Ashtasloki (Ah, eight shlokas) which starts with this line:<br>*अकारार्थो विष्णुः जगदुदय रक्षा प्रलय कृत्*<br>"The letter 'a' stands for Vishnu, creator-protector-destroyer of the universe."
 
