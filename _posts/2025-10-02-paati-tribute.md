@@ -7,13 +7,19 @@ permalink: /a-tribute-to-paati
 
 My paati (grandmother), Mrs. Alamelu Thirumalai, pictured above, was born this day, October 2 in 1931. She was a pious woman well versed in Tamil. She composed her own songs, and this particular composition has stayed with me since childhood. I wanted to preserve it here, right now it exists only in the memories of my mother and other relatives. 
 
-I have added my notes below. What emerges is a composition that works simultaneously as accessible devotional poetry and sophisticated theological meditation. Look at the epithets she has for the good Lord! ரங்கய்யா (Rangayya), பொன்னிசூழ் அரங்கனே (Lord of Arangam surrounded by the Ponni), பூமகள் நாயகனே (Consort of Bhumi), அரங்கராஜனே (King of Arangam), மாயவனே (The Mysterious One), அனந்தசயனனே (One who reclines on Ananta), அழகிய மாணவாளா (Beautiful Bridegroom), ஆனந்த ரூபனே (Form of Bliss).
+I have added my notes below. What emerges is a composition that works simultaneously as accessible devotional poetry and sophisticated theological meditation. Look at all the epithets she has for the good Lord - ரங்கய்யா (rangayya), பொன்னிசூழ் அரங்கனே (ponnisoozh arangane), பூமகள் நாயகனே (poomagal nayagane), அரங்கராஜனே (arangarAjane), அனந்தசயனனே (anantasayanane), அழகிய மாணவாளா (azhagiyamanavalA), ஆனந்த ரூபனே (Anandharoopane)!
 
 Paati's "Alamelu" mudra places her squarely within the Carnatic kriti tradition, while her systematic use of scriptural references, Alwar quotations, and linguistic theology shows someone who lived so deeply within the Sri Vaishnava tradition that these connections emerged naturally through devotional expression.
 
 
 **Ragam:** Simhendramadyamam<br>
 **Talam:** Adi
+
+_Rendition by my sister <a href="https://www.linkedin.com/in/jananisrikanth" target="blank">Janani Srikanth</a>_
+<audio controls>
+  <source src="assets/enakkoru_nalvazhi.mp4" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
 
 ---
 
@@ -68,7 +74,8 @@ O blissful form to whom Alamelu bows<br>
 
 [^7]: "Alamelu" is her mudra. Now, Alamelumanga is the consort of Srinivasa of Thiruvengadam (Tirupati), not Srirangam's, so why invoke her? Here's the thing - Thirumangai Azhwar's "வெருவாதாள் வாய்வெருவி வேங்கடமே வேங்கடமே எங்கின்றாளால்" shows how even when singing about Srirangam, the heart can yearn for Venkatam in nayika bhavam. Similarly, paati sees Alamelumanga in Sri Ranganachiyar - the same divine principle appearing in different places.
 
-[^8]: "ஆனந்த ரூபனே" echoes Adi Shankaracharya's Ranganathashtakam, which opens with "ānandha rūpe."
+[^8]: "ஆனந்த ரூபனே" echoes Adi Shankaracharya's Ranganathashtakam, which opens with "ānandha rūpe."<br><img src="images/azhagiya_manavalan.jpeg" height="500"/>
+
 
 --- 
 
