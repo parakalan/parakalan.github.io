@@ -8,8 +8,7 @@ My paati (grandmother), Mrs. Alamelu Thirumalai, was born this day, October 2 in
 I have added my notes below. What emerges is a composition that works simultaneously as accessible devotional poetry and sophisticated theological meditation. Paati's "Alamelu" mudra places her squarely within the Carnatic kriti tradition, while her systematic use of scriptural references, Alwar quotations, and linguistic theology shows someone who lived so deeply within the Sri Vaishnava tradition that these connections emerged naturally through devotional expression. 
 
 
-![](../images/azhagiya_manavalan.jpeg)
-*அரையர்கள் பண் பாடும் அழகியமாணவாளன்*
+![](../images/paati.jpeg)
 
 
 **Ragam:** Simhendramadyamam<br>
