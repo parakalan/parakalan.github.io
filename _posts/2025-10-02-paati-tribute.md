@@ -1,5 +1,9 @@
+---
+title: "A Tribute to Paati"
+permalink: /a-tribute-to-paati
+---
 
-My grandmother, Mrs. Alamelu Thirumalai, was born this day, October 2 in 1931. She was a pious woman well versed in Tamil. She composed her own songs, and this particular composition has stayed with me since childhood. I wanted to preserve it here, right now it exists only in the memories of my mother and other relatives who remember her singing it.
+My paati (grandmother), Mrs. Alamelu Thirumalai, was born this day, October 2 in 1931. She was a pious woman well versed in Tamil. She composed her own songs, and this particular composition has stayed with me since childhood. I wanted to preserve it here, right now it exists only in the memories of my mother and other relatives. 
 
 I have added my notes below. What emerges is a composition that works simultaneously as accessible devotional poetry and sophisticated theological meditation. Paati's "Alamelu" mudra places her squarely within the Carnatic kriti tradition, while her systematic use of scriptural references, Alwar quotations, and linguistic theology shows someone who lived so deeply within the Sri Vaishnava tradition that these connections emerged naturally through devotional expression. 
 
