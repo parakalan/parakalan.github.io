@@ -15,10 +15,10 @@ Paati's "Alamelu" mudra places her squarely within the Carnatic kriti tradition,
 **Ragam:** Simhendramadyamam<br>
 **Talam:** Adi
 
-_Rendition by my mother Rengamani Thirumalai</a>_
+_Rendition by my mother Rengamani Thirumalai_
 <audio controls>
   <source src="assets/enakkoru_nalvazhi.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
+  Your browser does not support this audio element.
 </audio>
 
 ---
