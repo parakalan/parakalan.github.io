@@ -1,6 +1,8 @@
 
 My grandmother, Mrs. Alamelu Thirumalai, was born this day, October 2 in 1931. She was a pious woman well versed in Tamil. She composed her own songs, and this particular composition has stayed with me since childhood. I wanted to preserve it here, right now it exists only in the memories of my mother and other relatives who remember her singing it.
 
+I have added my notes below. What emerges is a composition that works simultaneously as accessible devotional poetry and sophisticated theological meditation. Paati's "Alamelu" mudra places her squarely within the Carnatic kriti tradition, while her systematic use of scriptural references, Alwar quotations, and linguistic theology shows someone who lived so deeply within the Sri Vaishnava tradition that these connections emerged naturally through devotional expression. 
+
 **Ragam:** Simhendramadyamam
 **Talam:** Adi
 
@@ -21,44 +23,38 @@ We have come to Your temple entrance and stand bowing, Rangayya!<br>
 
 **Anupallavi:**
 
-பொன்னிசூழ் அரங்கனே[^3], பூமகள் நாயகனே[^4]
-
-அரவணை துயில் கொள்ளும் அரங்கராஜனே
-
-
-*ponnisoozh arangane, poomagal nayagane*
-
-*aravanai thuyil kollum arangarAjane*
-
-
-O Lord of Arangam surrounded by the Ponni (Cauvery), O consort of Bhumi
-
-O King of Arangam who sleeps on the serpent bed
+பொன்னிசூழ் அரங்கனே[^3], பூமகள் நாயகனே[^4]<br>
+அரவணை துயில் கொள்ளும் அரங்கராஜனே<br>
+<br>
+*ponnisoozh arangane, poomagal nayagane*<br>
+*aravanai thuyil kollum arangarAjane*<br>
+<br>
+O Lord of Arangam surrounded by the Ponni (Cauvery), O consort of Bhumi<br>
+O King of Arangam who sleeps on the serpent bed<br>
 
 ---
 
 **Charanam:** [^5]
 
-அன்னை ரெங்கநாயகி அர்ச்சிக்கும் மாயவனே,
-ஆழ்வார்கள் பணிந்திடும் அனந்தசயனனே,
-அரையர்கள் பண் பாடும் அழகிய மாணவாளா,
-அலமேலு பணிந்திடும் ஆனந்த ரூபனே
-
-*annai ranganayaki archikkum mayavane,* 
-*azhwargal paninthidum anantasayanane*
-*araiyargal pan pAdum azhagiya manavAla,* 
-*alamelu paninthidum Anandha roopane*
-
-O the mysterious Lord whom Mother Renganayaki worships, 
-O Anantasayana to whom the Alwars bow
-O Azhagiya Manavala to whom the Araiyars sing the Divya Prabandham,
-O blissful form to whom Alamelu bows
+அன்னை ரெங்கநாயகி அர்ச்சிக்கும் மாயவனே,<br>
+ஆழ்வார்கள் பணிந்திடும் அனந்தசயனனே,<br>
+அரையர்கள் பண் பாடும் அழகிய மாணவாளா,<br>
+அலமேலு பணிந்திடும் ஆனந்த ரூபனே<br>
+<br>
+*annai ranganayaki archikkum mayavane,*<br>
+*azhwargal paninthidum anantasayanane*<br>
+*araiyargal pan pAdum azhagiya manavAla,*<br>
+*alamelu paninthidum Anandha roopane*<br>
+<br>
+O the mysterious Lord whom Mother Renganayaki worships,<br>
+O Anantasayana to whom the Alwars bow<br>
+O Azhagiya Manavala to whom the Araiyars sing the Divya Prabandham,<br>
+O blissful form to whom Alamelu bows<br>
 
 ---
 
 ## Notes
 
-What emerges is a composition that works simultaneously as accessible devotional poetry and sophisticated theological meditation. Paati's "Alamelu" mudra places her squarely within the Carnatic kriti tradition, while her systematic use of scriptural references, Alwar quotations, and linguistic theology shows someone who lived so deeply within the Sri Vaishnava tradition that these connections emerged naturally through devotional expression. This is more than a family song - it's a bridge spanning centuries, connecting her individual devotion to the unbroken chain stretching from the Alwars through the Araiyars to her own musical offering.
 
 [^1]: The opening "எனக்கொரு நல்வழி காட்டும் ஐயா" reminds me of Arjuna's moment in the Gita:
 *कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः*
