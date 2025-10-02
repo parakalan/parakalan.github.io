@@ -9,9 +9,9 @@ My grandmother, Mrs. Alamelu Thirumalai, was born this day, October 2 in 1931. S
 
 **Pallavi:**
 
-எனக்கொரு நல்வழி காட்டும் ஐயா[^1]
+எனக்கொரு நல்வழி காட்டும் ஐயா [^1]
 
-உன் கோயில் வாசல் வந்து[^2], பணிந்து நின்றோம் ரங்கய்யா - எனக்கொரு
+உன் கோயில் வாசல் வந்து [^2], பணிந்து நின்றோம் ரங்கய்யா - எனக்கொரு
 
 *enakkoru nal vazhi kAttum ayyA*
 
@@ -25,7 +25,7 @@ We have come to Your temple entrance and stand bowing, Rangayya!
 
 **Anupallavi:**
 
-பொன்னிசூழ் அரங்கனே[^3], பூமகள் நாயகனே[^4]
+பொன்னிசூழ் அரங்கனே [^3], பூமகள் நாயகனே [^4]
 
 அரவணை துயில் கொள்ளும் அரங்கராஜனே
 
@@ -39,7 +39,7 @@ O King of Arangam who sleeps on the serpent bed
 
 ---
 
-**Charanam:**[^5]
+**Charanam:** [^5]
 
 அன்னை ரெங்கநாயகி அர்ச்சிக்கும் மாயவனே,
 
@@ -71,7 +71,7 @@ O blissful form to whom Alamelu bows
 
 ## Notes
 
-[^1] The opening "எனக்கொரு நல்வழி காட்டும் ஐயா" reminds me of Arjuna's moment in the Gita:
+[^1]: The opening "எனக்கொரு நல்வழி காட்டும் ஐயா" reminds me of Arjuna's moment in the Gita:
 
 *कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः*
 *यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्* (BG 2.7)
@@ -79,22 +79,22 @@ O blissful form to whom Alamelu bows
 "I'm overwhelmed by weakness and confused about dharma. Please tell me decisively what's best - I'm your disciple, guide me." Same energy of total surrender when you're lost.
 
 
-[^2] "உன் கோயில் வாசல் வந்து பணிந்து நின்றோம்" situates us at Srirangam itself. Which entrance/vaasal? Srirangam has three main entrances, and if she lived near Therku Chithirai Veedhi like I suspect, maybe she had a specific one in mind - the Ranga Ranga gopuram as locals call it, or the more archaic 'Naanmugan Thiruvasal'
+[^2]: "உன் கோயில் வாசல் வந்து பணிந்து நின்றோம்" situates us at Srirangam itself. Which entrance/vaasal? Srirangam has three main entrances, and if she lived near Therku Chithirai Veedhi like I suspect, maybe she had a specific one in mind - the Ranga Ranga gopuram as locals call it, or the more archaic 'Naanmugan Thiruvasal'
 
-[^3] "பொன்னிசூழ் அரங்கனே" establishes Srirangam's sacred geography - the Lord surrounded by Ponni, or the Kaveri. This echoes Thirumazhisai Azhwar's "பொன்னிசூழ ரங்கமேய பூவைவண்ணமாயகேள்" from Thiruchandhavirutham (119).
+[^3]: "பொன்னிசூழ் அரங்கனே" establishes Srirangam's sacred geography - the Lord surrounded by Ponni, or the Kaveri. This echoes Thirumazhisai Azhwar's "பொன்னிசூழ ரங்கமேய பூவைவண்ணமாயகேள்" from Thiruchandhavirutham (119).
 
-[^4] "பூமகள் நாயகனே" is intriguing because it depends on pronunciation. If "பூமகள்" (poomagal), it refers to Sridevi, the divine consort. But if pronounced "பூமகள்" (boomagal), it's Bhuma Devi - the all-patient Earth goddess. Nammazhwar's "மாதர் மா மண்மடந்தை" (Thiruvaimozhi 4.2.6) celebrates her as the one who tolerates and sustains all - the epitome of patient endurance. A trait that was predominant in my grandmother too.
+[^4]: "பூமகள் நாயகனே" is intriguing because it depends on pronunciation. If "பூமகள்" (poomagal), it refers to Sridevi, the divine consort. But if pronounced "பூமகள்" (boomagal), it's Bhuma Devi - the all-patient Earth goddess. Nammazhwar's "மாதர் மா மண்மடந்தை" (Thiruvaimozhi 4.2.6) celebrates her as the one who tolerates and sustains all - the epitome of patient endurance. A trait that was predominant in my grandmother too.
 
-[^5] Here's where it gets interesting. Look at the charanam - every half-phrase starts with 'A': "annai, archikkum, **A**zhwArgal, anantasayanane, araiyargal, azhagiya, alamelu, **A**nandha." That's eight 'A' sounds opening each line. Reminds me of Parasara Bhattar's Ashtasloki (Ah, eight shlokas) which starts with this line:
+[^5]: Here's where it gets interesting. Look at the charanam - every half-phrase starts with 'A': "annai, archikkum, **A**zhwArgal, anantasayanane, araiyargal, azhagiya, alamelu, **A**nandha." That's eight 'A' sounds opening each line. Reminds me of Parasara Bhattar's Ashtasloki (Ah, eight shlokas) which starts with this line:
 
 *अकारार्थो विष्णुः जगदुदय रक्षा प्रलय कृत्*
 
 "The letter 'a' stands for Vishnu, creator-protector-destroyer of the universe."
 
-Transitioning from cosmic principles to living practice, the Araiyars reference is brilliant because these aren't just any temple musicians. These families have been carrying the Divya Prabandham tradition at Srirangam for over a thousand years. When paati mentions them, she's connecting her own composition to this unbroken chain going back to the Alwars themselves.
+[^6]: The Araiyars reference is brilliant because these aren't just any temple musicians. These families have been carrying the Divya Prabandham tradition at Srirangam for over a thousand years. When paati mentions them, she's connecting her own composition to this unbroken chain going back to the Alwars themselves.
 
-Then there's "Alamelu" as her mudra. Now, Alamelumanga is the consort of Srinivasa of Thiruvengadam (Tirupati), not Srirangam's. But here's the thing - Thirumangai Azhwar's "வெருவாதாள் வாய்வெருவி வேங்கடமே வேங்கடமே எங்கின்றாளால்" shows how even when singing about Srirangam, the heart can yearn for Venkatam in nayika bhavam. Similarly, paati sees Alamelumanga in Sri Ranganachiyar - the same divine principle appearing in different places.
+[^7]: "Alamelu" as her mudra. Now, Alamelumanga is the consort of Srinivasa of Thiruvengadam (Tirupati), not Srirangam's. But here's the thing - Thirumangai Azhwar's "வெருவாதாள் வாய்வெருவி வேங்கடமே வேங்கடமே எங்கின்றாளால்" shows how even when singing about Srirangam, the heart can yearn for Venkatam in nayika bhavam. Similarly, paati sees Alamelumanga in Sri Ranganachiyar - the same divine principle appearing in different places.
 
-The ending "ஆனந்த ரூபனே" surprised me because it echoes Adi Shankaracharya's Ranganathashtakam, which opens with "ānandha rūpe."
+[^8]: "ஆனந்த ரூபனே" echoes Adi Shankaracharya's Ranganathashtakam, which opens with "ānandha rūpe."
 
 What emerges is a composition that works simultaneously as accessible devotional poetry and sophisticated theological meditation. Paati's "Alamelu" mudra places her squarely within the Carnatic kriti tradition, while her systematic use of scriptural references, Alwar quotations, and linguistic theology shows someone who lived so deeply within the Sri Vaishnava tradition that these connections emerged naturally through devotional expression. This is more than a family song - it's a bridge spanning centuries, connecting her individual devotion to the unbroken chain stretching from the Alwars through the Araiyars to her own musical offering.
