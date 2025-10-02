@@ -7,7 +7,7 @@ permalink: /a-tribute-to-paati
 
 My paati (grandmother), Mrs. Alamelu Thirumalai, pictured above, was born this day, October 2 in 1931. She was a pious woman well versed in Tamil. She composed her own songs, and this particular composition has stayed with me since childhood. I wanted to preserve it here, right now it exists only in the memories of my mother and other relatives. 
 
-I have added my notes below. What emerges is a composition that works simultaneously as accessible devotional poetry and sophisticated theological meditation. Look at all the epithets she has for the good Lord - ரங்கய்யா (rangayya), பொன்னிசூழ் அரங்கனே (ponnisoozh arangane), பூமகள் நாயகனே (poomagal nayagane), அரங்கராஜனே (arangarAjane), அனந்தசயனனே (anantasayanane), அழகிய மாணவாளா (azhagiyamanavalA), ஆனந்த ரூபனே (Anandharoopane)!
+I have added my notes below. What emerges is a composition that works simultaneously as accessible devotional poetry and sophisticated theological meditation. Look at all the epithets she has for the good Lord - ரங்கய்யா (rangayya), பொன்னிசூழ் அரங்கனே (ponnisoozh arangane), பூமகள் நாயகனே (poomagal nayagane), அரங்கராஜனே (arangarAjane), அனந்தசயனனே (anantasayanane), அழகிய மாணவாளா (azhagiya manavalA), ஆனந்த ரூபனே (Anandharoopane)!
 
 Paati's "Alamelu" mudra places her squarely within the Carnatic kriti tradition, while her systematic use of scriptural references, Alwar quotations, and linguistic theology shows someone who lived so deeply within the Sri Vaishnava tradition that these connections emerged naturally through devotional expression.
 
@@ -26,7 +26,7 @@ _Rendition by my sister <a href="https://www.linkedin.com/in/jananisrikanth" tar
 **Pallavi:**
 #### எனக்கொரு நல்வழி காட்டும் ஐயா[^1]<br>உன் கோயில் வாசல் வந்து[^2], பணிந்து நின்றேன் ரங்கய்யா - எனக்கொரு
 *enakkoru nal vazhi kAttum ayyA*<br>
-*un koyil vAsal vandhu, panindhu nindrom rangayya - enakkoru*<br>
+*un koyil vAsal vandhu, panindhu nindren rangayya - enakkoru*<br>
 <br>
 Show me the good path, O Lord!<br>
 I've come to Your temple entrance and stand bowing, Rangayya!<br>
@@ -64,11 +64,11 @@ O blissful form to whom Alamelu bows<br>
 
 [^2]: "உன் கோயில் வாசல் வந்து பணிந்து நின்றோம்" situates us at Srirangam itself. Which entrance/vaasal is paati talking about? Srirangam has three main entrances, and if she lived near Therku Chithirai Veedhi like I suspect, maybe she had a specific one in mind - the Ranga Ranga gopuram as locals call it, or the more archaic 'Naanmugan Thiruvasal'
 
-[^3]: "பொன்னிசூழ் அரங்கனே" establishes Srirangam's sacred geography - the Lord surrounded by Ponni, the Kaveri, every close to Thirumazhisai Azhwar's "பொன்னிசூழ ரங்கமேய பூவைவண்ணமாயகேள்" from Thiruchandhavirutham (119).
+[^3]: "பொன்னிசூழ் அரங்கனே" establishes Srirangam's sacred geography - the Lord surrounded by Ponni, the Kaveri, very close to Thirumazhisai Azhwar's "பொன்னிசூழ ரங்கமேய பூவைவண்ணமாயகேள்" from Thiruchandhavirutham (119).
 
 [^4]: "பூமகள் நாயகனே" is intriguing because who it refers to depends on pronunciation. If "பூமகள்" (poomagal), it refers to Sridevi, the divine consort. But if pronounced "பூமகள்" (boomagal), it's Bhuma Devi - the all-patient Earth goddess. Nammazhwar's "மாதர் மா மண்மடந்தை" (Thiruvaimozhi 4.2.6) celebrates her as the one who tolerates and sustains all - the epitome of patient endurance. A trait that was predominant in my grandmother too.
 
-[^5]: Here's where it gets interesting. Look at the charanam - every half-phrase starts with 'A': "annai, archikkum, AzhwArgal, anantasayanane, araiyargal, azhagiya, alamelu,Anandha." That's eight 'A' sounds opening each line. Reminds me of Parasara Bhattar's Ashtasloki (Ah, eight shlokas) which starts with this line:<br>*अकारार्थो विष्णुः जगदुदय रक्षा प्रलय कृत्*<br>"The letter 'a' stands for Vishnu, creator-protector-destroyer of the universe."
+[^5]: Here's where it gets interesting. Look at the charanam - every half-phrase starts with 'A': "annai, archikkum, AzhwArgal, anantasayanane, araiyargal, azhagiya, alamelu,Anandha." That's eight 'A' sounds opening each line. Reminds me of Parasara Bhattar's Ashtasloki which starts with this line:<br>*अकारार्थो विष्णुः जगदुदय रक्षा प्रलय कृत्*<br>"The letter 'a' stands for Vishnu, creator-protector-destroyer of the universe."
 
 [^6]: The Araiyars are the hereditary temple musicians of Sri Rangam. These families have been carrying the Divya Prabandham tradition at Srirangam for over a thousand years.
 
