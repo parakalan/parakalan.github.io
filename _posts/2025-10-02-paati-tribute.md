@@ -10,8 +10,8 @@ I have added my notes below. What emerges is a composition that works simultaneo
 
 **Pallavi:**
 
-எனக்கொரு நல்வழி காட்டும் ஐயா[^1]<br>
-உன் கோயில் வாசல் வந்து[^2], பணிந்து நின்றோம் ரங்கய்யா - எனக்கொரு<br>
+#### எனக்கொரு நல்வழி காட்டும் ஐயா[^1]<br>
+#### உன் கோயில் வாசல் வந்து[^2], பணிந்து நின்றோம் ரங்கய்யா - எனக்கொரு<br>
 <br>
 *enakkoru nal vazhi kAttum ayyA*<br>
 *un koyil vAsal vandhu, panindhu nindrom rangayya - enakkoru*<br>
@@ -23,8 +23,8 @@ We have come to Your temple entrance and stand bowing, Rangayya!<br>
 
 **Anupallavi:**
 
-பொன்னிசூழ் அரங்கனே[^3], பூமகள் நாயகனே[^4]<br>
-அரவணை துயில் கொள்ளும் அரங்கராஜனே<br>
+#### பொன்னிசூழ் அரங்கனே[^3], பூமகள் நாயகனே[^4]<br>
+#### அரவணை துயில் கொள்ளும் அரங்கராஜனே<br>
 <br>
 *ponnisoozh arangane, poomagal nayagane*<br>
 *aravanai thuyil kollum arangarAjane*<br>
@@ -36,10 +36,10 @@ O King of Arangam who sleeps on the serpent bed<br>
 
 **Charanam:** [^5]
 
-அன்னை ரெங்கநாயகி அர்ச்சிக்கும் மாயவனே,<br>
-ஆழ்வார்கள் பணிந்திடும் அனந்தசயனனே,<br>
-அரையர்கள் பண் பாடும் அழகிய மாணவாளா,<br>
-அலமேலு பணிந்திடும் ஆனந்த ரூபனே<br>
+#### அன்னை ரெங்கநாயகி அர்ச்சிக்கும் மாயவனே,<br>
+#### ஆழ்வார்கள் பணிந்திடும் அனந்தசயனனே,<br>
+#### அரையர்கள் பண் பாடும் அழகிய மாணவாளா,<br>
+#### அலமேலு பணிந்திடும் ஆனந்த ரூபனே<br>
 <br>
 *annai ranganayaki archikkum mayavane,*<br>
 *azhwargal paninthidum anantasayanane*<br>
