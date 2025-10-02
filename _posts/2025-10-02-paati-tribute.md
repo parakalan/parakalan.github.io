@@ -8,26 +8,31 @@ My grandmother, Mrs. Alamelu Thirumalai, was born this day, October 2 in 1931. S
 
 **Pallavi:**
 
-எனக்கொரு நல்வழி காட்டும் ஐயா[^1]
-உன் கோயில் வாசல் வந்து[^2], பணிந்து நின்றோம் ரங்கய்யா - எனக்கொரு
-
-*enakkoru nal vazhi kAttum ayyA*
-*un koyil vAsal vandhu, panindhu nindrom rangayya - enakkoru*
-
-Show me the good path, O Lord!
-We have come to Your temple entrance and stand bowing, Rangayya!
+எனக்கொரு நல்வழி காட்டும் ஐயா[^1]<br>
+உன் கோயில் வாசல் வந்து[^2], பணிந்து நின்றோம் ரங்கய்யா - எனக்கொரு<br>
+<br>
+*enakkoru nal vazhi kAttum ayyA*<br>
+*un koyil vAsal vandhu, panindhu nindrom rangayya - enakkoru*<br>
+<br>
+Show me the good path, O Lord!<br>
+We have come to Your temple entrance and stand bowing, Rangayya!<br>
 
 ---
 
 **Anupallavi:**
 
 பொன்னிசூழ் அரங்கனே[^3], பூமகள் நாயகனே[^4]
+
 அரவணை துயில் கொள்ளும் அரங்கராஜனே
 
+
 *ponnisoozh arangane, poomagal nayagane*
+
 *aravanai thuyil kollum arangarAjane*
 
+
 O Lord of Arangam surrounded by the Ponni (Cauvery), O consort of Bhumi
+
 O King of Arangam who sleeps on the serpent bed
 
 ---
