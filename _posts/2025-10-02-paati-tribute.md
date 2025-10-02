@@ -2,39 +2,32 @@
 My grandmother, Mrs. Alamelu Thirumalai, was born this day, October 2 in 1931. She was a pious woman well versed in Tamil. She composed her own songs, and this particular composition has stayed with me since childhood. I wanted to preserve it here, right now it exists only in the memories of my mother and other relatives who remember her singing it.
 
 **Ragam:** Simhendramadyamam
-
 **Talam:** Adi
 
 ---
 
 **Pallavi:**
 
-எனக்கொரு நல்வழி காட்டும் ஐயா [^1]
-
-உன் கோயில் வாசல் வந்து [^2], பணிந்து நின்றோம் ரங்கய்யா - எனக்கொரு
+எனக்கொரு நல்வழி காட்டும் ஐயா[^1]
+உன் கோயில் வாசல் வந்து[^2], பணிந்து நின்றோம் ரங்கய்யா - எனக்கொரு
 
 *enakkoru nal vazhi kAttum ayyA*
-
 *un koyil vAsal vandhu, panindhu nindrom rangayya - enakkoru*
 
 Show me the good path, O Lord!
-
 We have come to Your temple entrance and stand bowing, Rangayya!
 
 ---
 
 **Anupallavi:**
 
-பொன்னிசூழ் அரங்கனே [^3], பூமகள் நாயகனே [^4]
-
+பொன்னிசூழ் அரங்கனே[^3], பூமகள் நாயகனே[^4]
 அரவணை துயில் கொள்ளும் அரங்கராஜனே
 
 *ponnisoozh arangane, poomagal nayagane*
-
 *aravanai thuyil kollum arangarAjane*
 
 O Lord of Arangam surrounded by the Ponni (Cauvery), O consort of Bhumi
-
 O King of Arangam who sleeps on the serpent bed
 
 ---
@@ -42,34 +35,25 @@ O King of Arangam who sleeps on the serpent bed
 **Charanam:** [^5]
 
 அன்னை ரெங்கநாயகி அர்ச்சிக்கும் மாயவனே,
-
 ஆழ்வார்கள் பணிந்திடும் அனந்தசயனனே,
-
 அரையர்கள் பண் பாடும் அழகிய மாணவாளா,
-
 அலமேலு பணிந்திடும் ஆனந்த ரூபனே
 
 *annai ranganayaki archikkum mayavane,* 
-
 *azhwargal paninthidum anantasayanane*
-
 *araiyargal pan pAdum azhagiya manavAla,* 
-
 *alamelu paninthidum Anandha roopane*
 
 O the mysterious Lord whom Mother Renganayaki worships, 
-
 O Anantasayana to whom the Alwars bow
-
 O Azhagiya Manavala to whom the Araiyars sing the Divya Prabandham,
-
 O blissful form to whom Alamelu bows
 
 ---
 
----
-
 ## Notes
+
+What emerges is a composition that works simultaneously as accessible devotional poetry and sophisticated theological meditation. Paati's "Alamelu" mudra places her squarely within the Carnatic kriti tradition, while her systematic use of scriptural references, Alwar quotations, and linguistic theology shows someone who lived so deeply within the Sri Vaishnava tradition that these connections emerged naturally through devotional expression. This is more than a family song - it's a bridge spanning centuries, connecting her individual devotion to the unbroken chain stretching from the Alwars through the Araiyars to her own musical offering.
 
 [^1]: The opening "எனக்கொரு நல்வழி காட்டும் ஐயா" reminds me of Arjuna's moment in the Gita:
 
@@ -96,5 +80,3 @@ O blissful form to whom Alamelu bows
 [^7]: "Alamelu" as her mudra. Now, Alamelumanga is the consort of Srinivasa of Thiruvengadam (Tirupati), not Srirangam's. But here's the thing - Thirumangai Azhwar's "வெருவாதாள் வாய்வெருவி வேங்கடமே வேங்கடமே எங்கின்றாளால்" shows how even when singing about Srirangam, the heart can yearn for Venkatam in nayika bhavam. Similarly, paati sees Alamelumanga in Sri Ranganachiyar - the same divine principle appearing in different places.
 
 [^8]: "ஆனந்த ரூபனே" echoes Adi Shankaracharya's Ranganathashtakam, which opens with "ānandha rūpe."
-
-What emerges is a composition that works simultaneously as accessible devotional poetry and sophisticated theological meditation. Paati's "Alamelu" mudra places her squarely within the Carnatic kriti tradition, while her systematic use of scriptural references, Alwar quotations, and linguistic theology shows someone who lived so deeply within the Sri Vaishnava tradition that these connections emerged naturally through devotional expression. This is more than a family song - it's a bridge spanning centuries, connecting her individual devotion to the unbroken chain stretching from the Alwars through the Araiyars to her own musical offering.
