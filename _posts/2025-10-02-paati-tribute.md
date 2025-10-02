@@ -5,10 +5,10 @@ permalink: /a-tribute-to-paati
 
 My paati (grandmother), Mrs. Alamelu Thirumalai, was born this day, October 2 in 1931. She was a pious woman well versed in Tamil. She composed her own songs, and this particular composition has stayed with me since childhood. I wanted to preserve it here, right now it exists only in the memories of my mother and other relatives. 
 
-I have added my notes below. What emerges is a composition that works simultaneously as accessible devotional poetry and sophisticated theological meditation. Paati's "Alamelu" mudra places her squarely within the Carnatic kriti tradition, while her systematic use of scriptural references, Alwar quotations, and linguistic theology shows someone who lived so deeply within the Sri Vaishnava tradition that these connections emerged naturally through devotional expression. 
+I have added my notes below. What emerges is a composition that works simultaneously as accessible devotional poetry and sophisticated theological meditation. Look at the epithets she has for the good Lord! ரங்கய்யா (Rangayya), பொன்னிசூழ் அரங்கனே (Lord of Arangam surrounded by the Ponni), பூமகள் நாயகனே (Consort of Bhumi), அரங்கராஜனே (King of Arangam), மாயவனே (The Mysterious One), அனந்தசயனனே (One who reclines on Ananta), அழகிய மாணவாளா (Beautiful Bridegroom), ஆனந்த ரூபனே (Form of Bliss).
 
+Paati's "Alamelu" mudra places her squarely within the Carnatic kriti tradition, while her systematic use of scriptural references, Alwar quotations, and linguistic theology shows someone who lived so deeply within the Sri Vaishnava tradition that these connections emerged naturally through devotional expression.
 
-<img src="images/paati.jpeg" height="500"/>
 
 **Ragam:** Simhendramadyamam<br>
 **Talam:** Adi
@@ -68,3 +68,6 @@ O blissful form to whom Alamelu bows<br>
 [^7]: "Alamelu" is her mudra. Now, Alamelumanga is the consort of Srinivasa of Thiruvengadam (Tirupati), not Srirangam's, so why invoke her? Here's the thing - Thirumangai Azhwar's "வெருவாதாள் வாய்வெருவி வேங்கடமே வேங்கடமே எங்கின்றாளால்" shows how even when singing about Srirangam, the heart can yearn for Venkatam in nayika bhavam. Similarly, paati sees Alamelumanga in Sri Ranganachiyar - the same divine principle appearing in different places.
 
 [^8]: "ஆனந்த ரூபனே" echoes Adi Shankaracharya's Ranganathashtakam, which opens with "ānandha rūpe."
+
+<img src="images/paati.jpeg" height="500"/>
+
