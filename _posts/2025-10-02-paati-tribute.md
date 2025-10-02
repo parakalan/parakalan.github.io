@@ -44,15 +44,15 @@ O King of Arangam who sleeps on the serpent bed<br>
 ---
 
 **Charanam:** [^5]
-#### அன்னை ரெங்கநாயகி அர்ச்சிக்கும் மாயவனே,<br>ஆழ்வார்கள் பணிந்திடும் அனந்தசயனனே,<br>அரையர்கள்[^6] பண் பாடும் அழகியமாணவாளா,<br>அலமேலு[^7] பணிந்திடும் ஆனந்தரூபனே[^8]<br>
+#### அன்னை ரெங்கநாயகி அர்ச்சிக்கும் மாயவனே,<br>ஆழ்வார்கள் துதிபாடும் அனந்தசயனனே,<br>அரையர்கள்[^6] பண் பாடும் அழகியமாணவாளா,<br>அலமேலு[^7] பணிந்திடும் ஆனந்தரூபனே[^8]<br>
 <br>
 *annai ranganayaki archikkum mayavane,*<br>
-*azhwargal paninthidum anantasayanane*<br>
+*Azhwargal thudhi paadum anantasayanane*<br>
 *araiyargal pan pAdum azhagiya manavAla,*<br>
 *alamelu paninthidum Anandha roopane*<br>
 <br>
 O the mysterious Lord whom Mother Renganayaki worships,<br>
-O Anantasayana to whom the Alwars bow<br>
+O Anantasayana extolled by the Alwars<br>
 O Azhagiya Manavala to whom the Araiyars sing the Divya Prabandham,<br>
 O blissful form to whom Alamelu bows<br>
 
