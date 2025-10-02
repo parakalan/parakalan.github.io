@@ -56,10 +56,8 @@ O blissful form to whom Alamelu bows
 What emerges is a composition that works simultaneously as accessible devotional poetry and sophisticated theological meditation. Paati's "Alamelu" mudra places her squarely within the Carnatic kriti tradition, while her systematic use of scriptural references, Alwar quotations, and linguistic theology shows someone who lived so deeply within the Sri Vaishnava tradition that these connections emerged naturally through devotional expression. This is more than a family song - it's a bridge spanning centuries, connecting her individual devotion to the unbroken chain stretching from the Alwars through the Araiyars to her own musical offering.
 
 [^1]: The opening "எனக்கொரு நல்வழி காட்டும் ஐயா" reminds me of Arjuna's moment in the Gita:
-
 *कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः*
 *यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्* (BG 2.7)
-
 "I'm overwhelmed by weakness and confused about dharma. Please tell me decisively what's best - I'm your disciple, guide me." Same energy of total surrender when you're lost.
 
 
@@ -70,9 +68,7 @@ What emerges is a composition that works simultaneously as accessible devotional
 [^4]: "பூமகள் நாயகனே" is intriguing because it depends on pronunciation. If "பூமகள்" (poomagal), it refers to Sridevi, the divine consort. But if pronounced "பூமகள்" (boomagal), it's Bhuma Devi - the all-patient Earth goddess. Nammazhwar's "மாதர் மா மண்மடந்தை" (Thiruvaimozhi 4.2.6) celebrates her as the one who tolerates and sustains all - the epitome of patient endurance. A trait that was predominant in my grandmother too.
 
 [^5]: Here's where it gets interesting. Look at the charanam - every half-phrase starts with 'A': "annai, archikkum, **A**zhwArgal, anantasayanane, araiyargal, azhagiya, alamelu, **A**nandha." That's eight 'A' sounds opening each line. Reminds me of Parasara Bhattar's Ashtasloki (Ah, eight shlokas) which starts with this line:
-
 *अकारार्थो विष्णुः जगदुदय रक्षा प्रलय कृत्*
-
 "The letter 'a' stands for Vishnu, creator-protector-destroyer of the universe."
 
 [^6]: The Araiyars reference is brilliant because these aren't just any temple musicians. These families have been carrying the Divya Prabandham tradition at Srirangam for over a thousand years. When paati mentions them, she's connecting her own composition to this unbroken chain going back to the Alwars themselves.
