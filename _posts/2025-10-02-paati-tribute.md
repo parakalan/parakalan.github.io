@@ -2,8 +2,10 @@
 title: "A Tribute to Paati"
 permalink: /a-tribute-to-paati
 ---
+<img src="images/paati.jpeg" height="500"/>
 
-My paati (grandmother), Mrs. Alamelu Thirumalai, was born this day, October 2 in 1931. She was a pious woman well versed in Tamil. She composed her own songs, and this particular composition has stayed with me since childhood. I wanted to preserve it here, right now it exists only in the memories of my mother and other relatives. 
+
+My paati (grandmother), Mrs. Alamelu Thirumalai, pictured above, was born this day, October 2 in 1931. She was a pious woman well versed in Tamil. She composed her own songs, and this particular composition has stayed with me since childhood. I wanted to preserve it here, right now it exists only in the memories of my mother and other relatives. 
 
 I have added my notes below. What emerges is a composition that works simultaneously as accessible devotional poetry and sophisticated theological meditation. Look at the epithets she has for the good Lord! ரங்கய்யா (Rangayya), பொன்னிசூழ் அரங்கனே (Lord of Arangam surrounded by the Ponni), பூமகள் நாயகனே (Consort of Bhumi), அரங்கராஜனே (King of Arangam), மாயவனே (The Mysterious One), அனந்தசயனனே (One who reclines on Ananta), அழகிய மாணவாளா (Beautiful Bridegroom), ஆனந்த ரூபனே (Form of Bliss).
 
@@ -52,7 +54,6 @@ O blissful form to whom Alamelu bows<br>
 
 ## Notes
 
-
 [^1]: The opening "எனக்கொரு நல்வழி காட்டும் ஐயா" reminds me of Arjuna's moment in the Gita:<br>*कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः*<br>*यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्* (BG 2.7)<br>"I'm overwhelmed by weakness and confused about dharma. Please tell me decisively what's best - I'm your disciple, guide me." Same energy of total surrender when you're lost.
 
 [^2]: "உன் கோயில் வாசல் வந்து பணிந்து நின்றோம்" situates us at Srirangam itself. Which entrance/vaasal is paati talking about? Srirangam has three main entrances, and if she lived near Therku Chithirai Veedhi like I suspect, maybe she had a specific one in mind - the Ranga Ranga gopuram as locals call it, or the more archaic 'Naanmugan Thiruvasal'
@@ -69,5 +70,5 @@ O blissful form to whom Alamelu bows<br>
 
 [^8]: "ஆனந்த ரூபனே" echoes Adi Shankaracharya's Ranganathashtakam, which opens with "ānandha rūpe."
 
-<img src="images/paati.jpeg" height="500"/>
+--- 
 
