@@ -33,7 +33,7 @@ O King of Arangam who sleeps on the serpent bed<br>
 ---
 
 **Charanam:** [^5]
-#### **அ**ன்னை ரெங்கநாயகி அர்ச்சிக்கும் மாயவனே,<br>ஆழ்வார்கள் பணிந்திடும் அனந்தசயனனே,<br>அரையர்கள் பண் பாடும் அழகிய மாணவாளா,<br>அலமேலு பணிந்திடும் ஆனந்த ரூபனே<br>
+#### அன்னை ரெங்கநாயகி அர்ச்சிக்கும் மாயவனே,<br>ஆழ்வார்கள் பணிந்திடும் அனந்தசயனனே,<br>அரையர்கள்[^6] பண் பாடும் அழகியமாணவாளா,<br>அலமேலு[^7] பணிந்திடும் ஆனந்தரூபனே[^8]<br>
 <br>
 *annai ranganayaki archikkum mayavane,*<br>
 *azhwargal paninthidum anantasayanane*<br>
@@ -60,8 +60,8 @@ O blissful form to whom Alamelu bows<br>
 
 [^5]: Here's where it gets interesting. Look at the charanam - every half-phrase starts with 'A': "annai, archikkum, AzhwArgal, anantasayanane, araiyargal, azhagiya, alamelu,Anandha." That's eight 'A' sounds opening each line. Reminds me of Parasara Bhattar's Ashtasloki (Ah, eight shlokas) which starts with this line:<br>*अकारार्थो विष्णुः जगदुदय रक्षा प्रलय कृत्*<br>"The letter 'a' stands for Vishnu, creator-protector-destroyer of the universe."
 
-[^6]: The Araiyars are the hereditaty temple musicians of Sri Rangam. These families have been carrying the Divya Prabandham tradition at Srirangam for over a thousand years.
+[^6]: The Araiyars are the hereditary temple musicians of Sri Rangam. These families have been carrying the Divya Prabandham tradition at Srirangam for over a thousand years.
 
-[^7]: "Alamelu" is her mudra. Now, Alamelumanga is the consort of Srinivasa of Thiruvengadam (Tirupati), not Srirangam's. But here's the thing - Thirumangai Azhwar's "வெருவாதாள் வாய்வெருவி வேங்கடமே வேங்கடமே எங்கின்றாளால்" shows how even when singing about Srirangam, the heart can yearn for Venkatam in nayika bhavam. Similarly, paati sees Alamelumanga in Sri Ranganachiyar - the same divine principle appearing in different places.
+[^7]: "Alamelu" is her mudra. Now, Alamelumanga is the consort of Srinivasa of Thiruvengadam (Tirupati), not Srirangam's, so why invoke her? Here's the thing - Thirumangai Azhwar's "வெருவாதாள் வாய்வெருவி வேங்கடமே வேங்கடமே எங்கின்றாளால்" shows how even when singing about Srirangam, the heart can yearn for Venkatam in nayika bhavam. Similarly, paati sees Alamelumanga in Sri Ranganachiyar - the same divine principle appearing in different places.
 
 [^8]: "ஆனந்த ரூபனே" echoes Adi Shankaracharya's Ranganathashtakam, which opens with "ānandha rūpe."
