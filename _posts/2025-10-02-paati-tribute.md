@@ -9,7 +9,7 @@ I have added my notes below. What emerges is a composition that works simultaneo
 ---
 
 **Pallavi:**
-##### எனக்கொரு நல்வழி காட்டும் ஐயா[^1]<br>உன் கோயில் வாசல் வந்து[^2], பணிந்து நின்றோம் ரங்கய்யா - எனக்கொரு
+#### எனக்கொரு நல்வழி காட்டும் ஐயா[^1]<br>உன் கோயில் வாசல் வந்து[^2], பணிந்து நின்றோம் ரங்கய்யா - எனக்கொரு
 <br>
 *enakkoru nal vazhi kAttum ayyA*<br>
 *un koyil vAsal vandhu, panindhu nindrom rangayya - enakkoru*<br>
@@ -20,8 +20,7 @@ We have come to Your temple entrance and stand bowing, Rangayya!<br>
 ---
 
 **Anupallavi:**
-#### பொன்னிசூழ் அரங்கனே[^3], பூமகள் நாயகனே[^4]<br>
-#### அரவணை துயில் கொள்ளும் அரங்கராஜனே<br>
+#### பொன்னிசூழ் அரங்கனே[^3], பூமகள் நாயகனே[^4]<br>அரவணை துயில் கொள்ளும் அரங்கராஜனே<br>
 <br>
 *ponnisoozh arangane, poomagal nayagane*<br>
 *aravanai thuyil kollum arangarAjane*<br>
@@ -32,10 +31,7 @@ O King of Arangam who sleeps on the serpent bed<br>
 ---
 
 **Charanam:** [^5]
-#### அன்னை ரெங்கநாயகி அர்ச்சிக்கும் மாயவனே,<br>
-#### ஆழ்வார்கள் பணிந்திடும் அனந்தசயனனே,<br>
-#### அரையர்கள் பண் பாடும் அழகிய மாணவாளா,<br>
-#### அலமேலு பணிந்திடும் ஆனந்த ரூபனே<br>
+#### அன்னை ரெங்கநாயகி அர்ச்சிக்கும் மாயவனே,<br>ஆழ்வார்கள் பணிந்திடும் அனந்தசயனனே,<br>அரையர்கள் பண் பாடும் அழகிய மாணவாளா,<br>அலமேலு பணிந்திடும் ஆனந்த ரூபனே<br>
 <br>
 *annai ranganayaki archikkum mayavane,*<br>
 *azhwargal paninthidum anantasayanane*<br>
@@ -52,10 +48,7 @@ O blissful form to whom Alamelu bows<br>
 ## Notes
 
 
-[^1]: The opening "எனக்கொரு நல்வழி காட்டும் ஐயா" reminds me of Arjuna's moment in the Gita:
-*कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः*
-*यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्* (BG 2.7)
-"I'm overwhelmed by weakness and confused about dharma. Please tell me decisively what's best - I'm your disciple, guide me." Same energy of total surrender when you're lost.
+[^1]: The opening "எனக்கொரு நல்வழி காட்டும் ஐயா" reminds me of Arjuna's moment in the Gita:<br>*कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः*<br>*यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्* (BG 2.7)<br>"I'm overwhelmed by weakness and confused about dharma. Please tell me decisively what's best - I'm your disciple, guide me." Same energy of total surrender when you're lost.
 
 [^2]: "உன் கோயில் வாசல் வந்து பணிந்து நின்றோம்" situates us at Srirangam itself. Which entrance/vaasal? Srirangam has three main entrances, and if she lived near Therku Chithirai Veedhi like I suspect, maybe she had a specific one in mind - the Ranga Ranga gopuram as locals call it, or the more archaic 'Naanmugan Thiruvasal'
 
@@ -63,9 +56,7 @@ O blissful form to whom Alamelu bows<br>
 
 [^4]: "பூமகள் நாயகனே" is intriguing because it depends on pronunciation. If "பூமகள்" (poomagal), it refers to Sridevi, the divine consort. But if pronounced "பூமகள்" (boomagal), it's Bhuma Devi - the all-patient Earth goddess. Nammazhwar's "மாதர் மா மண்மடந்தை" (Thiruvaimozhi 4.2.6) celebrates her as the one who tolerates and sustains all - the epitome of patient endurance. A trait that was predominant in my grandmother too.
 
-[^5]: Here's where it gets interesting. Look at the charanam - every half-phrase starts with 'A': "annai, archikkum, AzhwArgal, anantasayanane, araiyargal, azhagiya, alamelu,Anandha." That's eight 'A' sounds opening each line. Reminds me of Parasara Bhattar's Ashtasloki (Ah, eight shlokas) which starts with this line:
-*अकारार्थो विष्णुः जगदुदय रक्षा प्रलय कृत्*
-"The letter 'a' stands for Vishnu, creator-protector-destroyer of the universe."
+[^5]: Here's where it gets interesting. Look at the charanam - every half-phrase starts with 'A': "annai, archikkum, AzhwArgal, anantasayanane, araiyargal, azhagiya, alamelu,Anandha." That's eight 'A' sounds opening each line. Reminds me of Parasara Bhattar's Ashtasloki (Ah, eight shlokas) which starts with this line:<br>*अकारार्थो विष्णुः जगदुदय रक्षा प्रलय कृत्*<br>"The letter 'a' stands for Vishnu, creator-protector-destroyer of the universe."
 
 [^6]: The Araiyars are the hereditaty temple musicians of Sri Rangam. These families have been carrying the Divya Prabandham tradition at Srirangam for over a thousand years.
 
