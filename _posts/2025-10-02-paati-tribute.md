@@ -3,16 +3,13 @@ My grandmother, Mrs. Alamelu Thirumalai, was born this day, October 2 in 1931. S
 
 I have added my notes below. What emerges is a composition that works simultaneously as accessible devotional poetry and sophisticated theological meditation. Paati's "Alamelu" mudra places her squarely within the Carnatic kriti tradition, while her systematic use of scriptural references, Alwar quotations, and linguistic theology shows someone who lived so deeply within the Sri Vaishnava tradition that these connections emerged naturally through devotional expression. 
 
-**Ragam:** Simhendramadyamam
-
+**Ragam:** Simhendramadyamam<br>
 **Talam:** Adi
 
 ---
 
 **Pallavi:**
-
-#### எனக்கொரு நல்வழி காட்டும் ஐயா[^1]
-#### உன் கோயில் வாசல் வந்து[^2], பணிந்து நின்றோம் ரங்கய்யா - எனக்கொரு
+##### எனக்கொரு நல்வழி காட்டும் ஐயா[^1]<br>உன் கோயில் வாசல் வந்து[^2], பணிந்து நின்றோம் ரங்கய்யா - எனக்கொரு
 <br>
 *enakkoru nal vazhi kAttum ayyA*<br>
 *un koyil vAsal vandhu, panindhu nindrom rangayya - enakkoru*<br>
@@ -23,7 +20,6 @@ We have come to Your temple entrance and stand bowing, Rangayya!<br>
 ---
 
 **Anupallavi:**
-
 #### பொன்னிசூழ் அரங்கனே[^3], பூமகள் நாயகனே[^4]<br>
 #### அரவணை துயில் கொள்ளும் அரங்கராஜனே<br>
 <br>
@@ -36,7 +32,6 @@ O King of Arangam who sleeps on the serpent bed<br>
 ---
 
 **Charanam:** [^5]
-
 #### அன்னை ரெங்கநாயகி அர்ச்சிக்கும் மாயவனே,<br>
 #### ஆழ்வார்கள் பணிந்திடும் அனந்தசயனனே,<br>
 #### அரையர்கள் பண் பாடும் அழகிய மாணவாளா,<br>
