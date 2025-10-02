@@ -24,12 +24,12 @@ _Rendition by my sister <a href="https://www.linkedin.com/in/jananisrikanth" tar
 ---
 
 **Pallavi:**
-#### எனக்கொரு நல்வழி காட்டும் ஐயா[^1]<br>உன் கோயில் வாசல் வந்து[^2], பணிந்து நின்றோம் ரங்கய்யா - எனக்கொரு
+#### எனக்கொரு நல்வழி காட்டும் ஐயா[^1]<br>உன் கோயில் வாசல் வந்து[^2], பணிந்து நின்றேன் ரங்கய்யா - எனக்கொரு
 *enakkoru nal vazhi kAttum ayyA*<br>
 *un koyil vAsal vandhu, panindhu nindrom rangayya - enakkoru*<br>
 <br>
 Show me the good path, O Lord!<br>
-We have come to Your temple entrance and stand bowing, Rangayya!<br>
+I've come to Your temple entrance and stand bowing, Rangayya!<br>
 
 ---
 
