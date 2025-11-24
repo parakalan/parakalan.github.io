@@ -5,6 +5,8 @@ permalink: /2025/09/22/tu-majhi-mauli.html
 
 I have been getting into Abhangs about Vittala of Pandharpur. This one by Sant Tukaram beautifully captures the maternal aspect of divine love through nature's metaphors. It mirrors the sentiment found in Kulasekara Azhwar's "Tharu thuyaram thadayel" from Perumal Thirumozhi, where the devotee approaches the Divine with vulnerability and total dependence
 
+![Tu Mājhi Māuli](/images/thoo_maaji_mavuli.png)
+
 _तू माझी माउली, मी तुझे लेंकरू,<br>
 नको दूरी ठरू, विठ्ठल बाई<br>
 <br>_
