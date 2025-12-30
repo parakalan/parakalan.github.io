@@ -4,7 +4,7 @@ permalink: /tribute-to-appa
 ---
 <img src="images/appa.jpg" height="500"/>
 
-My father passed away on December 7, 2024 at Kauvery Hospital, Electronic City, Bangalore. He was 66. He was in the hospital for about 10 days, in and out of ICU. Dad was admitted for bradycardia (low HR) and was on a temporary pacemaker when he passed.
+My father passed away on December 7, 2025 at Kauvery Hospital, Electronic City, Bangalore. He was 66. He was in the hospital for about 10 days, in and out of ICU. Dad was admitted for bradycardia (low HR) and was on a temporary pacemaker when he passed.
 
 
 He left conscious and fulfilled. Two days before, with remarkable clarity, he blessed everyone, said "I don't have enough time, take care of everyone," and chose to stop dialysis after 16 years. "Today I am clear. I don't know about tomorrow. So ask me anything," he told us. When asked about unfulfilled wishes, he said "I am very fulfilled." He told my mom she took very good care of him through the years - something everyone who knew them affirmed. He told me - “Do the initial rituals in Bangalore, do the rest in Srirangam”
