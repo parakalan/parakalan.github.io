@@ -11,7 +11,7 @@ He left conscious and fulfilled. Two days before, with remarkable clarity, he bl
 
 
 Dad came from poverty and worked his way up. Even in his delirium, he kept repeating "My son is from NIT Trichy" and talked about my car. He was proud of me knowing all of Divya Prabandham. His joy was seeing me rise beyond the circumstances he was born into.
-He gave me what no amount of money can buy - a foundation in bhakti, connection to Perumal, and the Divya Prabandham. These are things no one else can give me, and I can never earn for myself. In his confused moments, he was back in Tiruvindhalur doing kainkaryam. 
+Among other things, he gave me what no amount of money can buy - a foundation in bhakti, connection to Perumal, and the Divya Prabandham. These are things no one else can give me, and I can never earn for myself. In his confused moments, he was back in Tiruvindhalur doing kainkaryam. 
 
 
 He passed peacefully at 2:45 PM while I ran my fingers through his forehead, his beloved nephew Ranga by his side, both of us reciting Divya Prabandham pasurams. No struggle, just a gradual, conscious release.
