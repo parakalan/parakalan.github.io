@@ -1,0 +1,8426 @@
+[
+  {
+    "no": 1,
+    "name": "Gummidipoondi",
+    "district": "Tiruvallur",
+    "lat": 13.4062,
+    "lng": 80.117,
+    "winner2021": {
+      "name": "T. J. GOVINDRAJAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "T. J. GOVINDRAJAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "V. SUDHAKAR",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. VIJAYAKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SRIDHAR",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 2,
+    "name": "Ponneri",
+    "district": "Tiruvallur",
+    "lat": 13.3341,
+    "lng": 80.1968,
+    "winner2021": {
+      "name": "DURAI CHANDRASEKAR",
+      "party": "INC",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "P. SIRUNIAM BALARAMAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "DR. M. S. RAVI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "RAJATHI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 3,
+    "name": "Tiruttani",
+    "district": "Tiruvallur",
+    "lat": 13.1757,
+    "lng": 79.9048,
+    "winner2021": {
+      "name": "S. CHANDRAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "D. KRISHNAMOORTHY",
+        "party": "DMDK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "G. HARI",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "DR. SATHYAKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "CHANDRAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 4,
+    "name": "Thiruvallur",
+    "district": "Tiruvallur",
+    "lat": 13.1435,
+    "lng": 79.9082,
+    "winner2021": {
+      "name": "V. G. RAAJENDRAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "V. G. RAAJENDRAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "B. V. RAMANA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "DR. ARUNKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SENTHIL KUMAR",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 5,
+    "name": "Poonamallee",
+    "district": "Tiruvallur",
+    "lat": 13.0478,
+    "lng": 80.1157,
+    "winner2021": {
+      "name": "A. KRISHNASWAMY",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "A. KRISHNASWAMY",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "T. A. ELUMALAI",
+        "party": "AMMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "R. PRAKASAM",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "MEHALA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 6,
+    "name": "Avadi",
+    "district": "Tiruvallur",
+    "lat": 13.1143,
+    "lng": 80.1051,
+    "winner2021": {
+      "name": "S. M. NASAR",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "S. M. NASAR",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "NASSER",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "R. RAMESHKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "PUNITHA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 7,
+    "name": "Maduravoyal",
+    "district": "Tiruvallur",
+    "lat": 13.0676,
+    "lng": 80.1565,
+    "winner2021": {
+      "name": "K. GANAPATHY",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. GANAPATHY",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "P. BENJAMIN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "P. REVANTH SARAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "REVATHI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 8,
+    "name": "Ambattur",
+    "district": "Tiruvallur",
+    "lat": 13.0983,
+    "lng": 80.1688,
+    "winner2021": {
+      "name": "JOSEPH SAMUEL",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "DR. A. P. POORNIMA",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "K. N. SEKAR",
+        "party": "PMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "G. BALAMURUGAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "AADHITHAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 9,
+    "name": "Madavaram",
+    "district": "Chennai",
+    "lat": 13.1463,
+    "lng": 80.246,
+    "winner2021": {
+      "name": "S. SUDHARSANAM",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "S. SUDHARSANAM",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "M. L. VIJAY PRABHU",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KRUTHIKA ELUMALAI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 10,
+    "name": "Thiruvottiyur",
+    "district": "Chennai",
+    "lat": 13.1604,
+    "lng": 80.3009,
+    "winner2021": {
+      "name": "K. P. SHANKAR",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "CPI(M)",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "K. KUPPAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "SENTHILKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SATHYA BASKAR",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 11,
+    "name": "Dr. Radhakrishnan Nagar",
+    "district": "Chennai",
+    "lat": 13.1467,
+    "lng": 80.2961,
+    "winner2021": {
+      "name": "J. JOHN EBENEZER",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "J. JOHN EBENEZER",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "R. S. RAJESH",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "MARIA WILSON",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "VENNILA THAYUMANAVAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 12,
+    "name": "Perambur",
+    "district": "Chennai",
+    "lat": 13.1167,
+    "lng": 80.2438,
+    "winner2021": {
+      "name": "R. D. SHEKAR",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "R. D. SHEKAR",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "M. THILAGABAMA",
+        "party": "PMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "C. JOSEPH VIJAY",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "VETRITHAMIZHAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 13,
+    "name": "Kolathur",
+    "district": "Chennai",
+    "lat": 13.117,
+    "lng": 80.2104,
+    "winner2021": {
+      "name": "M. K. STALIN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. K. STALIN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "P. SANTHANA KRISHNAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "V. S. BABU",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SOUNDRAPANDIAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 14,
+    "name": "Villivakkam",
+    "district": "Chennai",
+    "lat": 13.098,
+    "lng": 80.214,
+    "winner2021": {
+      "name": "A. VETRIAZHAGAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "KARTHIK MOHAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "S. R. VIJAYAKUMAR",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "ADHAV ARJUNA",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ROSHINI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 15,
+    "name": "Thiru-Vi-Ka-Nagar",
+    "district": "Chennai",
+    "lat": 13.105,
+    "lng": 80.27,
+    "winner2021": {
+      "name": "P. SIVAKUMAR ALIAS THAYAGAMKAVI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. S. RAVICHANDRAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "PORKODI ARMSTRONG[A]",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "M. R. PALLAVI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "JEGADEESH CHANDER",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 16,
+    "name": "Egmore",
+    "district": "Chennai",
+    "lat": 13.0786,
+    "lng": 80.262,
+    "winner2021": {
+      "name": "I. PARANTHAMEN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TAMILAN PRASANNA",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "ABISHEK RENGASAMY",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "RAJMOHAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SARANYA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 17,
+    "name": "Royapuram",
+    "district": "Chennai",
+    "lat": 13.112,
+    "lng": 80.294,
+    "winner2021": {
+      "name": "R. MURTHY IDREAM",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "DR. SUBAIR KHAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "D. JAYAKUMAR",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "K. V. VIJAYATHAMU",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "BABUMAILAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 18,
+    "name": "Harbour",
+    "district": "Chennai",
+    "lat": 13.0879,
+    "lng": 80.2885,
+    "winner2021": {
+      "name": "P. K. SEKAR BABU",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "P. K. SEKAR BABU",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "R. MANOHAR",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "SINORA ASHOK",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "RUFHKHAN SHERIFF",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 19,
+    "name": "Chepauk-Thiruvallikeni",
+    "district": "Chennai",
+    "lat": 13.0636,
+    "lng": 80.2728,
+    "winner2021": {
+      "name": "UDHAYANIDHI STALIN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "UDHAYANIDHI STALIN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "ADHI RAJARAM",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "D. SELVAM",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "AYISHA BEHAM",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 20,
+    "name": "Thousand Lights",
+    "district": "Chennai",
+    "lat": 13.0584,
+    "lng": 80.2554,
+    "winner2021": {
+      "name": "EZHILAN NAGANATHAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "EZHILAN NAGANATHAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "B. VALARMATHI",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "JCD. PRBHAKAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KALANJIYAM",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 21,
+    "name": "Anna Nagar",
+    "district": "Chennai",
+    "lat": 13.085,
+    "lng": 80.2101,
+    "winner2021": {
+      "name": "M. K. MOHAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "N. CHITRARASU",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "GOKULA INDIRA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "V. K. RAMKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "C. SHANKAR",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 22,
+    "name": "Virugambakkam",
+    "district": "Chennai",
+    "lat": 13.0718,
+    "lng": 80.194,
+    "winner2021": {
+      "name": "A. M. V. PRABHAKARA RAJA",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "A. M. V. PRABHAKARA RAJA",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "V. N. RAVI",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "SABARINATHAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SANTHOSH",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 23,
+    "name": "Saidapet",
+    "district": "Chennai",
+    "lat": 13.02,
+    "lng": 80.2201,
+    "winner2021": {
+      "name": "M. A. SUBRAMANIAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. A. SUBRAMANIAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "G. SENTHAMIZHAN",
+        "party": "AMMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "M. ARULPRAKASHAM",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SRIVIDHYA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 24,
+    "name": "Thiyagarayanagar",
+    "district": "Chennai",
+    "lat": 13.0364,
+    "lng": 80.2425,
+    "winner2021": {
+      "name": "J. KARUNANITHI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "RAJA ANBALAGAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "B. SATHYANARAYANAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "N. BUSSY ANAND",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ANUSHA VIJAYAKUMAR",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 25,
+    "name": "Mylapore",
+    "district": "Chennai",
+    "lat": 13.0368,
+    "lng": 80.2676,
+    "winner2021": {
+      "name": "DHA. VELU",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "DHA. VELU",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "TAMILISAI SOUNDARARAJAN",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "VENKATRAMANAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ARUN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 26,
+    "name": "Velachery",
+    "district": "Chennai",
+    "lat": 12.9815,
+    "lng": 80.2209,
+    "winner2021": {
+      "name": "JMH. AASSAN MAULAANA",
+      "party": "INC",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "M. K. ASHOK",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "R. KUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KEERTHANA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 27,
+    "name": "Sholinganallur",
+    "district": "Chennai",
+    "lat": 12.901,
+    "lng": 80.2279,
+    "winner2021": {
+      "name": "S. ARAVIND RAMESH",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "S. ARAVIND RAMESH",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "K. P. KANDAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "P. SARAVANAMOORTHY",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "JAYALAKSHMI RAMAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 28,
+    "name": "Alandur",
+    "district": "Kancheepuram",
+    "lat": 13.0029,
+    "lng": 80.2062,
+    "winner2021": {
+      "name": "T. M. ANBARASAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "T. M. ANBARASAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "S. SARAVANAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "M. HARISH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "MAHALAKSHMI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 29,
+    "name": "Sriperumbudur",
+    "district": "Kancheepuram",
+    "lat": 12.9677,
+    "lng": 79.9478,
+    "winner2021": {
+      "name": "SELVAPERUNTHAGAI",
+      "party": "INC",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "K. THENNARASU",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SINDHU",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 30,
+    "name": "Pallavaram",
+    "district": "Kancheepuram",
+    "lat": 12.9675,
+    "lng": 80.1491,
+    "winner2021": {
+      "name": "KARUNANITHI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "D. MURUGESAN",
+        "party": "DMDK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "VENKATESAN[B]",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "J. KAMATCHI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KARTHIKEYAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 31,
+    "name": "Tambaram",
+    "district": "Kancheepuram",
+    "lat": 12.9249,
+    "lng": 80.12,
+    "winner2021": {
+      "name": "S. R. RAJA",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "DR. R. S. KRITHIKA DEVI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "S. CHITLAPAKKAM RAJENDRAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "SARATHKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "TAMILSELVI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 32,
+    "name": "Chengalpattu",
+    "district": "Chengalpattu",
+    "lat": 12.6912,
+    "lng": 79.9756,
+    "winner2021": {
+      "name": "M. VARALAKSHMI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. K. T. KARTHIK DHANDAPANI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "M. GAJENDRAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. THIYAGARAJAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "AMUTHA NAMBIYAR",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 33,
+    "name": "Thiruporur",
+    "district": "Chengalpattu",
+    "lat": 12.745,
+    "lng": 80.1883,
+    "winner2021": {
+      "name": "S. S. BALAJI",
+      "party": "VCK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "Panneerdas",
+        "party": "VCK",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "K. BALU",
+        "party": "PMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "VIJAYARAJ",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "AMBETHRAJAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 34,
+    "name": "Cheyyur",
+    "district": "Chengalpattu",
+    "lat": 12.4049,
+    "lng": 80.0164,
+    "winner2021": {
+      "name": "M. BABU",
+      "party": "VCK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. Sinthanai Selvan",
+        "party": "VCK",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "E. RAJASHEKAR",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "K. MOHANRAJA",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SWATHI LAKSHMI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 35,
+    "name": "Madurantakam",
+    "district": "Chengalpattu",
+    "lat": 12.4956,
+    "lng": 79.8971,
+    "winner2021": {
+      "name": "MARAGATHAM KUMARAVEL",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "S. AMULU PONMALAR",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "MARAGATHAM KUMARAVEL",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "MUNITHNAM",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "JANAKI RAMAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 36,
+    "name": "Uthiramerur",
+    "district": "Kancheepuram",
+    "lat": 12.6218,
+    "lng": 79.7541,
+    "winner2021": {
+      "name": "K. SUNDAR",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. SUNDAR",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "PE. MAHESH KUMAR",
+        "party": "PMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "R. V. RANJITHKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "MARAM MAASILAMANI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 37,
+    "name": "Kancheepuram",
+    "district": "Kancheepuram",
+    "lat": 12.8185,
+    "lng": 79.6947,
+    "winner2021": {
+      "name": "C. V. M. P. EZHAILZRASAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "NITHYA SUGUMAR",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "V. SOMASUNDARAM",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "R. V. RANJITHKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "VETRISELVI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 38,
+    "name": "Arakkonam",
+    "district": "Vellore",
+    "lat": 13.0836,
+    "lng": 79.6719,
+    "winner2021": {
+      "name": "S. RAVI",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "Ezhil Karolin",
+        "party": "VCK",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "S. RAVI",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "V. GANDHIRAJ",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "RAJ KUMAR",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 39,
+    "name": "Sholingur",
+    "district": "Vellore",
+    "lat": 13.1182,
+    "lng": 79.4215,
+    "winner2021": {
+      "name": "A. M. MUNIRATHINAM",
+      "party": "INC",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "K. SARAVANAN",
+        "party": "PMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "G. KAPIL",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ASHOK KUMAR",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 40,
+    "name": "Katpadi",
+    "district": "Vellore",
+    "lat": 12.97,
+    "lng": 79.1442,
+    "winner2021": {
+      "name": "DURAIMURUGAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "DURAIMURUGAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "V. RAMU",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "M. SUDHAKAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "THIRUKUMARAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 41,
+    "name": "Ranipet",
+    "district": "Ranipet",
+    "lat": 12.9222,
+    "lng": 79.3313,
+    "winner2021": {
+      "name": "VINOTH GANDHI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "VINOTH GANDHI",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "V. M. KARTHIKEYAN[C]",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "DAHEERA",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "THARIKKA SALMAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 42,
+    "name": "Arcot",
+    "district": "Ranipet",
+    "lat": 12.9063,
+    "lng": 79.3177,
+    "winner2021": {
+      "name": "J. L. ESWARAPPAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "J. L. ESWARAPPAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "S. M. SUKUMAR",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "G. VIJAYMOHAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ARCHAHA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 43,
+    "name": "Vellore",
+    "district": "Vellore",
+    "lat": 12.9165,
+    "lng": 79.1325,
+    "winner2021": {
+      "name": "P. KARTHIKEYAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "P. KARTHIKEYAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "S. R. K. APPU",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "M. M. VINOTH KANNAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SONIYA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 44,
+    "name": "Anaikattu",
+    "district": "Vellore",
+    "lat": 12.7833,
+    "lng": 79.0167,
+    "winner2021": {
+      "name": "A. P. NANDAKUMAR",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "A. P. NANDAKUMAR",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "T. VELAZHAGAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "R. VELMURUGAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "RAVI KUMAR",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 45,
+    "name": "Kilvaithinankuppam",
+    "district": "Vellore",
+    "lat": 12.8354,
+    "lng": 79.1234,
+    "winner2021": {
+      "name": "M. JAGAN MOORTHY[D]",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "DR. RAJESWARI MOHANKANDHI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "M. JAGAN MOORTHY[D]",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "E. THENDRAL KUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KALAIYENDRI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 46,
+    "name": "Gudiyatham",
+    "district": "Vellore",
+    "lat": 12.9462,
+    "lng": 78.8667,
+    "winner2021": {
+      "name": "V. AMULU",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. B. Prathab",
+        "party": "DMDK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "K. SINDHU",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "IMALAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 47,
+    "name": "Vaniyambadi",
+    "district": "Tirupattur",
+    "lat": 12.6913,
+    "lng": 78.6203,
+    "winner2021": {
+      "name": "G. SENTHILKUMAR",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "SAYYED FAROOQ",
+        "party": "IUML",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "G. SENTHILKUMAR",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "S. SAYED",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "MURUGESAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 48,
+    "name": "Ambur",
+    "district": "Tirupattur",
+    "lat": 12.793,
+    "lng": 78.7167,
+    "winner2021": {
+      "name": "A. C. VILWANATHAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "A.C. VILVANATHAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "R. VENKATESAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "P. IMDHIYAS",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "AFSIA THOUFIC BIKRID",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 49,
+    "name": "Jolarpet",
+    "district": "Tirupattur",
+    "lat": 12.5654,
+    "lng": 78.5814,
+    "winner2021": {
+      "name": "K. DEVARAJI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "KAVITHA DHANDAPANI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "K. C. VEERAMANI",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "C. MUNISAMY",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SASI REKHA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 50,
+    "name": "Tirupattur",
+    "district": "Tirupattur",
+    "lat": 12.4961,
+    "lng": 78.5737,
+    "winner2021": {
+      "name": "A. NALLATHAMBI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "A. NALLATHAMBI",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "A. GNANASEKAR",
+        "party": "AMMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "DR. M. THIRUPPATHI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "AARUMUGAM",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 51,
+    "name": "Uthangarai",
+    "district": "Krishnagiri",
+    "lat": 12.3215,
+    "lng": 78.4268,
+    "winner2021": {
+      "name": "T. M. TAMILSELVAM",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "T. M. TAMILSELVAM",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "B. KUMARAVEL",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "MEGALA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 52,
+    "name": "Bargur",
+    "district": "Krishnagiri",
+    "lat": 12.4083,
+    "lng": 78.2833,
+    "winner2021": {
+      "name": "D. MATHIAZHAGAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "D. MATHIAZHAGAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "E. C. GOVINDARAJAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "E. MURALIDHARAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KAVIN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 53,
+    "name": "Krishnagiri",
+    "district": "Krishnagiri",
+    "lat": 12.5266,
+    "lng": 78.2137,
+    "winner2021": {
+      "name": "K. ASHOK KUMAR",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "K. ASHOK KUMAR",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "R. MUHUNDH PANDIAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SUGANTHI PARTHIBAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 54,
+    "name": "Veppanahalli",
+    "district": "Krishnagiri",
+    "lat": 12.5833,
+    "lng": 78.2167,
+    "winner2021": {
+      "name": "K. P. MUNUSAMY",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "P. S. SREENIVASAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "K. P. MUNUSAMY",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "SAMBANGI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "NAGARAJ",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 55,
+    "name": "Hosur",
+    "district": "Krishnagiri",
+    "lat": 12.7409,
+    "lng": 77.8253,
+    "winner2021": {
+      "name": "Y. PRAKAASH",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "S. A. SATHYA",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "P. BALAKRISHNA REDDY",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "M. AMBARISH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "STALIN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 56,
+    "name": "Thalli",
+    "district": "Krishnagiri",
+    "lat": 12.65,
+    "lng": 77.9167,
+    "winner2021": {
+      "name": "T. RAMACHANDRAN",
+      "party": "CPI",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "T. RAMACHANDRAN",
+        "party": "CPI",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "AMAR PRASAD REDDY",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "G. SURESH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "NARASIMMAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 57,
+    "name": "Palacode",
+    "district": "Dharmapuri",
+    "lat": 12.2333,
+    "lng": 78.0167,
+    "winner2021": {
+      "name": "K. P. ANBALAGAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "S. SENTHILKUMAR",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "K. P. ANBALAGAN",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "R. GOPI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "BOOPATHY",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 58,
+    "name": "Pennagaram",
+    "district": "Dharmapuri",
+    "lat": 12.1274,
+    "lng": 78.0833,
+    "winner2021": {
+      "name": "G. K. MANI",
+      "party": "PMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "BODI V. SELVAM",
+        "party": "PMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "KAJENDRAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "PALANIYAMMAL",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 59,
+    "name": "Dharmapuri",
+    "district": "Dharmapuri",
+    "lat": 12.1274,
+    "lng": 78.1578,
+    "winner2021": {
+      "name": "S. P. VENKATESHWARAN",
+      "party": "PMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "V. ELANGOVAN",
+        "party": "DMDK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "SOWMIYA ANBUMANI",
+        "party": "PMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "M. SIVAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SANTHA LAKSHMI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 60,
+    "name": "Pappireddipatti",
+    "district": "Dharmapuri",
+    "lat": 11.975,
+    "lng": 78.25,
+    "winner2021": {
+      "name": "A. GOVINDASAMY",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "DR. P. PALANIAPPAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. THILAVATHI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ARCHANA TAMIL ARUVI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 61,
+    "name": "Harur",
+    "district": "Dharmapuri",
+    "lat": 12.05,
+    "lng": 78.4833,
+    "winner2021": {
+      "name": "V. SAMPATHKUMAR",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "A. SHANMUGAM",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "V. SAMPATHKUMAR",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "K. RAKESH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ANITHA ANNADURAI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 62,
+    "name": "Chengam",
+    "district": "Tiruvannamalai",
+    "lat": 12.3167,
+    "lng": 78.7833,
+    "winner2021": {
+      "name": "M. P. GIRI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. P. GIRI",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "T. S. VELU",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "K. BHARATHIDHASAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "J SHOBHA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 63,
+    "name": "Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "lat": 12.2253,
+    "lng": 79.0747,
+    "winner2021": {
+      "name": "E. V. VELU",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "E. V. VELU",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "E.V. VELU",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "ARUL ARUMUGAM",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "VIGNESH",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 64,
+    "name": "Kilpennathur",
+    "district": "Tiruvannamalai",
+    "lat": 12.1333,
+    "lng": 79.1833,
+    "winner2021": {
+      "name": "K. PITCHANDI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. PITCHANDI",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "S. RAMACHANDRAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "D. RAJA",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "V. LOGANATHAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 65,
+    "name": "Kalasapakkam",
+    "district": "Tiruvannamalai",
+    "lat": 12.45,
+    "lng": 79.0167,
+    "winner2021": {
+      "name": "P. S. T. SARAVANAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "P. S. T. SARAVANAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "S. S. AGRI KRISHNAMURTHY",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "C. ELUMALAI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SEETHA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 66,
+    "name": "Polur",
+    "district": "Tiruvannamalai",
+    "lat": 12.5167,
+    "lng": 79.1167,
+    "winner2021": {
+      "name": "S. S. AGRI KRISHNAMURTHY",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "T. P. SARAVANAN",
+        "party": "DMDK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "C. R. BASKARAN",
+        "party": "PMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "R. ABISHEK",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "UMADEVI PRAKASH",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 67,
+    "name": "Arani",
+    "district": "Tiruvannamalai",
+    "lat": 12.6703,
+    "lng": 79.28,
+    "winner2021": {
+      "name": "S. SEVOOR RAMACHANDRAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "MAHALAKSHMI GOVARTHANAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "L. JAYA SUDHA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "A. VENKATESAN KUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "THAVAMANI RAMESH",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 68,
+    "name": "Cheyyar",
+    "district": "Tiruvannamalai",
+    "lat": 12.6667,
+    "lng": 79.55,
+    "winner2021": {
+      "name": "O. JOTHI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "O. JOTHI",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "N. MUKKUR SUBRAMANIAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "V. C. K. MOHAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "TAMIL SELVAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 69,
+    "name": "Vandavasi",
+    "district": "Tiruvannamalai",
+    "lat": 12.5,
+    "lng": 79.6333,
+    "winner2021": {
+      "name": "AMBETHKUMAR",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "AMBETHKUMAR",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "P. RANI",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "UDHAYAKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "GANESH",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 70,
+    "name": "Gingee",
+    "district": "Villupuram",
+    "lat": 12.25,
+    "lng": 79.4167,
+    "winner2021": {
+      "name": "K. S. MASTHAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. S. MASTHAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "A. GANESHKUMAR",
+        "party": "PMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "V. CHANDRASEKARAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KRISHNAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 71,
+    "name": "Mailam",
+    "district": "Villupuram",
+    "lat": 12.0667,
+    "lng": 79.5333,
+    "winner2021": {
+      "name": "C. SIVAKUMAR",
+      "party": "PMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "L. VENKATESAN",
+        "party": "DMDK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "C. V. E. SHANMUGAM",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "A. VIJAY NIRANJAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "VIJAY VIKRAM",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 72,
+    "name": "Tindivanam",
+    "district": "Villupuram",
+    "lat": 12.2397,
+    "lng": 79.6511,
+    "winner2021": {
+      "name": "P. ARJUNAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "Vanni Arasu",
+        "party": "VCK",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "P. ARJUNAN",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "S. SAKTHIVEL",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "PETCHIMUTHU",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 73,
+    "name": "Vanur",
+    "district": "Villupuram",
+    "lat": 11.9667,
+    "lng": 79.5833,
+    "winner2021": {
+      "name": "M. CHAKRAPANI",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "GAUTHAM DRAVIDAMANI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "P. MURUGAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "G. P. SURESH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KARIKAZHAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 74,
+    "name": "Villupuram",
+    "district": "Villupuram",
+    "lat": 11.9346,
+    "lng": 79.4948,
+    "winner2021": {
+      "name": "R. LAKSHMANAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "R. LAKSHMANAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "K. VIJAYA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "N. MOHANRAJ",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ABHINAYA PONNIVALAVAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 75,
+    "name": "Vikravandi",
+    "district": "Villupuram",
+    "lat": 11.8,
+    "lng": 79.5333,
+    "winner2021": {
+      "name": "N. PUGAZHENTHI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "ANNIYUR SIVA",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "C. SIVAKUMAR",
+        "party": "PMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "A. VIJAY VADIVEL",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SUBA CHANDRASEKARAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 76,
+    "name": "Tirukkoyilur",
+    "district": "Villupuram",
+    "lat": 11.9667,
+    "lng": 79.2,
+    "winner2021": {
+      "name": "K. PONMUDY",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "GAUTHAM SIGAMANI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "S. PALANISWAMI",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "BARANI BALAJI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "HEMARAJAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 77,
+    "name": "Ulundurpettai",
+    "district": "Kallakurichi",
+    "lat": 11.6833,
+    "lng": 79.3167,
+    "winner2021": {
+      "name": "A. J. MANIKANNAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "G. R. VASANTHAVELU",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "R. KUMARAGURU",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "M. SUDHAKAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "LOGESHWARI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 78,
+    "name": "Rishivandiyam",
+    "district": "Kallakurichi",
+    "lat": 11.8333,
+    "lng": 79.1,
+    "winner2021": {
+      "name": "VASANTHAM KARTHIKEYAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "VASANTHAM KARTHIKEYAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "A. P. SEZHIYAN",
+        "party": "PMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "G. ASHOKKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "RADHIKA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 79,
+    "name": "Sankarapuram",
+    "district": "Kallakurichi",
+    "lat": 11.7667,
+    "lng": 78.9833,
+    "winner2021": {
+      "name": "T. UDHAYA SURIYAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "T. UDHAYA SURIYAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "R. RAKESH",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "A. JAGADEESAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "RAMESH",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 80,
+    "name": "Kallakurichi",
+    "district": "Kallakurichi",
+    "lat": 11.739,
+    "lng": 78.9619,
+    "winner2021": {
+      "name": "M. SENTHILKUMAR",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "Dr. K. Malathi",
+        "party": "VCK",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "S. RAJIV GANDHI",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "C. ARUL VIGNESH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "NAGAMMAL",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 81,
+    "name": "Gangavalli",
+    "district": "Salem",
+    "lat": 11.5167,
+    "lng": 78.8167,
+    "winner2021": {
+      "name": "NALLATHAMBIA",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. CHINNADURAI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "A. NALLATHAMBI",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "V. SUJATHA",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ABIRAMI NEDUNCHERALATHAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 82,
+    "name": "Attur",
+    "district": "Salem",
+    "lat": 11.599,
+    "lng": 78.599,
+    "winner2021": {
+      "name": "A. P. JAYASANKARAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "A. P. JAYASANKARAN",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "R. SELVABHARATHI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "MONISHA CHINNADURAI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 83,
+    "name": "Yercaud",
+    "district": "Salem",
+    "lat": 11.775,
+    "lng": 78.2083,
+    "winner2021": {
+      "name": "G. CHITRA",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "T. M. REVATHI MATHESWARAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "P. USHARANI",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "J. LAKSHMI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "PALANISAMY",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 84,
+    "name": "Omalur",
+    "district": "Salem",
+    "lat": 11.7167,
+    "lng": 77.9833,
+    "winner2021": {
+      "name": "R. MANI",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "A. R. ELANGOVAN",
+        "party": "DMDK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "R. MANI",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "R. V. ADHIYAMAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SIVA SAKTHI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 85,
+    "name": "Mettur",
+    "district": "Salem",
+    "lat": 11.794,
+    "lng": 77.8011,
+    "winner2021": {
+      "name": "S. SADHASIVAM",
+      "party": "PMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "MITHUN CHAKRAVARTHY",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "G. VENKATACHALAM",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "K. SELVAM",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "VIDHYA VEERAPAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 86,
+    "name": "Edappadi",
+    "district": "Salem",
+    "lat": 11.6667,
+    "lng": 77.95,
+    "winner2021": {
+      "name": "K. EDAPPADI PALANISWAMI",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "KASI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "K. EDAPPADI PALANISWAMI",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "M. ARUNKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "PRIYADHARSHINI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 87,
+    "name": "Sankari",
+    "district": "Salem",
+    "lat": 11.6667,
+    "lng": 77.7833,
+    "winner2021": {
+      "name": "S. SUNDARARAJAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. MANIKANDAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "S. VETRIVEL",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "SENTHILKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "NITHYA ARUL",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 88,
+    "name": "Salem (West)",
+    "district": "Salem",
+    "lat": 11.65,
+    "lng": 78.1,
+    "winner2021": {
+      "name": "R. ARUL",
+      "party": "PMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. LOGANATHAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "M. KARTHI",
+        "party": "PMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. LAKSHMANAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SURESH KUMAR",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 89,
+    "name": "Salem (North)",
+    "district": "Salem",
+    "lat": 11.68,
+    "lng": 78.16,
+    "winner2021": {
+      "name": "R. RAJENDRAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. LOGANATHAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "S. SADASIVAM",
+        "party": "PMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "K. SIVAKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "GUNASEELA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 90,
+    "name": "Salem (South)",
+    "district": "Salem",
+    "lat": 11.63,
+    "lng": 78.18,
+    "winner2021": {
+      "name": "E. BALASUBRAMANIAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. LOGANATHAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "J. VINODH",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "A. VIJAY TAMILAN PARTHIBAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SOPHIYA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 91,
+    "name": "Veerapandi",
+    "district": "Salem",
+    "lat": 11.6167,
+    "lng": 77.85,
+    "winner2021": {
+      "name": "M. RAJAMUTHU",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "A. K. THARUN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "DR. SRI. BALAJI SUKUMAR",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "M. S. PALANIVEL",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "RAJESH KUMAR",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 92,
+    "name": "Rasipuram",
+    "district": "Namakkal",
+    "lat": 11.4667,
+    "lng": 78.1667,
+    "winner2021": {
+      "name": "M. MATHIVENTHAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. MATHIVENDHAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "BJP",
+        "isIncumbent": null
+      },
+      "TVK": {
+        "name": "LOKESH DHANAPAL",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SASIKALA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 93,
+    "name": "Senthamangalam",
+    "district": "Namakkal",
+    "lat": 11.5,
+    "lng": 78.5667,
+    "winner2021": {
+      "name": "K. PONNUSAMY",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "P. POOMALAR",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "C. CHANDRASHEKHAR",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "P. CHANDRASEKAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "PONNUMANI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 94,
+    "name": "Namakkal",
+    "district": "Namakkal",
+    "lat": 11.2333,
+    "lng": 78.1667,
+    "winner2021": {
+      "name": "P. RAMALINGAM",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "P. RANI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "P. S. SRIDEVI MOHAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "T. S. DILEEP",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "PRAVEEN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 95,
+    "name": "Paramathi-Velur",
+    "district": "Namakkal",
+    "lat": 11.1167,
+    "lng": 77.9667,
+    "winner2021": {
+      "name": "S. SEKAR",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. S. MOORTHY",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "S. SEKAR",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "A. NANDHAKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ARAVINDH",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 96,
+    "name": "Tiruchengodu",
+    "district": "Namakkal",
+    "lat": 11.4333,
+    "lng": 77.9,
+    "winner2021": {
+      "name": "E. R. ESWARAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "E. R. ESWARAN[E]",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "R. CHANDRASHEKHAR",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "K. G. ARUNRAJ",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "REVATHI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 97,
+    "name": "Kumarapalayam",
+    "district": "Namakkal",
+    "lat": 11.45,
+    "lng": 77.6833,
+    "winner2021": {
+      "name": "P. THANGAMANI",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "S. BALU",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "P. THANGAMANI",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "C. VIJAYALAKSHMI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "YUVARANI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 98,
+    "name": "Erode (East)",
+    "district": "Erode",
+    "lat": 11.35,
+    "lng": 77.7333,
+    "winner2021": {
+      "name": "THIRUMAHAN EVERAAE",
+      "party": "INC",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "M. YUVARAJA[C]",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "M. VIJAY BALAJI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "THANDAVA MOORTHY",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 99,
+    "name": "Erode (West)",
+    "district": "Erode",
+    "lat": 11.32,
+    "lng": 77.7,
+    "winner2021": {
+      "name": "S. MUTHUSAMY",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "S. MUTHUSAMY",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "M. YUVARAJA[C]",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "K. K. ANAND MOHAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "VIJAY",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 100,
+    "name": "Modakkurichi",
+    "district": "Erode",
+    "lat": 11.3833,
+    "lng": 77.6333,
+    "winner2021": {
+      "name": "C. SARASWATHI",
+      "party": "BJP",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "SENTHILNATHAN[F]",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "KRITHIGA SIVAKUMAR",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "D. SHANMUGAM",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ARUN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 101,
+    "name": "Dharapuram",
+    "district": "Tiruppur",
+    "lat": 10.7333,
+    "lng": 77.5167,
+    "winner2021": {
+      "name": "N. KAYALVIZHI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "DR. INDIRANI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "P. SATHYABAMA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. GOWRI CHITHRA",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "DIVYA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 102,
+    "name": "Kangayam",
+    "district": "Tiruppur",
+    "lat": 11.0048,
+    "lng": 77.5606,
+    "winner2021": {
+      "name": "M. P. SAMINATHAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. P. SAMINATHAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "N. S. N. NATARAJ",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "T. MANI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KARMEGAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 103,
+    "name": "Perundurai",
+    "district": "Erode",
+    "lat": 11.2833,
+    "lng": 77.5833,
+    "winner2021": {
+      "name": "S. JAYAKUMAR",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "N. D. VENKATACHALAM",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "S. JAYAKUMAR",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "V. T. ARUNACHALAM",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "LOGU",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 104,
+    "name": "Bhavani",
+    "district": "Erode",
+    "lat": 11.4479,
+    "lng": 77.683,
+    "winner2021": {
+      "name": "K. C. KARUPPANAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. A. CHANDRASEKHAR",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "K. C. KARUPPANNAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "M. P. BALAKRISHNAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "MENAKA DEVI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 105,
+    "name": "Anthiyur",
+    "district": "Erode",
+    "lat": 11.5667,
+    "lng": 77.5833,
+    "winner2021": {
+      "name": "A. G. VENKATACHALAM",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. SIVABALAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "P. HARIBHASKAR",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "M. VIJAY VENKATESH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ANANDHI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 106,
+    "name": "Gobichettipalayam",
+    "district": "Erode",
+    "lat": 11.45,
+    "lng": 77.4333,
+    "winner2021": {
+      "name": "K. A. SENGOTTAIYAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "N. NALLASIVAM",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "V. B. PRABHU",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "K. A. SENGOTTAIYAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SEETHA LAKSHMI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 107,
+    "name": "Bhavanisagar",
+    "district": "Erode",
+    "lat": 11.4667,
+    "lng": 77.2167,
+    "winner2021": {
+      "name": "A. BANNARI",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "P. L. SUNDARAM",
+        "party": "CPI",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "A. BANNARI",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "V. P. TAMIL SELVI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SOUNDARYA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 108,
+    "name": "Udhagamandalam",
+    "district": "Nilgiris",
+    "lat": 11.4916,
+    "lng": 76.7337,
+    "winner2021": {
+      "name": "R. GANESH",
+      "party": "INC",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "BHOJARAJAN",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "R. IBRAHIM",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "RAGUPATHU DEEPAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 109,
+    "name": "Gudalur",
+    "district": "Nilgiris",
+    "lat": 11.499,
+    "lng": 76.496,
+    "winner2021": {
+      "name": "PON. JAYASEELAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "DRAVIDAMANI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "PON. JAYASEELAN",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "A. DEEPAK SAI KISHORE",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KARTHIK RAMAKRISHNAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 110,
+    "name": "Coonoor",
+    "district": "Nilgiris",
+    "lat": 11.353,
+    "lng": 76.795,
+    "winner2021": {
+      "name": "K. RAMACHANDRAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. M. RAJU",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "A. RAMU",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "C. THANGARAJ",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "DHEENU",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 111,
+    "name": "Mettuppalayam",
+    "district": "Coimbatore",
+    "lat": 11.2974,
+    "lng": 76.9437,
+    "winner2021": {
+      "name": "A. K. SELVARAJ",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "KAVITHA KALYANACHUNDARAM",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "N. SUNIL ANAND",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "GOPALAKRISHNAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 112,
+    "name": "Avanashi",
+    "district": "Tiruppur",
+    "lat": 11.1833,
+    "lng": 77.1167,
+    "winner2021": {
+      "name": "P. DHANAPAL",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "GOKILAMANI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "L. MURUGAN",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. KAMALI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "MENAGA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 113,
+    "name": "Tiruppur (North)",
+    "district": "Tiruppur",
+    "lat": 11.12,
+    "lng": 77.35,
+    "winner2021": {
+      "name": "K. N. VIJEYAKUMAR",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. DINESHKUMAR",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "BJP",
+        "isIncumbent": null
+      },
+      "TVK": {
+        "name": "SATHYABAMA",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ABHINAYA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 114,
+    "name": "Tiruppur (South)",
+    "district": "Tiruppur",
+    "lat": 11.09,
+    "lng": 77.34,
+    "winner2021": {
+      "name": "K. SELVARAJ",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. DINESHKUMAR",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "BJP",
+        "isIncumbent": null
+      },
+      "TVK": {
+        "name": "S. BALAMURUGAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "PERARIVALAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 115,
+    "name": "Palladam",
+    "district": "Tiruppur",
+    "lat": 10.9833,
+    "lng": 77.2833,
+    "winner2021": {
+      "name": "M. S. M. ANANDAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. SELVARAJ",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "K. P. PARAMASIVAM",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "K. RAMKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "THAMIZHINIAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 116,
+    "name": "Sulur",
+    "district": "Coimbatore",
+    "lat": 11.0333,
+    "lng": 77.1333,
+    "winner2021": {
+      "name": "V. P. KANDASAMY",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "S. MURUGESAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "V. P. KANDASAMY",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "N. M. SUKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "RAJASEKHAR",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 117,
+    "name": "Kavundampalayam",
+    "district": "Coimbatore",
+    "lat": 11.05,
+    "lng": 76.9833,
+    "winner2021": {
+      "name": "P. R. G. ARUNKUMAR",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "P. R. G. ARUNKUMAR",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "R. T. KANIMOZHI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KALAMANI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 118,
+    "name": "Coimbatore (North)",
+    "district": "Coimbatore",
+    "lat": 11.0333,
+    "lng": 76.9667,
+    "winner2021": {
+      "name": "K. AMMAN ARJUNAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "V. SENTHIL BALAJI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "VANATHI SRINIVASAN",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "V. SAMPATHKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "NARMATHA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 119,
+    "name": "Thondamuthur",
+    "district": "Coimbatore",
+    "lat": 10.9333,
+    "lng": 76.8167,
+    "winner2021": {
+      "name": "S. P. VELUMANI",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "N. R. KARTHIKEYAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "S. P. VELUMANI",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "R. SATHISH RAJU",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "RAJABUNISHA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 120,
+    "name": "Coimbatore (South)",
+    "district": "Coimbatore",
+    "lat": 11.0,
+    "lng": 76.95,
+    "winner2021": {
+      "name": "VANATHI SRINIVASAN",
+      "party": "BJP",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "V. SENTHIL BALAJI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "K. AMMAN ARJUNAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "V. SENTHIL KUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "PERARIVALAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 121,
+    "name": "Singanallur",
+    "district": "Coimbatore",
+    "lat": 11.0167,
+    "lng": 77.0333,
+    "winner2021": {
+      "name": "K. R. JAYARAMAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "K. R. JAYARAMAN",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "K. S. GIRIPRASHATH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "NEHRUJI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 122,
+    "name": "Kinathukadavu",
+    "district": "Coimbatore",
+    "lat": 10.85,
+    "lng": 77.05,
+    "winner2021": {
+      "name": "S. DAMODARAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. V. K. S. SABARI KARTHIKEYAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "S. DAMODARAN",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "K. VIGNESH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "BANUPRIYA SENTHIL KUMAR",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 123,
+    "name": "Pollachi",
+    "district": "Coimbatore",
+    "lat": 10.66,
+    "lng": 77.007,
+    "winner2021": {
+      "name": "V. POLLACHI JAYARAMAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. NITHYANANDHAN[E]",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "V. POLLACHI JAYARAMAN",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "G. RAMANATHAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SENTHIL",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 124,
+    "name": "Valparai",
+    "district": "Coimbatore",
+    "lat": 10.3275,
+    "lng": 76.9556,
+    "winner2021": {
+      "name": "T. K. AMULKANDASAMI",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "A. SUDHAKAR",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "D. LAKSHMANA SINGH",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "DR. SREEDHARAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "UMA DEVI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 125,
+    "name": "Udumalaipettai",
+    "district": "Tiruppur",
+    "lat": 10.5833,
+    "lng": 77.25,
+    "winner2021": {
+      "name": "RADHAKRISHNANK",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. RADHAKRISHNAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "K. UDUMALAI RADHAKRISHNAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "G. K. SHANKAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "RAM KUMAR",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 126,
+    "name": "Madathukulam",
+    "district": "Tiruppur",
+    "lat": 10.6833,
+    "lng": 77.55,
+    "winner2021": {
+      "name": "C. MAHENDRAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "R. JAYARAMAKRISHNAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "C. SHANMUGAVELU",
+        "party": "AMMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "R. THIRUMALAI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "RADHAMANI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 127,
+    "name": "Palani",
+    "district": "Dindigul",
+    "lat": 10.45,
+    "lng": 77.5167,
+    "winner2021": {
+      "name": "I. P. SENTHIL KUMAR",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "CPI(M)",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "K. RAVI MANOHARAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "DR. M. PRAVEENKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "MURUGESHWARI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 128,
+    "name": "Oddanchatram",
+    "district": "Dindigul",
+    "lat": 10.4833,
+    "lng": 77.7333,
+    "winner2021": {
+      "name": "R. SAKKARAPANI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "R. SAKKARAPANI",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "VIDIYAL SEKAR[C]",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. MOHAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "RAGUPATHI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 129,
+    "name": "Athoor",
+    "district": "Dindigul",
+    "lat": 10.35,
+    "lng": 77.9167,
+    "winner2021": {
+      "name": "I. PERIYASAMY",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "I. PERIYASAMY",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "A. VISWANATHAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "N. KALAISELVI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SIMON JUSTIN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 130,
+    "name": "Nilakkottai",
+    "district": "Dindigul",
+    "lat": 10.1667,
+    "lng": 77.8667,
+    "winner2021": {
+      "name": "S. THENMOZHI",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "NAGAJOTHI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "R. AYYANAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KAILAI RAJAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 131,
+    "name": "Natham",
+    "district": "Dindigul",
+    "lat": 10.2167,
+    "lng": 78.1833,
+    "winner2021": {
+      "name": "R. NATHAM VISWANATHAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "A.P. NANDAKUMAR",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "R. NATHAM VISWANATHAN",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "L. L. RAMESH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ALAGAMMAL",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 132,
+    "name": "Dindigul",
+    "district": "Dindigul",
+    "lat": 10.3624,
+    "lng": 77.9695,
+    "winner2021": {
+      "name": "C. DINDIGUL SREENIVASAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "I. P. SENTHILKUMAR",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "C. DINDIGUL SREENIVASAN",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "NAZEER RAJA",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "MUTHARASI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 133,
+    "name": "Vedasandur",
+    "district": "Dindigul",
+    "lat": 10.5333,
+    "lng": 77.9667,
+    "winner2021": {
+      "name": "S. GANDHIRAJAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "S. GANDHIRAJAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "V. P. B. PARAMASIVAM",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "DR. N. NAGAJOTHI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "HUSSAIN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 134,
+    "name": "Aravakurichi",
+    "district": "Karur",
+    "lat": 10.9,
+    "lng": 78.0667,
+    "winner2021": {
+      "name": "R. MONJANUR ELANGO",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "R. MONJANUR ELANGO",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "K. SELVAKUMAR",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "KARTHIKEYAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "NARAIN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 135,
+    "name": "Karur",
+    "district": "Karur",
+    "lat": 10.9601,
+    "lng": 78.0766,
+    "winner2021": {
+      "name": "V. SENTHILBALAJI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "ASI. M. THYAGARAJAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "M. R. VIJAYABHASKAR",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "V. P. MATHIYALAGAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KARUPPAIAH",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 136,
+    "name": "Krishnarayapuram",
+    "district": "Karur",
+    "lat": 10.95,
+    "lng": 78.2333,
+    "winner2021": {
+      "name": "K. SIVAGAMA SUNDARI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "C. K. RAJA",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "DR. S. DHIVYA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. MADHAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SATHYA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 137,
+    "name": "Kulithalai",
+    "district": "Karur",
+    "lat": 10.9333,
+    "lng": 78.4167,
+    "winner2021": {
+      "name": "R. MANICKAM",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "A. SURIYANUR CHANDIRAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "S. KARUNAKARAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "G. BALASUBRAMANI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "NANMARAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 138,
+    "name": "Manapparai",
+    "district": "Tiruchirappalli",
+    "lat": 10.6033,
+    "lng": 78.4236,
+    "winner2021": {
+      "name": "P. ABDUL SAMAD",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "MMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "P. L. VIJAYAKUMAR",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "R. KATHIRAVAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ARUNAGIRI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 139,
+    "name": "Srirangam",
+    "district": "Tiruchirappalli",
+    "lat": 10.8567,
+    "lng": 78.6903,
+    "winner2021": {
+      "name": "M. PALANIYANDI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "S. PALANIANDI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "R. MANOHARAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. RAMESH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "DHARMARAJ",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 140,
+    "name": "Tiruchirappalli (West)",
+    "district": "Tiruchirappalli",
+    "lat": 10.7905,
+    "lng": 78.68,
+    "winner2021": {
+      "name": "K. N. NEHRU",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "INIGO IRUDHAYARAJ",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "THOTTIYAM RAJASEKARAN",
+        "party": "AMMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "G. RAMAMOORTHY",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "BHUVANESHWARI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 141,
+    "name": "Tiruchirappalli (East)",
+    "district": "Tiruchirappalli",
+    "lat": 10.8,
+    "lng": 78.72,
+    "winner2021": {
+      "name": "INIGO IRUDHAYARAJ",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "INIGO IRUDHAYARAJ",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "K. RAJASEKARAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "C. JOSEPH VIJAY",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KRISHNASAMY",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 142,
+    "name": "Thiruverumbur",
+    "district": "Tiruchirappalli",
+    "lat": 10.8333,
+    "lng": 78.8167,
+    "winner2021": {
+      "name": "ANBIL MAHESH POYYAMOZHI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "ANBIL MAHESH POYYAMOZHI",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "P. KUMAR",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. NAVALPATTU VIJI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "JALLIKATTU RAJESH",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 143,
+    "name": "Lalgudi",
+    "district": "Tiruchirappalli",
+    "lat": 10.8667,
+    "lng": 78.8333,
+    "winner2021": {
+      "name": "A. SOUNDARA PANDIAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "A. SOUNDARA PANDIAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "R. LEEMA ROSE",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "K. P. KRISHNAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "MADHAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 144,
+    "name": "Manachanallur",
+    "district": "Tiruchirappalli",
+    "lat": 10.9333,
+    "lng": 78.8667,
+    "winner2021": {
+      "name": "S. KATHIRAVAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "S. KATHIRAVAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "R. V. BHARATHAN[H]",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "V. SARAVANAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "THENMOZHI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 145,
+    "name": "Musiri",
+    "district": "Tiruchirappalli",
+    "lat": 10.95,
+    "lng": 78.45,
+    "winner2021": {
+      "name": "N. THIYAGARAJAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "N. S. N. KARUNAIRAJA",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "N. YOGANATHAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "N. VIGNESH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "BAKYA LAKSHMI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 146,
+    "name": "Thuraiyur",
+    "district": "Tiruchirappalli",
+    "lat": 11.15,
+    "lng": 78.5833,
+    "winner2021": {
+      "name": "S. STALINKUMAR",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "E. SUROJA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "K. SIVAKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "GOWSALYA SURESH",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 147,
+    "name": "Perambalur",
+    "district": "Perambalur",
+    "lat": 11.2333,
+    "lng": 78.8833,
+    "winner2021": {
+      "name": "M. PRABHAHARAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "DR. S. D. JAYALAKSHMI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "R. ILAMBAI THAMIZHSELVAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "K. SIVAKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "JOHNSY RANI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 148,
+    "name": "Kunnam",
+    "district": "Perambalur",
+    "lat": 11.4,
+    "lng": 79.0167,
+    "winner2021": {
+      "name": "S. S. SIVASANKAR",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "S. S. SIVASANKAR",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "SARANYA ANBAZHAGAN[B]",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "M. REVATHI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KEERTHI VASAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 149,
+    "name": "Ariyalur",
+    "district": "Ariyalur",
+    "lat": 11.14,
+    "lng": 79.0784,
+    "winner2021": {
+      "name": "K. CHINNAPPA",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "LATHA BALU",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "S. THAMARAI RAJENDRAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "M. SIVAKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "PUGALENDHI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 150,
+    "name": "Jayankondam",
+    "district": "Ariyalur",
+    "lat": 11.2,
+    "lng": 79.35,
+    "winner2021": {
+      "name": "K. A. S. O. K. A. KANNAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. A. S. O. K. A. KANNAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "VAITHI",
+        "party": "PMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "G. KAVITHA RAJENDRAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "REVATHI KALAIMANI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 151,
+    "name": "Tittagudi",
+    "district": "Cuddalore",
+    "lat": 11.4167,
+    "lng": 79.1,
+    "winner2021": {
+      "name": "C. V. GANESAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "C.V. GANESAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "RAJASEKAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "MAHALAKSHMI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 152,
+    "name": "Vridhachalam",
+    "district": "Cuddalore",
+    "lat": 11.5167,
+    "lng": 79.3167,
+    "winner2021": {
+      "name": "RADHAKRISHNAN",
+      "party": "INC",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "Premalatha Vijayakanth",
+        "party": "DMDK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "TAMILARASI ADHIMOOLAM",
+        "party": "PMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. VIJAY",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "AMUDHA NAMBI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 153,
+    "name": "Neyveli",
+    "district": "Cuddalore",
+    "lat": 11.6,
+    "lng": 79.4833,
+    "winner2021": {
+      "name": "SABA RAJENDRAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "SABA RAJENDRAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "R. SORATHUR RAJENDRAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "K. ANAND",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "VEERAMANI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 154,
+    "name": "Panruti",
+    "district": "Cuddalore",
+    "lat": 11.7667,
+    "lng": 79.55,
+    "winner2021": {
+      "name": "T. VELMURUGAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "Abdul Rahman",
+        "party": "VCK",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "K. MOHAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "M. MANIKANDAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "BANU PRIYA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 155,
+    "name": "Cuddalore",
+    "district": "Cuddalore",
+    "lat": 11.748,
+    "lng": 79.7714,
+    "winner2021": {
+      "name": "G. IYAPPAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "M. C. SAMPATH",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "V. RAJKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SARASU",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 156,
+    "name": "Kurinjipadi",
+    "district": "Cuddalore",
+    "lat": 11.7167,
+    "lng": 79.6333,
+    "winner2021": {
+      "name": "M. R. K. PANNEERSELVAM",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. R. K. PANNEERSELVAM",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "A. BHUVANENDHRAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "DR. RAJKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SENGOLAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 157,
+    "name": "Bhuvanagiri",
+    "district": "Cuddalore",
+    "lat": 11.45,
+    "lng": 79.6333,
+    "winner2021": {
+      "name": "A. ARUNMOZHITHEVAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. DURAI SARAVANA",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "A. ARUNMOZHITHEVAN",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "D. M. MAHALINGAM",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SUMATHI SRINIVASAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 158,
+    "name": "Chidambaram",
+    "district": "Cuddalore",
+    "lat": 11.3997,
+    "lng": 79.6934,
+    "winner2021": {
+      "name": "K. A. PANDIAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "THAMIMUN ANSARI[I]",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "K. A. PANDIAN",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "DR. N. PARI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "TAMIL",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 159,
+    "name": "Kattumannarkoil",
+    "district": "Cuddalore",
+    "lat": 11.4833,
+    "lng": 79.5667,
+    "winner2021": {
+      "name": "SINTHANAI SELVAN",
+      "party": "VCK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "Thol. Thirumavalavan",
+        "party": "VCK",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "ANBU CHOZHAN",
+        "party": "PMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. SRINIVASAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SIVAJOTHI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 160,
+    "name": "Sirkazhi",
+    "district": "Nagapattinam",
+    "lat": 11.2333,
+    "lng": 79.75,
+    "winner2021": {
+      "name": "M. PANNEERSELVAM",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "SENTHIL SELVAN",
+        "party": "MDMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "M. SAKTHI",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "C. S. GOPINATH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SUBASH",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 161,
+    "name": "Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "lat": 11.1024,
+    "lng": 79.6521,
+    "winner2021": {
+      "name": "S. RAJAKUMAR",
+      "party": "INC",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "NIVETHA MURUGAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "SITHAMALLI",
+        "party": "PMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "C. S. ARUN RASHEETH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KASIRAMAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 162,
+    "name": "Poompuhar",
+    "district": "Nagapattinam",
+    "lat": 11.1,
+    "lng": 79.85,
+    "winner2021": {
+      "name": "M. NIVEDHA MURUGAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. NIVEDHA MURUGAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "PAVUNRAJ",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "K. VIJAYALAYAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ILAIYA NAGULAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 163,
+    "name": "Nagapattinam",
+    "district": "Nagapattinam",
+    "lat": 10.7667,
+    "lng": 79.8451,
+    "winner2021": {
+      "name": "J. MOHAMED SHANAVAS",
+      "party": "VCK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. H. JAWAHIRULLAH[G]",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "THANGA KATHIRAVAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "N. SUKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "FATHIMA FARHANA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 164,
+    "name": "Kilvelur",
+    "district": "Nagapattinam",
+    "lat": 10.7833,
+    "lng": 79.8833,
+    "winner2021": {
+      "name": "V. P. NAGAIMAALI",
+      "party": "CPI(M)",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "P. MAHALINGAM",
+        "party": "CPI(M)",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "VADIVEL RAVANAN",
+        "party": "PMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "D. A. P. SENTHILPANDIYAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KARTHIGA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 165,
+    "name": "Vedaranyam",
+    "district": "Nagapattinam",
+    "lat": 10.3781,
+    "lng": 79.8506,
+    "winner2021": {
+      "name": "O. S. MANIAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. A. M. E. PUGAZHENDHI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "O. S. MANIAN",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "A. KINGSLEY GERALD",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "IDUMBAVANAM KARTHIK",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 166,
+    "name": "Thiruthuraipoondi",
+    "district": "Thiruvarur",
+    "lat": 10.55,
+    "lng": 79.65,
+    "winner2021": {
+      "name": "K. MARIMUTHU",
+      "party": "CPI",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. MARIMUTHU",
+        "party": "CPI",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "U. PALADHANDAYUTHAM",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. PANDIYAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "VINOTHINI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 167,
+    "name": "Mannargudi",
+    "district": "Thiruvarur",
+    "lat": 10.6667,
+    "lng": 79.45,
+    "winner2021": {
+      "name": "T. R. B. RAJAA",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "T. R. B. RAJAA",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "S. KAMARAJ",
+        "party": "AMMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "UVM. RAJARAJAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "BHARATHI SELVAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 168,
+    "name": "Thiruvarur",
+    "district": "Thiruvarur",
+    "lat": 10.7667,
+    "lng": 79.6333,
+    "winner2021": {
+      "name": "K. POONDI KALAIVANAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. POONDI KALAIVANAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "BJP",
+        "isIncumbent": null
+      },
+      "TVK": {
+        "name": "V. VEERAMANI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ASHWINI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 169,
+    "name": "Nannilam",
+    "district": "Thiruvarur",
+    "lat": 10.9167,
+    "lng": 79.6167,
+    "winner2021": {
+      "name": "R. KAMARAJ",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "V. M. S. MOHAMMED MUBARAK[J]",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "R. KAMARAJ",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "S. PRABHAKARAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "THEANMOZHI DILEEP KUMAR",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 170,
+    "name": "Thiruvidaimarudur",
+    "district": "Thanjavur",
+    "lat": 10.9,
+    "lng": 79.4833,
+    "winner2021": {
+      "name": "CHEZHIAAN GOVI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "GOVI CHEZIAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "ILAMATHI SUBRAMANIAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. PRABHAKARAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "DIVYA BHARATHI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 171,
+    "name": "Kumbakonam",
+    "district": "Thanjavur",
+    "lat": 10.9617,
+    "lng": 79.3762,
+    "winner2021": {
+      "name": "G. ANBALAGAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "G. ANBALAGAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "M. K. R. ASHOK KUMAR[C]",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "R. VINOTH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ANANTH",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 172,
+    "name": "Papanasam",
+    "district": "Thanjavur",
+    "lat": 10.9167,
+    "lng": 79.2667,
+    "winner2021": {
+      "name": "DR. M. H. JAWAHIRULLAH",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "A. M. SHAHJAHAN",
+        "party": "IUML",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "D. SHANMUGAPRABHU",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "U. AZARUDEEN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ANEESH FATHIMA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 173,
+    "name": "Thiruvaiyaru",
+    "district": "Thanjavur",
+    "lat": 10.8833,
+    "lng": 79.1,
+    "winner2021": {
+      "name": "DURAI CHANDRASHEKHAR",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "DURAI CHANDRASHEKHAR",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "V. KARTHIKEYAN",
+        "party": "AMMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "M. MANIKANDAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SENTHILNATHAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 174,
+    "name": "Thanjavur",
+    "district": "Thanjavur",
+    "lat": 10.787,
+    "lng": 79.1378,
+    "winner2021": {
+      "name": "T. K. G. NEELAMEGAM",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "RAMANATHAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "BJP",
+        "isIncumbent": null
+      },
+      "TVK": {
+        "name": "R. VIJAY SARAVANAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KRISHNA KUMAR",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 175,
+    "name": "Orathanadu",
+    "district": "Thanjavur",
+    "lat": 10.65,
+    "lng": 79.1667,
+    "winner2021": {
+      "name": "R. VAITHILINGAM",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "R. VAITHIALINGAM",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "M. SEKAR",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "DR. K. ARAVIND",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "THIRUMURUGAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 176,
+    "name": "Pattukottai",
+    "district": "Thanjavur",
+    "lat": 10.4333,
+    "lng": 79.3167,
+    "winner2021": {
+      "name": "K. ANNADURAI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "KA. ANNADURAI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "C. MADHAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KANNAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 177,
+    "name": "Peravurani",
+    "district": "Thanjavur",
+    "lat": 10.3167,
+    "lng": 79.2833,
+    "winner2021": {
+      "name": "N. ASHOKKUMAR",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "N. ASHOKKUMAR",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "GOVI ILANGO",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "T. CHANDRA KAANDEEBAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "RAJARAM",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 178,
+    "name": "Gandharvakottai",
+    "district": "Pudukkottai",
+    "lat": 10.5167,
+    "lng": 78.95,
+    "winner2021": {
+      "name": "M. CHINNADURAI",
+      "party": "CPI(M)",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. CHINNADURAI",
+        "party": "CPI(M)",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "N. SUBRAMANIAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "NADIYA TAMILSELVAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 179,
+    "name": "Viralimalai",
+    "district": "Pudukkottai",
+    "lat": 10.5333,
+    "lng": 78.5667,
+    "winner2021": {
+      "name": "C. VIJAYA BASKER",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. K. CHELLAPANDIAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "C. VIJAYABHASKAR",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "P. MURUGESAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SATHYA LAKSHMI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 180,
+    "name": "Pudukkottai",
+    "district": "Pudukkottai",
+    "lat": 10.3833,
+    "lng": 78.8001,
+    "winner2021": {
+      "name": "V. MUTHURAJA",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "V. MUTHURAJA",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "BJP",
+        "isIncumbent": null
+      },
+      "TVK": {
+        "name": "K. M. SHAREEF",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "EZHILARASI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 181,
+    "name": "Thirumayam",
+    "district": "Pudukkottai",
+    "lat": 10.2833,
+    "lng": 78.75,
+    "winner2021": {
+      "name": "S. REGUPATHY",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "S. REGUPATHY",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "P. K. VAIRAMUTHU",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "C. SINDHAMANI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "LAKSHMI SRINIVASAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 182,
+    "name": "Alangudi",
+    "district": "Pudukkottai",
+    "lat": 10.3667,
+    "lng": 79.0,
+    "winner2021": {
+      "name": "V. SIVA MEYYANATHAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "V. SIVA MEYYANATHAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "D. VIMAL",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "DURAI KANDASAMY",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "RAJARAMAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 183,
+    "name": "Aranthangi",
+    "district": "Pudukkottai",
+    "lat": 10.1667,
+    "lng": 79.0833,
+    "winner2021": {
+      "name": "T. RAMACHANDRAN",
+      "party": "INC",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "BJP",
+        "isIncumbent": null
+      },
+      "TVK": {
+        "name": "J. MOHAMAD PARVEZ",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "MUTHU LAKSHMI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 184,
+    "name": "Karaikudi",
+    "district": "Sivaganga",
+    "lat": 10.0744,
+    "lng": 78.7765,
+    "winner2021": {
+      "name": "S. MANGUDI",
+      "party": "INC",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "V. DHERPOKI PANDI",
+        "party": "AMMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "DR. T. K. PRABHU",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SEEMAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 185,
+    "name": "Tiruppattur",
+    "district": "Sivaganga",
+    "lat": 9.95,
+    "lng": 78.6,
+    "winner2021": {
+      "name": "K. R. PERIYAKARUPPAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. R. PERIYAKARUPPAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "BJP",
+        "isIncumbent": null
+      },
+      "TVK": {
+        "name": "SRINIVASA SETHUPATHI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "RAMYA MOHAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 186,
+    "name": "Sivaganga",
+    "district": "Sivaganga",
+    "lat": 9.8437,
+    "lng": 78.4837,
+    "winner2021": {
+      "name": "P. R. SENTHILNATHAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "MPP",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "P. R. SENTHILNATHAN",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "KULANDHAI RANI NACHIAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "INDHUJA RAMESH",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 187,
+    "name": "Manamadurai",
+    "district": "Sivaganga",
+    "lat": 9.6833,
+    "lng": 78.4667,
+    "winner2021": {
+      "name": "A. TAMILARASI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "A. TAMILARASI",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "PON BALAGANAPATHY",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "D. ILANGOVAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SHANMUGAPRIYA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 188,
+    "name": "Melur",
+    "district": "Madurai",
+    "lat": 10.0333,
+    "lng": 78.3333,
+    "winner2021": {
+      "name": "PERIYAPULLAN ALIAS SELVAM",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "PERIYAPULLAN ALIAS SELVAM",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "A. MADURAI VEERAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KOTTAI KUMAR",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 189,
+    "name": "Madurai East",
+    "district": "Madurai",
+    "lat": 9.94,
+    "lng": 78.16,
+    "winner2021": {
+      "name": "P. MOORTHY",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "P. MOORTHY",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "K. MANGULAM MAHENDRAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. KARTHIKEYAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SELVAM",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 190,
+    "name": "Sholavandan",
+    "district": "Madurai",
+    "lat": 9.9833,
+    "lng": 78.05,
+    "winner2021": {
+      "name": "A. VENKATESAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "A. VENKATESAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "K. MANICKAM",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "M. V. KARUPPAIAH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "NAGALAKSHMI THIRUMARAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 191,
+    "name": "Madurai North",
+    "district": "Madurai",
+    "lat": 9.95,
+    "lng": 78.12,
+    "winner2021": {
+      "name": "G. THALAPATHI",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "G. THALAPATHY",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "DR. P. SARAVANAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "A. KALLANAI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "THIRUNAVUKKARASU",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 192,
+    "name": "Madurai South",
+    "district": "Madurai",
+    "lat": 9.9,
+    "lng": 78.12,
+    "winner2021": {
+      "name": "M. BOOMINATHAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. BOOMINATHAN[F]",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "BJP",
+        "isIncumbent": null
+      },
+      "TVK": {
+        "name": "J. J. O. PETER",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SATHYA DEVI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 193,
+    "name": "Madurai Central",
+    "district": "Madurai",
+    "lat": 9.9252,
+    "lng": 78.1198,
+    "winner2021": {
+      "name": "PALANIVEL THIAGA RAJAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "PALANIVEL THIAGA RAJAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "SUNDAR C[K]",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "V. N. S. MUSTAFA",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "DURGA KUMARASWAMY",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 194,
+    "name": "Madurai West",
+    "district": "Madurai",
+    "lat": 9.92,
+    "lng": 78.09,
+    "winner2021": {
+      "name": "K. RAJU",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "RAGHU BALAJI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "K. SELLUR RAJU",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. R. THANGAPANDI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "VIGNESH KUMAR",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 195,
+    "name": "Thiruparankundram",
+    "district": "Madurai",
+    "lat": 9.8833,
+    "lng": 78.0667,
+    "winner2021": {
+      "name": "V. V. RAJAN CHELLAPPA",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "S. KEERTHIGA THANGAPANDI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "V. V. RAJAN CHELLAPPA",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "CTR. NIRMALKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SATHYA DEVI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 196,
+    "name": "Thirumangalam",
+    "district": "Madurai",
+    "lat": 9.8333,
+    "lng": 77.9833,
+    "winner2021": {
+      "name": "R. B. UDHAYAKUMAR",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. MANIMARAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "R. B. UDHAYAKUMAR",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "N. SATHISH KUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "MUNIS",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 197,
+    "name": "Usilampatti",
+    "district": "Madurai",
+    "lat": 9.9667,
+    "lng": 77.8,
+    "winner2021": {
+      "name": "P. AYYAPPAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "I. MAHENDRAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "VIJAY MAHALINGAM",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ABIRAMI DHANAPAL",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 198,
+    "name": "Andipatti",
+    "district": "Theni",
+    "lat": 9.95,
+    "lng": 77.6167,
+    "winner2021": {
+      "name": "A. MAHARAJAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "A. MAHARAJAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "A. LOGIRAJAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "V. PANDI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ARUNADEVI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 199,
+    "name": "Periyakulam",
+    "district": "Theni",
+    "lat": 10.1167,
+    "lng": 77.55,
+    "winner2021": {
+      "name": "K. S. SARAVANAKUMAAR",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "Sakthivel (Aatralarasu)",
+        "party": "VCK",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "K. KATHIRKAMU",
+        "party": "AMMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "G. SABARI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "VIMALA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 200,
+    "name": "Bodinayakanur",
+    "district": "Theni",
+    "lat": 10.0104,
+    "lng": 77.35,
+    "winner2021": {
+      "name": "O. PANNEERSELVAM",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "O. PANNEERSELVAM",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "V. T. NARAYANSAMY",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. PRAKASH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KALAIYARASU",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 201,
+    "name": "Cumbum",
+    "district": "Theni",
+    "lat": 9.7333,
+    "lng": 77.2833,
+    "winner2021": {
+      "name": "N. ERAMAKRISHNAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "N. ERAMAKRISHNAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "S. T. K. JAKKAIYAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "P. L. A. JAGANATH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ANBU SELVI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 202,
+    "name": "Rajapalayam",
+    "district": "Virudhunagar",
+    "lat": 9.45,
+    "lng": 77.55,
+    "winner2021": {
+      "name": "S. THANGA PANDIAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "S. THANGA PANDIAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "PRISCILLA PANDIAN[L]",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "K. JAGADEESWARI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KARTHIK",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 203,
+    "name": "Srivilliputhur",
+    "district": "Virudhunagar",
+    "lat": 9.5,
+    "lng": 77.6333,
+    "winner2021": {
+      "name": "E. M. MANRAJ",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "P. MAHALINGAM",
+        "party": "CPI",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "M. CHANDRA PRABHA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "A. KARTHIK",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KARIKALA PANDIYAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 204,
+    "name": "Sattur",
+    "district": "Virudhunagar",
+    "lat": 9.35,
+    "lng": 77.9167,
+    "winner2021": {
+      "name": "A. R. R. RAGHURAMAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "A. KADARKARAIRAJ",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "NAINAR NAGENDRAN",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "M. AJITH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ANANDHA RAJA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 205,
+    "name": "Sivakasi",
+    "district": "Virudhunagar",
+    "lat": 9.45,
+    "lng": 77.8,
+    "winner2021": {
+      "name": "G. ASHOKAN",
+      "party": "INC",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "K. T. RAJENTHRA BHALAJI",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "KEERTHANA",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "DAYANA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 206,
+    "name": "Virudhunagar",
+    "district": "Virudhunagar",
+    "lat": 9.58,
+    "lng": 77.9524,
+    "winner2021": {
+      "name": "A. R. R. SEENIVASAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "VIJAYAPRABHAKAR",
+        "party": "DMDK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "V. G. GANESAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. P. SELVAM",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "LAXMANAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 207,
+    "name": "Aruppukkottai",
+    "district": "Virudhunagar",
+    "lat": 9.5167,
+    "lng": 78.0833,
+    "winner2021": {
+      "name": "K. K. S. S. R. RAMACHANDRAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. K. S. S. R. RAMACHANDRAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "S. SETHUPATHI",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "K. KARTHIK KUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "MANIMARAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 208,
+    "name": "Tiruchuli",
+    "district": "Virudhunagar",
+    "lat": 9.3667,
+    "lng": 78.1333,
+    "winner2021": {
+      "name": "THANGAM THENNARASU",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "THANGAM THENNARASU",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "M. S. R. RAJAVARMAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. SAMAYAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KARTHICK RAJA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 209,
+    "name": "Paramakudi",
+    "district": "Ramanathapuram",
+    "lat": 9.5333,
+    "lng": 78.5833,
+    "winner2021": {
+      "name": "S. MURUGESAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. K. KATHIRAVAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "DR. S. MUTHAIAH",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "G. GOPINATHAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "EZHIL IZHAVARASI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 210,
+    "name": "Tiruvadanai",
+    "district": "Ramanathapuram",
+    "lat": 9.5167,
+    "lng": 78.9833,
+    "winner2021": {
+      "name": "R. M. KARUMANIKAM",
+      "party": "INC",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "KEERTHIKA MUNIYASAMY",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "V. K. RAJI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "PREMNATH",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 211,
+    "name": "Ramanathapuram",
+    "district": "Ramanathapuram",
+    "lat": 9.3639,
+    "lng": 78.8395,
+    "winner2021": {
+      "name": "KATHARBATCHA MUTHURAMALINGAM",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "KADERBATCHA (A) MUTHURAMALINGAM",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "BJP",
+        "isIncumbent": null
+      },
+      "TVK": {
+        "name": "E. K. SAHUL HAMEED",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "MUTHU KESAVAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 212,
+    "name": "Mudhukulathur",
+    "district": "Ramanathapuram",
+    "lat": 9.5,
+    "lng": 78.5167,
+    "winner2021": {
+      "name": "R. S. RAJA KANNAPPAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "R. S. RAJA KANNAPPAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "S. MALAYSIA PANDI",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "V. MALARVIZHI JAYABALA",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "CHANDRA PRABHA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 213,
+    "name": "Vilathikulam",
+    "district": "Thoothukudi",
+    "lat": 8.9833,
+    "lng": 77.9333,
+    "winner2021": {
+      "name": "G. V. MARKANDAYAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "G. V. MARKANDAYAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "R. SATHYA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "KASIRAM",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "BALAJI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 214,
+    "name": "Thoothukudi",
+    "district": "Thoothukudi",
+    "lat": 8.7642,
+    "lng": 78.1348,
+    "winner2021": {
+      "name": "P. GEETHA JEEVAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "GEETHA JEEVAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "C. I. DHA. SELLAPPANDIYAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "A. SRINATH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "JACOB ABHISHEK DEVADASAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 215,
+    "name": "Tiruchendur",
+    "district": "Thoothukudi",
+    "lat": 8.4978,
+    "lng": 78.1206,
+    "winner2021": {
+      "name": "R. ANITHA RADHAKRISHNAN",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "R. ANITHA RADHAKRISHNAN",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "BJP",
+        "isIncumbent": null
+      },
+      "TVK": {
+        "name": "K. MURUGAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "OBILIYA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 216,
+    "name": "Srivaikuntam",
+    "district": "Thoothukudi",
+    "lat": 8.6333,
+    "lng": 77.9167,
+    "winner2021": {
+      "name": "OORVASI AMIRTHARAJ .S",
+      "party": "INC",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "S. P. SHANMUGANATHAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "G. SARAVANAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SHANMUGASUNDARAM",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 217,
+    "name": "Ottapidaram",
+    "district": "Thoothukudi",
+    "lat": 8.8333,
+    "lng": 78.0167,
+    "winner2021": {
+      "name": "M. C. SHUNMUGAIAH",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. C. SHUNMUGAIAH",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "R. SUNDARARAJ",
+        "party": "AMMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "P. MADHANRAJA",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ANUSIYA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 218,
+    "name": "Kovilpatti",
+    "district": "Thoothukudi",
+    "lat": 9.1667,
+    "lng": 77.8667,
+    "winner2021": {
+      "name": "KADAMBUR RAJU",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "K. A. KARUNANITHI",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "KADAMBUR RAJU",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "S. BALASUBRAMANIAM",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "PANDI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 219,
+    "name": "Sankarankovil",
+    "district": "Tenkasi",
+    "lat": 9.1667,
+    "lng": 77.55,
+    "winner2021": {
+      "name": "E. RAJA",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "DR. DHILEEPAN JAYASANKARAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "C. RAMARAJAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "KAVITHA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 220,
+    "name": "Vasudevanallur",
+    "district": "Tenkasi",
+    "lat": 9.0333,
+    "lng": 77.5167,
+    "winner2021": {
+      "name": "T. SADHAN THIRUMALAIKUMAR DOCTOR",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "E. RAJA",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "ANANDAN AYYASAMY",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "R. AMUDHA RANI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ISAI MATHIVANAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 221,
+    "name": "Kadayanallur",
+    "district": "Tenkasi",
+    "lat": 9.0833,
+    "lng": 77.3333,
+    "winner2021": {
+      "name": "C. KRISHNAMURALI",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "T. M. RAJENDRAN[F]",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "C. KRISHNAMURALI",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "R. K. ABDUL JALIL",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ABUBAKAR SIDDIQUE",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 222,
+    "name": "Tenkasi",
+    "district": "Tenkasi",
+    "lat": 8.9594,
+    "lng": 77.3152,
+    "winner2021": {
+      "name": "S. PALANI NADAR",
+      "party": "INC",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "DR. KALAI KATHIRAVAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "S. SELVAMOHANDAS PANDIAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "A. RAJAPRAKASH",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "GOWSHIK PANDIYAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 223,
+    "name": "Alangulam",
+    "district": "Tenkasi",
+    "lat": 8.8667,
+    "lng": 77.5667,
+    "winner2021": {
+      "name": "PAUL MANOJ PANDIAN",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "MANOJ PANDIAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "K. R. P. PRABAKARAN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "V. VIPIN CHAKRAVARTHI",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "PALRAJ",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 224,
+    "name": "Tirunelveli",
+    "district": "Tirunelveli",
+    "lat": 8.7139,
+    "lng": 77.7567,
+    "winner2021": {
+      "name": "NAINAR NAGENTHRAN",
+      "party": "BJP",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "S. U. SUBRAMANIAN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "N. THACHAI GANESARAJA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "R. S. MURUGAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SATHYA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 225,
+    "name": "Ambasamudram",
+    "district": "Tirunelveli",
+    "lat": 8.7,
+    "lng": 77.4667,
+    "winner2021": {
+      "name": "ESAKKI SUBAYA",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "ISAKKI SUBHAYA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. RAJAGOPAL",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SIVASANKARAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 226,
+    "name": "Palayamkottai",
+    "district": "Tirunelveli",
+    "lat": 8.7267,
+    "lng": 77.7355,
+    "winner2021": {
+      "name": "M. ABDUL WAHAB",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. ABDUL WAHAB",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "SYED SULTHAN SUMSUDDIN",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. MARIA JOHN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SANKARA NARAYANAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 227,
+    "name": "Nanguneri",
+    "district": "Tirunelveli",
+    "lat": 8.4833,
+    "lng": 77.65,
+    "winner2021": {
+      "name": "R. RUBY MANOHARAN",
+      "party": "INC",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "R. ESAKKIMUTHU",
+        "party": "AMMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "RETTIYAPATTI NARAYANAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SELVAM",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 228,
+    "name": "Radhapuram",
+    "district": "Tirunelveli",
+    "lat": 8.3167,
+    "lng": 77.55,
+    "winner2021": {
+      "name": "M. APPAVU",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "M. APPAVU",
+        "party": "DMK",
+        "isIncumbent": true
+      },
+      "ADMK+": {
+        "name": "BALAKRISHNAN",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "K. SATHEESH CHRISTOPHER",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "GIRIJA THAMARAIPANDIYAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 229,
+    "name": "Kanniyakumari",
+    "district": "Kanyakumari",
+    "lat": 8.0833,
+    "lng": 77.55,
+    "winner2021": {
+      "name": "N. THALAVAI SUNDARAM",
+      "party": "AIADMK",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "R. MAHESH",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "N. THALAVAI SUNDARAM",
+        "party": "AIADMK",
+        "isIncumbent": true
+      },
+      "TVK": {
+        "name": "S. R. MADHAVAN",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "MARIA JENIFER",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 230,
+    "name": "Nagercoil",
+    "district": "Kanyakumari",
+    "lat": 8.1833,
+    "lng": 77.4333,
+    "winner2021": {
+      "name": "M. R. GANDHI",
+      "party": "BJP",
+      "alliance": "ADMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "S. AUSTIN",
+        "party": "DMK",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "MEENA DEV",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "G. KING",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "MUTHUKUMAR",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 231,
+    "name": "Colachel",
+    "district": "Kanyakumari",
+    "lat": 8.1667,
+    "lng": 77.25,
+    "winner2021": {
+      "name": "J. G. PRINCE",
+      "party": "INC",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": false
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "AIADMK",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "PREM ALEX LAWRENCE",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "ANCY SOBHA RANI",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 232,
+    "name": "Padmanabhapuram",
+    "district": "Kanyakumari",
+    "lat": 8.25,
+    "lng": 77.3333,
+    "winner2021": {
+      "name": "T. MANO THANGARAJ",
+      "party": "DMK",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "CPI(M)",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "TBA",
+        "party": "BJP",
+        "isIncumbent": null
+      },
+      "TVK": {
+        "name": "S. KRISHNAKUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "SEELAN",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 233,
+    "name": "Vilavancode",
+    "district": "Kanyakumari",
+    "lat": 8.2167,
+    "lng": 77.2833,
+    "winner2021": {
+      "name": "S. VIJAYADHARANI",
+      "party": "INC",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "VIJAYADHARANI",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "K. MICHAEL KUMAR",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "MARIA STELLA",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  },
+  {
+    "no": 234,
+    "name": "Killiyoor",
+    "district": "Kanyakumari",
+    "lat": 8.15,
+    "lng": 77.5167,
+    "winner2021": {
+      "name": "S. RAJESH KUMAR",
+      "party": "INC",
+      "alliance": "DMK+",
+      "verified": true
+    },
+    "candidates2026": {
+      "DMK+": {
+        "name": "TBA",
+        "party": "INC",
+        "isIncumbent": null
+      },
+      "ADMK+": {
+        "name": "NIVIN SIMON[C]",
+        "party": "BJP",
+        "isIncumbent": false
+      },
+      "TVK": {
+        "name": "S. SABEER",
+        "party": "TVK",
+        "isIncumbent": false
+      },
+      "NTK": {
+        "name": "HIMLER",
+        "party": "NTK",
+        "isIncumbent": false
+      }
+    },
+    "incumbentNotContesting": null
+  }
+]
