@@ -262,7 +262,7 @@ function renderConstituencies() {
     const hasIncumbent = ['DMK+', 'ADMK+', 'TVK', 'NTK'].some(a => c.candidates2026?.[a]?.isIncumbent);
 
     let card = `
-      <div class="card" data-name="${c.name.toLowerCase()}" data-district="${c.district}" data-w21="${c.winner2021?.alliance || ''}">
+      <div class="card" data-name="${c.name.toLowerCase()}" data-district="${c.district}" data-w21="${c.winner2021?.party || ''}">
         <div class="card-header">
           <div>
             <div class="card-name">${c.name}</div>
@@ -328,7 +328,7 @@ function applyFilters() {
     if (district && cardDistrict !== district) show = false;
     if (incumbent === 'yes' && !hasIncumbent) show = false;
     if (incumbent === 'no' && hasIncumbent) show = false;
-    if (winner && !w21.includes(winner)) show = false;
+    if (winner && w21 !== winner) show = false;
 
     card.style.display = show ? 'block' : 'none';
     if (show) visibleCount++;
