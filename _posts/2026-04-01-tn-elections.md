@@ -3,8 +3,6 @@ title: TN Elections - My read
 permalink: /tn-elections-opinion
 ---
 
-Everyone is saying anti-incumbency. I don't fully buy it. Anti-incumbency is a conclusion dressed as an argument. What are people actually angry about? Let's be specific.
-
 Edappadi Palaniswami does not look like a master politician. He speaks in a flat, unhurried cadence, gives no memorable speeches, inspires no great passion. For years, people have underestimated him for exactly these reasons — and for years, they have been wrong. He survived Sasikala. He survived OPS. He held 66 seats in 2021. And then, after the 2024 wipeout, when commentators were writing AIADMK's obituary, he did not panic or make dramatic statements. He just started going to villages. From July 2025, almost a full year before polling day, he ran a 234-constituency campaign tour — every seat, every district. Whether this translates to votes we will find out on May 4th, but you cannot fault the groundwork.
 
 The coalition he has assembled reflects the same discipline. PMK placed in constituencies where Vanniyar concentration actually makes them count. BJP given southern pockets and Coimbatore-adjacent seats where they have historically shown some presence — and crucially, kept in their lane, so much so that Amit Shah at the Times Now Summit 2026 called AIADMK the big brother. AMMK covers TTV Dhinakaran's residual pockets. Every piece has a purpose. Multiple psephologists watching this have noted it — this is less an alliance of convenience and more a machine built to win specific seats.
@@ -21,6 +19,6 @@ Into all of this walks Vijay.
 
 TVK has framed this election explicitly as TVK versus DMK. Not TVK versus everyone — versus DMK specifically. The voter Vijay is speaking to is not an AIADMK defector. It is the young person, the first-time voter, the one who is fed up and wants something new. In any previous cycle, that person would have reluctantly voted DMK because there was no alternative that felt real. Polls suggest TVK could pull around 15% vote share. Even if that only translates to 2-8 seats, the votes do not disappear — they come disproportionately out of DMK’s totals. A vote for Vijay in a close constituency is, functionally, a vote that helps EPS sleep better on the night of May 4th.
 
-The numbers are close and the four-way contest (include NTK) creates genuine local variation. But if DMK loses, the story will have started in the coalition room, where a party with 0.5% vote share got 10 seats while its Dalit allies were told to take what they were given.
+The numbers are close and the four-way contest — NTK included — creates genuine local variation. But if DMK loses, the story will have started in the coalition room, where a party with 0.5% vote share got 10 seats while its Dalit allies were told to take what they were given.
 
 *For constituency-level data across all 234 seats and all four alliances, see my [TN 2026 Elections Factsheet](https://sudhar.xyz/tn-2026-elections-factsheet.html).*
