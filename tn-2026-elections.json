@@ -306,7 +306,7 @@
         "isIncumbent": false
       },
       "ADMK+": {
-        "name": "TBA",
+        "name": "V. MOORTHI",
         "party": "AIADMK",
         "isIncumbent": false
       },
@@ -913,9 +913,9 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "TBA",
+        "name": "M.K. ASHOK",
         "party": "INC",
-        "isIncumbent": null
+        "isIncumbent": false
       },
       "ADMK+": {
         "name": "M. K. ASHOK",
@@ -1021,12 +1021,12 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "TBA",
+        "name": "K. SELVAPERUNTHAGAI",
         "party": "INC",
         "isIncumbent": false
       },
       "ADMK+": {
-        "name": "TBA",
+        "name": "K. PALANI",
         "party": "AIADMK",
         "isIncumbent": false
       },
@@ -1165,7 +1165,7 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "Panneerdas",
+        "name": "PANNEERDAS",
         "party": "VCK",
         "isIncumbent": null
       },
@@ -1201,7 +1201,7 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "M. Sinthanai Selvan",
+        "name": "M. SINTHANAI SELVAN",
         "party": "VCK",
         "isIncumbent": null
       },
@@ -1345,7 +1345,7 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "Ezhil Karolin",
+        "name": "EZHIL KAROLIN",
         "party": "VCK",
         "isIncumbent": null
       },
@@ -1633,12 +1633,12 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "K. B. Prathab",
+        "name": "K. B. PRATHAB",
         "party": "DMDK",
         "isIncumbent": false
       },
       "ADMK+": {
-        "name": "TBA",
+        "name": "G. PARITHA PURUSHOTTAMAN",
         "party": "AIADMK",
         "isIncumbent": false
       },
@@ -1813,9 +1813,9 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "TBA",
+        "name": "T.M. TAMILSELVAM",
         "party": "INC",
-        "isIncumbent": null
+        "isIncumbent": false
       },
       "ADMK+": {
         "name": "T. M. TAMILSELVAM",
@@ -2142,7 +2142,7 @@
         "isIncumbent": false
       },
       "ADMK+": {
-        "name": "TBA",
+        "name": "MARAGATHAM VETRIVELU",
         "party": "AIADMK",
         "isIncumbent": false
       },
@@ -2569,7 +2569,7 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "Vanni Arasu",
+        "name": "VANNI ARASU",
         "party": "VCK",
         "isIncumbent": null
       },
@@ -2857,7 +2857,7 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "Dr. K. Malathi",
+        "name": "DR. K. MALATHI",
         "party": "VCK",
         "isIncumbent": null
       },
@@ -3145,8 +3145,8 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "M. LOGANATHAN",
-        "party": "DMK",
+        "name": "AZHAGAPPURAM MOHAN RAJ",
+        "party": "DMDK",
         "isIncumbent": false
       },
       "ADMK+": {
@@ -3181,7 +3181,7 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "M. LOGANATHAN",
+        "name": "R. RAJENDRAN",
         "party": "DMK",
         "isIncumbent": false
       },
@@ -3510,8 +3510,8 @@
         "isIncumbent": false
       },
       "ADMK+": {
-        "name": "M. YUVARAJA[C]",
-        "party": "BJP",
+        "name": "R. MANOHARAN",
+        "party": "AIADMK",
         "isIncumbent": false
       },
       "TVK": {
@@ -3546,8 +3546,8 @@
         "isIncumbent": true
       },
       "ADMK+": {
-        "name": "M. YUVARAJA[C]",
-        "party": "BJP",
+        "name": "M. YUVARAJA",
+        "party": "AIADMK",
         "isIncumbent": false
       },
       "TVK": {
@@ -3978,7 +3978,7 @@
         "isIncumbent": false
       },
       "ADMK+": {
-        "name": "TBA",
+        "name": "O.K. CHINNARAJ",
         "party": "AIADMK",
         "isIncumbent": false
       },
@@ -4045,14 +4045,14 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "K. DINESHKUMAR",
-        "party": "DMK",
+        "name": "TBA",
+        "party": "CPI",
         "isIncumbent": false
       },
       "ADMK+": {
         "name": "TBA",
-        "party": "BJP",
-        "isIncumbent": null
+        "party": "AIADMK",
+        "isIncumbent": false
       },
       "TVK": {
         "name": "SATHYABAMA",
@@ -4081,7 +4081,7 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "K. DINESHKUMAR",
+        "name": "N. DINESHKUMAR",
         "party": "DMK",
         "isIncumbent": false
       },
@@ -4225,7 +4225,7 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "V. SENTHIL BALAJI",
+        "name": "SENTHAMIZHSELVAN",
         "party": "DMK",
         "isIncumbent": false
       },
@@ -4662,7 +4662,7 @@
         "isIncumbent": false
       },
       "ADMK+": {
-        "name": "TBA",
+        "name": "S. THENMOZHI",
         "party": "AIADMK",
         "isIncumbent": false
       },
@@ -5017,7 +5017,7 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "INIGO IRUDHAYARAJ",
+        "name": "K.N. NEHRU",
         "party": "DMK",
         "isIncumbent": false
       },
@@ -5053,7 +5053,7 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "INIGO IRUDHAYARAJ",
+        "name": "DR. INIGO IRUDAYARAJ",
         "party": "DMK",
         "isIncumbent": true
       },
@@ -5449,7 +5449,7 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "Premalatha Vijayakanth",
+        "name": "PREMALATHA VIJAYAKANTH",
         "party": "DMDK",
         "isIncumbent": false
       },
@@ -5521,7 +5521,7 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "Abdul Rahman",
+        "name": "ABDUL RAHMAN",
         "party": "VCK",
         "isIncumbent": null
       },
@@ -5701,7 +5701,7 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "Thol. Thirumavalavan",
+        "name": "THOL. THIRUMAVALAVAN",
         "party": "VCK",
         "isIncumbent": null
       },
@@ -6246,9 +6246,9 @@
         "isIncumbent": false
       },
       "ADMK+": {
-        "name": "TBA",
+        "name": "KARUPPU MURUGANANTHAM",
         "party": "BJP",
-        "isIncumbent": null
+        "isIncumbent": false
       },
       "TVK": {
         "name": "R. VIJAY SARAVANAN",
@@ -6318,7 +6318,7 @@
         "isIncumbent": false
       },
       "ADMK+": {
-        "name": "TBA",
+        "name": "C.V. SEKAR",
         "party": "AIADMK",
         "isIncumbent": false
       },
@@ -7141,7 +7141,7 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "Sakthivel (Aatralarasu)",
+        "name": "SAKTHIVEL (AATRALARASU)",
         "party": "VCK",
         "isIncumbent": null
       },
@@ -7578,9 +7578,9 @@
         "isIncumbent": false
       },
       "ADMK+": {
-        "name": "TBA",
+        "name": "PON. RADHAKRISHNAN",
         "party": "BJP",
-        "isIncumbent": null
+        "isIncumbent": false
       },
       "TVK": {
         "name": "E. K. SAHUL HAMEED",
@@ -7722,9 +7722,9 @@
         "isIncumbent": true
       },
       "ADMK+": {
-        "name": "TBA",
+        "name": "ANITA RADHAKRISHNAN",
         "party": "BJP",
-        "isIncumbent": null
+        "isIncumbent": false
       },
       "TVK": {
         "name": "K. MURUGAN",
@@ -8149,9 +8149,9 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "TBA",
+        "name": "RUBY R. MANOHARAN",
         "party": "INC",
-        "isIncumbent": null
+        "isIncumbent": false
       },
       "ADMK+": {
         "name": "R. ESAKKIMUTHU",
@@ -8293,9 +8293,9 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "TBA",
+        "name": "PRINCE",
         "party": "INC",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "TBA",
@@ -8334,9 +8334,9 @@
         "isIncumbent": null
       },
       "ADMK+": {
-        "name": "TBA",
+        "name": "MANO THANGARAJ",
         "party": "BJP",
-        "isIncumbent": null
+        "isIncumbent": false
       },
       "TVK": {
         "name": "S. KRISHNAKUMAR",

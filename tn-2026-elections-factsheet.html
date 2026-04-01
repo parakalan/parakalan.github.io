@@ -154,6 +154,17 @@
     <select id="winnerFilter" onchange="applyFilters()">
       <option value="">2021 — All Winners</option>
     </select>
+    <select id="partyFilter" onchange="applyFilters()">
+      <option value="">All Parties</option>
+    </select>
+    <select id="matchupFilter" onchange="applyFilters()">
+      <option value="">All Matchups</option>
+      <option value="BJP|INC">BJP vs Congress</option>
+      <option value="BJP|DMK">BJP vs DMK</option>
+      <option value="AIADMK|INC">AIADMK vs Congress</option>
+      <option value="AIADMK|DMK">AIADMK vs DMK</option>
+      <option value="TVK|DMK">TVK vs DMK</option>
+    </select>
     <button class="clear-btn" onclick="clearFilters()">✕ Clear</button>
     <span class="filter-count" id="filterCount">Loading...</span>
   </div>
@@ -251,6 +262,19 @@ function buildFilters() {
   Object.entries(winners).sort((a, b) => b[1] - a[1]).forEach(([party, count]) => {
     winnerFilter.innerHTML += `<option value="${party}">2021 Won by ${party} (${count})</option>`;
   });
+
+  // Contesting parties
+  const parties = {};
+  CONSTITUENCIES.forEach(c => {
+    ['DMK+', 'ADMK+', 'TVK', 'NTK'].forEach(alliance => {
+      const party = c.candidates2026?.[alliance]?.party;
+      if (party) parties[party] = (parties[party] || 0) + 1;
+    });
+  });
+  const partyFilter = document.getElementById('partyFilter');
+  Object.entries(parties).sort((a, b) => b[1] - a[1]).forEach(([party, count]) => {
+    partyFilter.innerHTML += `<option value="${party}">${party} (${count} seats)</option>`;
+  });
 }
 
 // Render constituencies
@@ -262,7 +286,7 @@ function renderConstituencies() {
     const hasIncumbent = ['DMK+', 'ADMK+', 'TVK', 'NTK'].some(a => c.candidates2026?.[a]?.isIncumbent);
 
     let card = `
-      <div class="card" data-name="${c.name.toLowerCase()}" data-district="${c.district}" data-w21="${c.winner2021?.party || ''}">
+      <div class="card" data-name="${c.name.toLowerCase()}" data-district="${c.district}" data-w21="${c.winner2021?.party || ''}" data-parties="${['DMK+','ADMK+','TVK','NTK'].map(a => c.candidates2026?.[a]?.party || '').join('|')}">
         <div class="card-header">
           <div>
             <div class="card-name">${c.name}</div>
@@ -312,6 +336,8 @@ function applyFilters() {
   const district = document.getElementById('districtFilter').value;
   const incumbent = document.getElementById('incumbentFilter').value;
   const winner = document.getElementById('winnerFilter').value;
+  const party = document.getElementById('partyFilter').value;
+  const matchup = document.getElementById('matchupFilter').value;
 
   const cards = document.querySelectorAll('.card');
   let visibleCount = 0;
@@ -320,6 +346,7 @@ function applyFilters() {
     const name = card.dataset.name || '';
     const cardDistrict = card.dataset.district || '';
     const w21 = card.dataset.w21 || '';
+    const parties = (card.dataset.parties || '').split('|');
     const hasIncumbent = card.querySelector('.incumbent-badge') !== null;
     const text = card.textContent.toLowerCase();
 
@@ -329,6 +356,11 @@ function applyFilters() {
     if (incumbent === 'yes' && !hasIncumbent) show = false;
     if (incumbent === 'no' && hasIncumbent) show = false;
     if (winner && w21 !== winner) show = false;
+    if (party && !parties.includes(party)) show = false;
+    if (matchup) {
+      const [p1, p2] = matchup.split('|');
+      if (!parties.includes(p1) || !parties.includes(p2)) show = false;
+    }
 
     card.style.display = show ? 'block' : 'none';
     if (show) visibleCount++;
@@ -342,6 +374,8 @@ function clearFilters() {
   document.getElementById('districtFilter').value = '';
   document.getElementById('incumbentFilter').value = '';
   document.getElementById('winnerFilter').value = '';
+  document.getElementById('partyFilter').value = '';
+  document.getElementById('matchupFilter').value = '';
   applyFilters();
 }
 
