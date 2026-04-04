@@ -337,7 +337,7 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "TBA",
+        "name": "L. SUNDARARAJAN",
         "party": "CPI(M)",
         "isIncumbent": null
       },
@@ -4549,7 +4549,7 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "TBA",
+        "name": "N. PANDI",
         "party": "CPI(M)",
         "isIncumbent": null
       },
@@ -4945,9 +4945,9 @@
     },
     "candidates2026": {
       "DMK+": {
-        "name": "TBA",
+        "name": "P. ABDUL SAMAD",
         "party": "MMK",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "P. L. VIJAYAKUMAR",
