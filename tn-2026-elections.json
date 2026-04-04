@@ -1023,7 +1023,7 @@
       "DMK+": {
         "name": "K. SELVAPERUNTHAGAI",
         "party": "INC",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "K. PALANI",
@@ -1383,7 +1383,7 @@
       "DMK+": {
         "name": "A.M. MUNIRATHINAM",
         "party": "INC",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "K. SARAVANAN",
@@ -2900,7 +2900,7 @@
       "ADMK+": {
         "name": "A. NALLATHAMBI",
         "party": "AIADMK",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "TVK": {
         "name": "V. SUJATHA",
@@ -5019,7 +5019,7 @@
       "DMK+": {
         "name": "K.N. NEHRU",
         "party": "DMK",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "THOTTIYAM RAJASEKARAN",
@@ -6099,7 +6099,7 @@
       "DMK+": {
         "name": "GOVI CHEZIAN",
         "party": "DMK",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "ILAMATHI SUBRAMANIAN",
@@ -6279,7 +6279,7 @@
       "DMK+": {
         "name": "R. VAITHIALINGAM",
         "party": "DMK",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "M. SEKAR",
@@ -6315,7 +6315,7 @@
       "DMK+": {
         "name": "KA. ANNADURAI",
         "party": "DMK",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "C.V. SEKAR",
@@ -6567,7 +6567,7 @@
       "DMK+": {
         "name": "T. RAMA CHANDHIRAN",
         "party": "INC",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "KAVITHA SRIKANTH",
@@ -7359,7 +7359,7 @@
       "DMK+": {
         "name": "GANESAN ASHOKAN",
         "party": "INC",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "K. T. RAJENTHRA BHALAJI",
@@ -7539,7 +7539,7 @@
       "DMK+": {
         "name": "RAMA KARUMANICKAM",
         "party": "INC",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "KEERTHIKA MUNIYASAMY",
@@ -7575,7 +7575,7 @@
       "DMK+": {
         "name": "KADERBATCHA (A) MUTHURAMALINGAM",
         "party": "DMK",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "GBS K. NAGENDRAN",
@@ -7755,7 +7755,7 @@
       "DMK+": {
         "name": "S. OORVASHI AMIRTHARAJ",
         "party": "INC",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "S. P. SHANMUGANATHAN",
@@ -8084,7 +8084,7 @@
       "ADMK+": {
         "name": "ISAKKI SUBHAYA",
         "party": "AIADMK",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "TVK": {
         "name": "S. RAJAGOPAL",

@@ -182,7 +182,7 @@ let CONSTITUENCIES = [];
 // Load JSON data
 async function loadData() {
   try {
-    const response = await fetch('tn-2026-elections.json');
+    const response = await fetch('tn-2026-elections.json?v=' + Date.now());
     CONSTITUENCIES = await response.json();
     console.log(`Loaded ${CONSTITUENCIES.length} constituencies`);
 
