@@ -51,7 +51,7 @@
       "DMK+": {
         "name": "DURAI CHANDRASEKAR",
         "party": "INC",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "P. SIRUNIAM BALARAMAN",
@@ -303,7 +303,7 @@
       "DMK+": {
         "name": "S. SUDHARSANAM",
         "party": "DMK",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "V. MOORTHI",
@@ -915,7 +915,7 @@
       "DMK+": {
         "name": "JMH AASSAN MAULAANA",
         "party": "INC",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "M. K. ASHOK",
@@ -1419,7 +1419,7 @@
       "DMK+": {
         "name": "DURAIMURUGAN",
         "party": "DMK",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "V. RAMU",
@@ -3183,7 +3183,7 @@
       "DMK+": {
         "name": "R. RAJENDRAN",
         "party": "DMK",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "S. SADASIVAM",
@@ -3435,7 +3435,7 @@
       "DMK+": {
         "name": "E. R. ESWARAN[E]",
         "party": "DMK",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "R. CHANDRASHEKHAR",
@@ -3728,7 +3728,7 @@
       "ADMK+": {
         "name": "K. C. KARUPPANNAN",
         "party": "AIADMK",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "TVK": {
         "name": "M. P. BALAKRISHNAN",
@@ -3805,7 +3805,7 @@
       "TVK": {
         "name": "K. A. SENGOTTAIYAN",
         "party": "TVK",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "NTK": {
         "name": "SEETHA LAKSHMI",
@@ -4664,7 +4664,7 @@
       "ADMK+": {
         "name": "S. THENMOZHI",
         "party": "AIADMK",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "TVK": {
         "name": "R. AYYANAR",
@@ -6387,7 +6387,7 @@
       "DMK+": {
         "name": "M. CHINNADURAI",
         "party": "CPI(M)",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "C. UDHAYAKUMAR",
@@ -6603,7 +6603,7 @@
       "DMK+": {
         "name": "S. MANGUDI",
         "party": "INC",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "V. DHERPOKI PANDI",
@@ -6968,7 +6968,7 @@
       "ADMK+": {
         "name": "K. SELLUR RAJU",
         "party": "AIADMK",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "TVK": {
         "name": "S. R. THANGAPANDI",
@@ -7179,7 +7179,7 @@
       "DMK+": {
         "name": "O. PANNEERSELVAM",
         "party": "DMK",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "V. T. NARAYANSAMY",
@@ -7683,7 +7683,7 @@
       "DMK+": {
         "name": "GEETHA JEEVAN",
         "party": "DMK",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "C. I. DHA. SELLAPPANDIYAN",
@@ -8007,7 +8007,7 @@
       "DMK+": {
         "name": "MANOJ PANDIAN",
         "party": "DMK",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "K. R. P. PRABAKARAN",
@@ -8151,7 +8151,7 @@
       "DMK+": {
         "name": "RUBY MANOHARAN",
         "party": "INC",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "R. ESAKKIMUTHU",
@@ -8403,7 +8403,7 @@
       "DMK+": {
         "name": "ADV. S. RAJESH KUMAR",
         "party": "INC",
-        "isIncumbent": false
+        "isIncumbent": true
       },
       "ADMK+": {
         "name": "NIVIN SIMON[C]",
