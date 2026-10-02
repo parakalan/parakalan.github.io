@@ -20,6 +20,9 @@ use_math:
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics: G-549L17J8C7
 
+# Publish posts dated in the future (GitHub Pages builds in UTC)
+future: true
+
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
 plugins:
