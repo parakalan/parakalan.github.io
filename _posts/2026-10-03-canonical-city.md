@@ -17,9 +17,9 @@ I have felt a city do this once before, in Srirangam. It is to Srivaishnavam wha
 
 I want a name for a place like this. I'll call it a canonical city: the source of something you are already part of. If you want to be serious about that thing, it is where you go. You arrive, and the city is bigger than you.
 
-I think the feeling comes from hearing about the city so much before going there. I had heard about Srirangam all my life, and about San Francisco for as long as I have worked in software. By the time you arrive, the city has been built up in your head for years. Then you see the ordinary things, an ad or a train or a house on a street, and they confirm all of it.
+Hearing about the city is the first part. I had heard about Srirangam all my life, and about San Francisco for as long as I have worked in software. By the time you arrive, the city has been built up in your head for years. But standing there physically is the thing. Something that existed only as an idea in your life suddenly has a place, with an ad, a train and a house on a street.
 
-Paul Graham has a magnum-opus essay, [Cities and Ambition](http://paulgraham.com/cities.html), about the messages great cities send. I agree with most of it. This piece is the same idea from my own context.
+Paul Graham has a great essay, [Cities and Ambition](http://paulgraham.com/cities.html), about the messages great cities send. I agree with most of it. This piece is the same idea from my own context.
 
 Not every great city does this. In Cambridge I knew I should respect the MIT people, and I did, but that was all. New York felt like it should be one, but I didn't get that vibe. Maybe it has too many things. London was a great trip, and I still don't know what that city wants people to do. I think someone from the film industry would feel in LA what I felt in San Francisco. I can guess that, but I can't feel it.
 
@@ -27,4 +27,4 @@ So a city is canonical only for someone, and you have to arrive ready. I was not
 
 It also fades. I have been to Srirangam many times since, and my sister lives there now. The bigness has come down a bit.
 
-I think people should go around to many such cities and see which one churns something in them. A great trip does not tell you much, but the churn tells you what you actually care about.
+I think people should go around to many such cities and see which one churns something in them. A great trip does not tell you much, but the churn tells you what you care about.
