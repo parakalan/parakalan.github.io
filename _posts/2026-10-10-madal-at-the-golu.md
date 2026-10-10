@@ -3,7 +3,7 @@ title: Madal at the Golu
 permalink: /madal-at-the-golu
 ---
 
-During Navaratri, houses in Thiruvallikeni (Triplicane) keep golu like houses everywhere else. The steps go up, the dolls come out of their boxes, and there is sundal every evening. But here people also invite the goshti, the group that recites the Divya Prabandham at the temple, to come home. They stand before the golu and recite one particular work: Thirumangai Azhwar's *Siriya Thirumadal*.
+During Navaratri, houses in Thiruvallikeni (Triplicane) keep golu like houses everywhere else. But here people also invite the goshti, the group that recites the Divya Prabandham at the temple, to come home. They stand before the golu and recite one particular work: Thirumangai Azhwar's *Siriya Thirumadal*.
 
 Someone asked me for a recording of it, so I recorded myself reciting it at home.
 
