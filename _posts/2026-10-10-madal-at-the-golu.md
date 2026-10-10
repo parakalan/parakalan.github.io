@@ -7,8 +7,8 @@ During Navaratri, houses in Thiruvallikeni (Triplicane) keep golu like houses ev
 
 Someone asked me for a recording of it, so I recorded myself reciting it at home.
 
-<audio controls>
-  <source src="assets/siriya_thirumadal.ogg" type="audio/ogg">
+<audio controls preload="metadata">
+  <source src="assets/siriya_thirumadal.mp3" type="audio/mpeg">
   Your browser does not support this audio element.
 </audio>
 
