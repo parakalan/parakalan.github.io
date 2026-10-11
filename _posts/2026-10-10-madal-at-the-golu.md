@@ -14,7 +14,7 @@ Someone asked me for a recording of it, so I recorded myself reciting it at home
 
 ---
 
-The choice comes from the temple. Navaratri in Thiruvallikeni is Vedavalli Thayar's utsavam. She has a purappadu every evening, and the goshti that walks with her recites the Madal, as it does on her Friday purappadu through the year. People call it the Madal goshti. So when a house keeps golu, it asks for what Thayar gets.
+The choice probably comes from the temple. Navaratri in Thiruvallikeni is Vedavalli Thayar's utsavam. She has a purappadu every evening, and the goshti that walks with her recites the Madal, as it does on her Friday purappadu through the year. People call it the Madal goshti.
 
 It is a strange poem to recite in front of a row of dolls, though.
 
