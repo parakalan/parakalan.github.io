@@ -22,13 +22,15 @@ A *madal* is the last resort of a rejected lover in old Tamil poetry. He makes a
 
 Thirumangai Azhwar wrote his in a woman's voice. Parakala Nayaki begins by saying that of all the things people live for, love is the only one she has any use for. Then she tells her story. A man was dancing with pots in the street, and she went out to watch. After that she was lovesick: she lost her colour, and grew so thin that her bangles slipped off. Her mother, worried, called a fortune-teller to find out what was wrong. The fortune-teller tossed a few grains of paddy in a winnow and gave her answer. Do not be afraid, she said, I know who has done this to your daughter. He is the one who measured this world, who brought Lanka down to dust, who held up a hill against the rain, who stole the butter and got tied to a mortar for it. Now that she knows who the dancer is, Parakala Nayaki says what she will do. She will go to every one of his towns and ride the madal.
 
+> பேராயிரமும் பிதற்றிப் பெருந்தெருவே <br>
 > ஊராரிகழிலும் ஊராதொழியேன் நான் <br>
 > வாரார் பூம்பெண்ணை மடல்
 
+> *pērāyiramum pidhaRRip perundheruvē* <br>
 > *ūrār igazhilum ūrādhu ozhiyēn nān* <br>
 > *vārār pūm peṇṇai maḍal*
 
-Let the town laugh at me. I will not stop until I have ridden the madal.
+Down the big street, babbling his thousand names. Let the town laugh at me. I will not stop until I have ridden the madal.
 
 That is what gets recited at the golu. Navaratri is the women's festival, and the golu is the most well-behaved thing in the house. The men of the goshti stand in front of it and recite a man's poem, written in a woman's voice, about the one thing a woman was told she must not do. I have written about her [thudukku](/thudukku) before. This is the same woman.
 
