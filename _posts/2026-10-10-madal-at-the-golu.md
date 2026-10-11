@@ -30,6 +30,6 @@ Thirumangai Azhwar wrote his in a woman's voice. Parakala Nayaki begins by sayin
 
 Let the town laugh at me. I will not stop until I have ridden the madal.
 
-That is what gets recited at the golu. Navaratri is the women's festival, and the golu is the most well-behaved thing in the house. The men of the goshti stand in front of it and recite, in a woman's voice, the one thing a woman was told she must not do. I have written about her [thudukku](/thudukku) before. This is the same woman.
+That is what gets recited at the golu. Navaratri is the women's festival, and the golu is the most well-behaved thing in the house. The men of the goshti stand in front of it and recite a man's poem, written in a woman's voice, about the one thing a woman was told she must not do. I have written about her [thudukku](/thudukku) before. This is the same woman.
 
 The fortune-teller's list is also more or less what is on the steps: the Dasavataram set, Krishna with his hand in the butter pot. The dolls sit there quietly, and the poem tells you what he has been up to.
