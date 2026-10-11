@@ -18,7 +18,7 @@ The choice probably comes from the temple. Navaratri in Thiruvallikeni is Vedava
 
 It is a strange poem to recite in front of a row of dolls, though.
 
-A *madal* is the last resort of a rejected lover in old Tamil poetry. He makes a horse out of palmyra stalks, gets on it, and goes through the streets telling the whole town what his beloved has done to him, until she or her family give in out of shame. The grammar is clear that only men do this. A woman is not supposed to, however much she is in love.
+A *madal* is the last resort of a rejected lover in old Tamil poetry. He makes a horse out of palmyra stalks, gets on it, and goes through the streets telling the whole town what his beloved has done to him, until she or her family give in out of shame. The Tolkappiyam, the old Tamil grammar, is clear that only men do this. A woman is not supposed to, however much she is in love.
 
 Thirumangai Azhwar wrote his in a woman's voice. Parakala Nayaki begins by saying that of all the things people live for, love is the only one she has any use for. Then she tells her story. A man was dancing with pots in the street, and she went out to watch. After that she was lovesick: she lost her colour, and grew so thin that her bangles slipped off. Her mother, worried, called a fortune-teller to find out what was wrong. The fortune-teller tossed a few grains of paddy in a winnow and gave her answer. Do not be afraid, she said, I know who has done this to your daughter. He is the one who measured this world, who brought Lanka down to dust, who held up a hill against the rain, who stole the butter and got tied to a mortar for it. Now that she knows who the dancer is, Parakala Nayaki says what she will do. She will go to every one of his towns and ride the madal.
 
