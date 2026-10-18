@@ -168,6 +168,7 @@
     units.forEach(function (u, i) { u.i = i; });
 
     var timings = data.timings && data.timings.length === units.length ? data.timings.slice() : null;
+    var endAt = typeof data.end === 'number' && !marking ? data.end : null;
     var player = hasAudio ? audio : null;
     var marks = [];
 
@@ -292,7 +293,7 @@
     function say(i) {
       var u = units[i];
       caption.classList.toggle('is-hint', !u);
-      caption.textContent = u ? u.text : hint;
+      caption.textContent = u ? u.text : (player && !player.paused ? '' : hint);
     }
 
     function indexAt(t) {
@@ -307,7 +308,8 @@
 
     function sync() {
       if (!player || !timings) return;
-      var i = indexAt(player.currentTime + LEAD);
+      var t = player.currentTime + LEAD;
+      var i = endAt != null && t >= endAt ? units.length : indexAt(t);
       var key = 'p' + i;
       if (key === current) return;
       current = key;

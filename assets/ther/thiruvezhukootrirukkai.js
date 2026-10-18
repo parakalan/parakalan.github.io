@@ -3,8 +3,7 @@
 // [number, words]. The deck holds the closing lines.
 //
 // timings: start time in seconds of each unit in recital order (the 61 boxes,
-// then the deck lines). Leave null until the recording is timed; open the
-// post with ?mark to tap them out.
+// then the deck lines). Open the post with ?mark to re-time them by tapping.
 window.THER_TVK = {
   tiers: [
     [
@@ -94,5 +93,16 @@ window.THER_TVK = {
     "ஆடரவு அமளியில் அறிதுயில் அமர்ந்த பரம",
     "நின் அடியிணை பணிவன் வருமிடர் அகல மாற்றோ வினையே"
   ],
-  timings: null
+  // Found by forced alignment of the recording (Omnilingual ASR, CTC).
+  timings: [
+    13.42, 14.74, 17.02, 19.90, 20.58, 23.56, 25.12, 27.40, 28.14, 28.88,
+    33.00, 33.76, 36.16, 40.82, 41.74, 43.80, 44.58, 45.18, 47.46, 49.20,
+    51.96, 53.08, 54.00, 54.72, 57.66, 58.40, 61.40, 62.16, 63.20, 65.16,
+    68.84, 71.92, 73.50, 74.50, 76.64, 77.56, 79.76, 83.38, 84.02, 85.08,
+    87.28, 92.48, 96.12, 99.56, 103.02, 104.12, 106.54, 107.18, 109.34, 111.42,
+    114.32, 118.84, 122.72, 125.78, 129.44, 132.32, 135.64, 139.94, 141.94, 143.34,
+    144.90, 147.62, 151.88, 155.22, 159.02, 162.48, 166.26, 172.92, 176.76, 180.54
+  ],
+  // The closing verse (இடங்கொண்ட நெஞ்சத்து…) starts here; the chariot stays fully lit.
+  end: 186.94
 };

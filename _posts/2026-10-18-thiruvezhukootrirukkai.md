@@ -9,7 +9,7 @@ permalink: /thiruvezhukootrirukkai
 <link rel="stylesheet" href="{{ '/assets/ther/ther.css' | relative_url }}">
 
 <div class="ther" data-ther="THER_TVK">
-  <audio controls preload="metadata"></audio>
+  <audio controls preload="metadata" src="{{ '/assets/thiruvezhukootrirukkai.mp3' | relative_url }}"></audio>
 </div>
 
 <script src="{{ '/assets/ther/thiruvezhukootrirukkai.js' | relative_url }}"></script>
