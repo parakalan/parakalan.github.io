@@ -94,7 +94,8 @@
   width: calc(var(--cw) * 2.6);
   margin: 0 auto -1px;
 }
-.ther-kalasam svg { display: block; width: 100%; height: auto; }
+.ther-kalasam svg,
+.ther-wheels svg { display: block; width: 100%; height: auto; }
 
 .ther-half {
   display: grid;
@@ -249,6 +250,12 @@
 .ther .ther-deck-line.is-done { background: var(--turmeric-soft); }
 .ther .ther-deck-line.is-active { background: var(--turmeric); box-shadow: inset 0 -2px var(--kumkum); }
 
+/* The wheels turn only while the recital plays. */
+.ther-wheels { margin-top: -1px; }
+.ther-wheel { transform-box: view-box; }
+.ther.is-playing .ther-wheel { animation: ther-roll 16s linear infinite; }
+@keyframes ther-roll { to { transform: rotate(360deg); } }
+
 /* Timing tool (?mark): boxes are clickable only here, to redo a stretch. */
 .ther.is-marking [data-i] { cursor: pointer; }
 .ther-mark {
@@ -266,4 +273,5 @@
 @media (prefers-reduced-motion: reduce) {
   .ther-cell,
   .ther-deck-line { transition: none; }
+  .ther.is-playing .ther-wheel { animation: none; }
 }

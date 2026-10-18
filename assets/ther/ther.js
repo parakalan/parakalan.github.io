@@ -45,6 +45,67 @@
     '<path d="M45 0 C49 4 50 8 45 10 C40 8 41 4 45 0 Z" fill="#b0281f"/>' +
     '</svg>';
 
+  // A ther wheel after the Konark pattern: iron tyre with studs, wooden rim,
+  // eight broad spokes with medallions, eight thin ones, and a lotus hub.
+  function wheel(cx, cy, r) {
+    var k = r / 50;
+    function f(n) { return (Math.round(n * 100) / 100).toString(); }
+    function at(rad, deg) {
+      var a = (deg - 90) * Math.PI / 180;
+      return [cx + Math.cos(a) * rad * k, cy + Math.sin(a) * rad * k];
+    }
+    function ring(rad, stroke, width, fill) {
+      return '<circle cx="' + f(cx) + '" cy="' + f(cy) + '" r="' + f(rad * k) + '" fill="' + (fill || 'none') +
+        '" stroke="' + stroke + '" stroke-width="' + f(width * k) + '"/>';
+    }
+    var g = '<g class="ther-wheel" style="transform-origin:' + f(cx) + 'px ' + f(cy) + 'px">';
+    g += ring(41, '#4a2e1c', 10);                     // wooden rim
+    for (var j = 0; j < 8; j++) {                      // rim joints
+      var p1 = at(36, 22.5 + j * 45), p2 = at(46, 22.5 + j * 45);
+      g += '<line x1="' + f(p1[0]) + '" y1="' + f(p1[1]) + '" x2="' + f(p2[0]) + '" y2="' + f(p2[1]) +
+        '" stroke="#2b1d14" stroke-width="' + f(1.2 * k) + '"/>';
+    }
+    g += ring(48, '#2b1d14', 4);                      // iron tyre
+    for (j = 0; j < 24; j++) {                         // studs
+      var d = at(48, j * 15);
+      g += '<circle cx="' + f(d[0]) + '" cy="' + f(d[1]) + '" r="' + f(1 * k) + '" fill="#c9962e"/>';
+    }
+    g += ring(35.4, '#c9962e', 1.4);                  // gilt inner edge
+    for (j = 0; j < 8; j++) {                          // thin spokes
+      var t1 = at(12, 22.5 + j * 45), t2 = at(35, 22.5 + j * 45);
+      g += '<line x1="' + f(t1[0]) + '" y1="' + f(t1[1]) + '" x2="' + f(t2[0]) + '" y2="' + f(t2[1]) +
+        '" stroke="#4a2e1c" stroke-width="' + f(1.8 * k) + '"/>';
+    }
+    for (j = 0; j < 8; j++) {                          // broad spokes, tapering outwards
+      var deg = j * 45;
+      var pts = [at(11, deg - 16), at(35, deg - 3.6), at(35, deg + 3.6), at(11, deg + 16)];
+      g += '<polygon points="' + pts.map(function (q) { return f(q[0]) + ',' + f(q[1]); }).join(' ') +
+        '" fill="#4a2e1c"/>';
+      var m = at(24, deg);
+      g += '<circle cx="' + f(m[0]) + '" cy="' + f(m[1]) + '" r="' + f(3.4 * k) +
+        '" fill="#c9962e" stroke="#2b1d14" stroke-width="' + f(0.8 * k) + '"/>';
+    }
+    g += ring(12, '#4a2e1c', 1.6, '#e9b23b');         // hub
+    for (j = 0; j < 8; j++) {                          // lotus petals
+      var c = at(7, j * 45);
+      g += '<ellipse cx="' + f(c[0]) + '" cy="' + f(c[1]) + '" rx="' + f(2.1 * k) + '" ry="' + f(4 * k) +
+        '" fill="#b0281f" transform="rotate(' + (j * 45) + ' ' + f(c[0]) + ' ' + f(c[1]) + ')"/>';
+    }
+    g += ring(2.8, '#2b1d14', 1.2, '#4a2e1c');
+    return g + '</g>';
+  }
+
+  // Under the base: a slim axle and two wheels beside the point of the chariot.
+  // One box is 30 units wide; the base's last tier spans x 150 to 240.
+  var WHEELS =
+    '<svg viewBox="0 0 390 86" aria-hidden="true">' +
+    '<path d="M156 0 H234 L222 30 H168 Z" fill="#4a2e1c"/>' +
+    '<rect x="160" y="5" width="70" height="2" fill="#c9962e"/>' +
+    '<rect x="105" y="39" width="180" height="8" rx="4" fill="#4a2e1c"/>' +
+    '<circle cx="195" cy="43" r="3" fill="#c9962e"/>' +
+    wheel(105, 43, 39) + wheel(285, 43, 39) +
+    '</svg>';
+
   // A stand-in for <audio> so the preview can run before there is a recording.
   function Clock(duration) {
     var bus = document.createElement('span');
@@ -203,6 +264,9 @@
     body.appendChild(half(true));
     body.appendChild(deck);
     body.appendChild(half(false));
+    var wheels = h('div', { class: 'ther-wheels' });
+    wheels.innerHTML = WHEELS;
+    body.appendChild(wheels);
 
     root.textContent = '';
     root.appendChild(bar);
