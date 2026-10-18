@@ -17,7 +17,7 @@
   'use strict';
 
   var COLS = 13;
-  var WIDTH = 2000;   // layout width of the chariot before scaling
+  var WIDTH = 1400;   // layout width of the chariot before scaling
   var LEAD = 0.12;    // light a box this many seconds early
 
   function h(tag, attrs, text) {
@@ -101,12 +101,12 @@
   // Under the base: a slim axle and two wheels either side of the point of the chariot.
   // One box is 30 units wide; the base's last tier spans x 150 to 240.
   var WHEELS =
-    '<svg viewBox="0 0 390 24" aria-hidden="true">' +
-    '<path d="M158 0 H232 L225 6 H165 Z" fill="#4a2e1c"/>' +
-    '<rect x="162" y="1.6" width="66" height="1" fill="#c9962e"/>' +
-    '<rect x="105" y="10.6" width="180" height="2.8" rx="1.4" fill="#4a2e1c"/>' +
-    '<circle cx="195" cy="12" r="1.2" fill="#c9962e"/>' +
-    wheel(105, 12, 11) + wheel(285, 12, 11) +
+    '<svg viewBox="0 0 390 44" aria-hidden="true">' +
+    '<path d="M156 0 H234 L224 12 H166 Z" fill="#4a2e1c"/>' +
+    '<rect x="161" y="3" width="68" height="1.6" fill="#c9962e"/>' +
+    '<rect x="105" y="19.6" width="180" height="4.8" rx="2.4" fill="#4a2e1c"/>' +
+    '<circle cx="195" cy="22" r="2" fill="#c9962e"/>' +
+    wheel(105, 22, 20) + wheel(285, 22, 20) +
     '</svg>';
 
   // A stand-in for <audio> so the preview can run before there is a recording.

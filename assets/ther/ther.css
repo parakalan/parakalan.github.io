@@ -15,8 +15,8 @@
   --tamil: "Noto Serif Tamil", "Tamil Sangam MN", "Latha", "Nirmala UI", serif;
   --tamil-tight: "Noto Sans Tamil", "Tamil Sangam MN", "Latha", "Nirmala UI", sans-serif;
   /* the bar and the chariot break out of the text column */
-  --stage: min(2000px, 100vw - 32px);
-  --stage-left: calc(50% - min(1000px, 50vw - 16px));
+  --stage: min(1400px, 100vw - 32px);
+  --stage-left: calc(50% - min(700px, 50vw - 16px));
   --bar: min(1100px, 100vw - 32px);
   --bar-left: calc(50% - min(550px, 50vw - 16px));
   margin: 2rem 0 2.5rem;
@@ -74,7 +74,7 @@
   outline-offset: 2px;
 }
 
-/* The chariot is laid out 2000px wide and scaled to fit the window (ther.js).
+/* The chariot is laid out 1400px wide and scaled to fit the window (ther.js).
    Every measure is a fraction of one box: 1/13 of the width. */
 .ther-stage {
   position: relative;
@@ -84,7 +84,7 @@
 }
 .ther-body {
   container-type: inline-size;
-  width: 2000px;
+  width: 1400px;
   transform-origin: 0 0;
 }
 .ther-kalasam,
@@ -93,7 +93,7 @@
 
 .ther-kalasam {
   display: block;
-  width: 100px;
+  width: 128px;
   margin: 0 auto -1px;
 }
 .ther-kalasam svg,
@@ -119,7 +119,7 @@
 }
 /* The canopy carries the words. */
 .ther-top .ther-cell {
-  min-height: 36px;
+  min-height: 46px;
   padding: .3em .35em;
   font-family: var(--tamil-tight);
   font-size: 14.5px;
@@ -129,10 +129,10 @@
 .ther-w { min-width: 0; overflow-wrap: break-word; }
 /* The base carries the numbers, shaded deeper as they climb to seven. */
 .ther-bottom .ther-cell {
-  height: 22px;
+  height: 38px;
   background: color-mix(in oklab, var(--indigo) calc(var(--n) * 6.5%), var(--wash));
   font-family: var(--tamil-tight);
-  font-size: 15px;
+  font-size: 19px;
   line-height: 1;
 }
 
@@ -150,8 +150,8 @@
   align-self: end;
   justify-self: center;
   position: relative;
-  width: 50%;
-  height: 40px;
+  width: 66%;
+  height: 46px;
   border: 1px solid var(--indigo);
   border-bottom: 0;
   border-radius: 50% 50% 0 0 / 100% 100% 0 0;
@@ -196,7 +196,7 @@
   background: var(--kumkum);
 }
 
-/* The deck: the closing lines sit where the Lord sits, in three columns. */
+/* The deck: the closing lines sit where the Lord sits, in two columns. */
 .ther-deck {
   position: relative;
   display: grid;
@@ -226,8 +226,8 @@
   background: linear-gradient(90deg, var(--indigo), #6a82bd 50%, var(--indigo));
 }
 .ther-deck-text {
-  columns: 3;
-  column-gap: 1.5em;
+  columns: 2;
+  column-gap: 2.5em;
   padding: .7em .25em;
   font-family: var(--tamil);
   font-size: 16px;
