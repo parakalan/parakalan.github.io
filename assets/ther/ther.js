@@ -301,6 +301,13 @@
     var notes = h('div', { class: 'ther-notes' });
     var before = [];
     for (var el = root.previousElementSibling; el; el = el.previousElementSibling) before.unshift(el);
+    // The post's title goes with them, so it heads the notes column.
+    var post = root.closest('.post');
+    var head = post && post.querySelector('.post-header');
+    if (head && before.length) {
+      before.unshift(head);
+      root.classList.add('has-head');
+    }
     before.forEach(function (e) { notes.appendChild(e); });
 
     root.textContent = '';

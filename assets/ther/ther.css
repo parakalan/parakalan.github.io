@@ -342,9 +342,10 @@
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
 }
-/* On phones the longer lines wrap; indent the wrapped part so each stays one line. */
-.ther.is-narrow .ther-deck-text { text-align: left; padding-left: .4em; padding-right: .4em; }
-.ther.is-narrow .ther-deck-line { width: auto; margin: 0; padding-left: 1.4em; text-indent: -1.1em; }
+/* On phones the deck holds only the player; the line under it carries the text. */
+.ther.is-narrow .ther-deck-text { display: none; }
+.ther.is-narrow .ther-deck-inner { justify-content: center; }
+.ther.is-narrow .ther-panel { max-width: 420px; }
 .ther .ther-deck-line.is-done { background: var(--turmeric-soft); }
 .ther .ther-deck-line.is-active { background: var(--turmeric); box-shadow: inset 0 -2px var(--kumkum); }
 
@@ -374,11 +375,14 @@
   .ther.is-playing .ther-wheel { animation: none; }
 }
 
-/* Wide screens: the notes in a column on the left, the chariot on the right. */
+.ther.has-head { margin-top: 0; }
+
+/* Wide screens: the notes in a column on the left, the chariot on the right.
+   Both columns grow together; the notes up to the blog's usual 740px. */
 @media (min-width: 1300px) {
   .ther {
     display: grid;
-    grid-template-columns: 300px minmax(0, 1040px);
+    grid-template-columns: minmax(320px, 740px) minmax(860px, 1040px);
     column-gap: 2.5rem;
     justify-content: center;
     align-items: start;
@@ -386,8 +390,7 @@
     margin-left: calc(50% - 50vw + 24px);
   }
   .ther-notes > :first-child { margin-top: 0; }
+  .ther-notes .post-header { text-align: center; }
+  .ther-notes .post-title { font-size: clamp(26px, 2.2vw, 42px); overflow-wrap: anywhere; }
   .ther-body { width: 100%; margin: 0; }
-}
-@media (min-width: 1500px) {
-  .ther { grid-template-columns: 420px minmax(0, 1040px); }
 }

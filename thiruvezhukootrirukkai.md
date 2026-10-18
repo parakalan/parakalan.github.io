@@ -16,7 +16,7 @@ The old charts draw it as a full chariot, with the tiers mirrored below as its b
 
 To read along, press play on the chariot's deck. Each box lights up as I recite it, in both halves of the chariot, and the line being recited also shows under the player. The recording opens with the thaniyan, வாழி பரகாலன், before the first box lights, and ends with the verse இடங்கொண்ட நெஞ்சத்து, while the whole chariot stays lit.
 
-*Best viewed on a computer screen. On a phone the boxes show only their numbers, so follow the line under the player.*
+*Best viewed on a computer screen. On a phone the chariot shows only its numbers, so follow the line under the player.*
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil:wdth,wght@62.5..100,400..700&family=Noto+Serif+Tamil:wght@400..700&display=swap">
 <link rel="stylesheet" href="{{ '/assets/ther/ther.css' | relative_url }}">
