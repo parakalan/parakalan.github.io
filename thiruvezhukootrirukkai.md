@@ -1,6 +1,11 @@
 ---
 title: Thiruvezhukootrirukkai
 permalink: /thiruvezhukootrirukkai
+layout: post
+# Unlisted while in draft: kept out of the header (exclude) and, being a page
+# rather than a post, out of the home page and the feed. To publish, move it
+# back to _posts/ with a date and drop these two lines.
+exclude: true
 ---
 
 <!-- Your writing goes here, before and/or after the chariot. -->
