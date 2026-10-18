@@ -123,7 +123,6 @@
   text-align: center;
   transition: background-color .3s ease;
 }
-button.ther-cell { cursor: pointer; }
 .ther-w { min-width: 0; overflow-wrap: break-word; }
 .ther-n {
   display: none;
@@ -241,18 +240,8 @@ button.ther-cell { cursor: pointer; }
   text-align: center;
 }
 .ther-deck-line {
-  appearance: none;
-  display: inline;
-  margin: 0;
   padding: .08em .15em;
-  border: 0;
   border-radius: 2px;
-  background: none;
-  color: inherit;
-  font: inherit;
-  line-height: inherit;
-  text-align: inherit;
-  cursor: pointer;
   transition: background-color .3s ease;
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
@@ -260,7 +249,8 @@ button.ther-cell { cursor: pointer; }
 .ther .ther-deck-line.is-done { background: var(--turmeric-soft); }
 .ther .ther-deck-line.is-active { background: var(--turmeric); box-shadow: inset 0 -2px var(--kumkum); }
 
-/* Timing tool (?mark) */
+/* Timing tool (?mark): boxes are clickable only here, to redo a stretch. */
+.ther.is-marking [data-i] { cursor: pointer; }
 .ther-mark {
   margin-top: .6rem;
   padding: .6rem .75rem;

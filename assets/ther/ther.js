@@ -172,19 +172,13 @@
         }
         tier.forEach(function (cell, p) {
           var u = units[i++];
-          var node = h(top ? 'button' : 'div', {
+          var node = h('div', {
             class: 'ther-cell',
             style: 'grid-column:' + (start + p) + ';grid-row:' + row + ';--n:' + cell[0]
           });
           node.appendChild(h('span', { class: 'ther-w' }, cell[1]));
           node.appendChild(h('span', { class: 'ther-n', 'aria-hidden': 'true' }, String(cell[0])));
-          if (top) {
-            node.type = 'button';
-            node.tabIndex = -1;
-            node.setAttribute('aria-label', cell[1]);
-            node.setAttribute('data-i', u.i);
-            u.btn = node;
-          }
+          if (top) node.setAttribute('data-i', u.i);
           u.nodes.push(node);
           grid.appendChild(node);
         });
@@ -196,11 +190,10 @@
     var deckText = h('p', { class: 'ther-deck-text' });
     units.forEach(function (u) {
       if (u.kind !== 'deck') return;
-      var b = h('button', { type: 'button', class: 'ther-deck-line', tabindex: '-1', 'data-i': u.i }, u.text);
+      var span = h('span', { class: 'ther-deck-line', 'data-i': u.i }, u.text);
       if (deckText.firstChild) deckText.appendChild(document.createTextNode(' '));
-      deckText.appendChild(b);
-      u.btn = b;
-      u.nodes.push(b);
+      deckText.appendChild(span);
+      u.nodes.push(span);
     });
     deck.appendChild(h('span', { class: 'ther-pillar', 'aria-hidden': 'true' }));
     deck.appendChild(deckText);
@@ -217,9 +210,9 @@
 
     // Highlighting
     var current = null;
-    var hint = player
-      ? (marking ? 'Timing mode.' : 'Play the recital, or tap a box to start from there.')
-      : (marking ? 'Load the recording to start timing.' : 'Tap a box to read its line.');
+    var hint = marking
+      ? (player ? 'Timing mode.' : 'Load the recording to start timing.')
+      : (player ? 'Play the recital to follow along.' : '');
 
     function paint(active, trail) {
       units.forEach(function (u, i) {
@@ -287,48 +280,6 @@
     }
     if (player) attach(player);
 
-    var focusAt = 0;
-    function rove(i) {
-      if (units[focusAt].btn) units[focusAt].btn.tabIndex = -1;
-      focusAt = i;
-      units[i].btn.tabIndex = 0;
-    }
-    rove(0);
-
-    function choose(i) {
-      rove(i);
-      if (marking) { jumpBack(i); return; }
-      if (player && timings && timings[i] != null) {
-        player.currentTime = timings[i];
-        if (player.paused) {
-          var started = player.play();
-          if (started && started.catch) started.catch(function () {});
-        }
-        current = null;
-        sync();
-        return;
-      }
-      current = 's' + i;
-      paint(i, false);
-      say(i);
-    }
-
-    body.addEventListener('click', function (e) {
-      var b = e.target.closest('[data-i]');
-      if (b && body.contains(b)) choose(+b.getAttribute('data-i'));
-    });
-    body.addEventListener('keydown', function (e) {
-      var b = e.target.closest('[data-i]');
-      if (!b) return;
-      var i = +b.getAttribute('data-i');
-      var next = { ArrowRight: i + 1, ArrowDown: i + 1, ArrowLeft: i - 1, ArrowUp: i - 1, Home: 0, End: units.length - 1 }[e.key];
-      if (next == null) return;
-      e.preventDefault();
-      next = Math.max(0, Math.min(units.length - 1, next));
-      rove(next);
-      units[next].btn.focus();
-    });
-
     // Narrow screens get the numbers view; the caption carries the words.
     function fit() { root.classList.toggle('is-narrow', body.clientWidth < NARROW); }
     if (window.ResizeObserver) new ResizeObserver(fit).observe(body);
@@ -361,10 +312,15 @@
       if (!marks.length) { paint(-1, false); say(-1); }
     }
     if (marking) {
+      root.classList.add('is-marking');
+      body.addEventListener('click', function (e) {
+        var cell = e.target.closest('[data-i]');
+        if (cell) jumpBack(+cell.getAttribute('data-i'));
+      });
       marks = store(markKey) || [];
       var box = h('div', { class: 'ther-mark' });
       box.appendChild(h('p', null,
-        'Press Mark (or the M key) as each box begins. Tap an earlier box to go back and redo from there.'));
+        'Press Mark (or the M key) as each box begins. Click an earlier box to go back and redo from there.'));
       if (!hasAudio) {
         var file = h('input', { type: 'file', accept: 'audio/*', 'aria-label': 'Recording' });
         file.addEventListener('change', function () {
