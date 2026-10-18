@@ -6,18 +6,15 @@
  *     <audio controls preload="metadata" src="..."></audio>
  *   </div>
  *
- * data-ther names a global holding { tiers, deck, timings, end }.
+ * data-ther names a global holding { tiers, deck, timings }.
  * data-demo plays a timed preview when there is no recording yet.
- * ?mark in the URL opens a tool to re-time the boxes by tapping.
- *
- * The chariot is laid out at a fixed width and scaled to fit the window, so
- * the whole of it is in view while the recital plays.
+ * ?mark in the URL opens the timing tool.
  */
 (function () {
   'use strict';
 
   var COLS = 13;
-  var WIDTH = 1400;   // layout width of the chariot before scaling
+  var NARROW = 860;   // below this width the boxes show numbers only
   var LEAD = 0.12;    // light a box this many seconds early
 
   function h(tag, attrs, text) {
@@ -98,15 +95,15 @@
     return g + '</g>';
   }
 
-  // Under the base: a slim axle and two wheels either side of the point of the chariot.
+  // Under the base: a slim axle and two wheels beside the point of the chariot.
   // One box is 30 units wide; the base's last tier spans x 150 to 240.
   var WHEELS =
-    '<svg viewBox="0 0 390 44" aria-hidden="true">' +
-    '<path d="M156 0 H234 L224 12 H166 Z" fill="#4a2e1c"/>' +
-    '<rect x="161" y="3" width="68" height="1.6" fill="#c9962e"/>' +
-    '<rect x="105" y="19.6" width="180" height="4.8" rx="2.4" fill="#4a2e1c"/>' +
-    '<circle cx="195" cy="22" r="2" fill="#c9962e"/>' +
-    wheel(105, 22, 20) + wheel(285, 22, 20) +
+    '<svg viewBox="0 0 390 86" aria-hidden="true">' +
+    '<path d="M156 0 H234 L222 30 H168 Z" fill="#4a2e1c"/>' +
+    '<rect x="160" y="5" width="70" height="2" fill="#c9962e"/>' +
+    '<rect x="105" y="39" width="180" height="8" rx="4" fill="#4a2e1c"/>' +
+    '<circle cx="195" cy="43" r="3" fill="#c9962e"/>' +
+    wheel(105, 43, 39) + wheel(285, 43, 39) +
     '</svg>';
 
   // A stand-in for <audio> so the preview can run before there is a recording.
@@ -163,7 +160,7 @@
     // Recital order: every box tier by tier, then the deck.
     var units = [];
     data.tiers.forEach(function (tier, t) {
-      tier.forEach(function (cell) {
+      tier.forEach(function (cell, p) {
         units.push({ kind: 'cell', tier: t, n: cell[0], text: cell[1], nodes: [] });
       });
     });
@@ -181,7 +178,7 @@
       player = Clock(pv.duration);
     }
 
-    // Bar: the player and the line being recited.
+    // Bar
     var bar = h('div', { class: 'ther-bar' });
     if (audio) {
       bar.appendChild(audio);
@@ -195,11 +192,26 @@
       });
       bar.appendChild(demoBtn);
     }
+    var line = h('div', { class: 'ther-line' });
     var caption = h('p', { class: 'ther-caption', 'aria-live': 'polite' });
-    bar.appendChild(caption);
+    var view = h('div', { class: 'ther-view', role: 'group', 'aria-label': 'Show' });
+    var wordsBtn = h('button', { type: 'button', 'aria-pressed': 'true' }, 'Words');
+    var numsBtn = h('button', { type: 'button', 'aria-pressed': 'false' }, 'Numbers');
+    view.appendChild(wordsBtn);
+    view.appendChild(numsBtn);
+    line.appendChild(caption);
+    line.appendChild(view);
+    bar.appendChild(line);
 
-    // Chariot: kalasam, the canopy in words, the deck, the base in numbers, wheels.
-    var stage = h('div', { class: 'ther-stage' });
+    function setView(numbers) {
+      root.classList.toggle('is-numbers', numbers);
+      wordsBtn.setAttribute('aria-pressed', String(!numbers));
+      numsBtn.setAttribute('aria-pressed', String(numbers));
+    }
+    wordsBtn.addEventListener('click', function () { setView(false); });
+    numsBtn.addEventListener('click', function () { setView(true); });
+
+    // Chariot
     var body = h('div', { class: 'ther-body' });
     var kalasam = h('div', { class: 'ther-kalasam' });
     kalasam.innerHTML = KALASAM;
@@ -226,12 +238,9 @@
             class: 'ther-cell',
             style: 'grid-column:' + (start + p) + ';grid-row:' + row + ';--n:' + cell[0]
           });
-          if (top) {
-            node.appendChild(h('span', { class: 'ther-w' }, cell[1]));
-            node.setAttribute('data-i', u.i);
-          } else {
-            node.appendChild(h('span', { class: 'ther-n' }, String(cell[0])));
-          }
+          node.appendChild(h('span', { class: 'ther-w' }, cell[1]));
+          node.appendChild(h('span', { class: 'ther-n', 'aria-hidden': 'true' }, String(cell[0])));
+          if (top) node.setAttribute('data-i', u.i);
           u.nodes.push(node);
           grid.appendChild(node);
         });
@@ -240,45 +249,29 @@
     }
 
     var deck = h('div', { class: 'ther-deck' });
-    var deckText = h('div', { class: 'ther-deck-text' });
+    var deckText = h('p', { class: 'ther-deck-text' });
     units.forEach(function (u) {
       if (u.kind !== 'deck') return;
-      var line = h('span', { class: 'ther-deck-line', 'data-i': u.i }, u.text);
-      deckText.appendChild(line);
-      u.nodes.push(line);
+      var span = h('span', { class: 'ther-deck-line', 'data-i': u.i }, u.text);
+      if (deckText.firstChild) deckText.appendChild(document.createTextNode(' '));
+      deckText.appendChild(span);
+      u.nodes.push(span);
     });
     deck.appendChild(h('span', { class: 'ther-pillar', 'aria-hidden': 'true' }));
     deck.appendChild(deckText);
     deck.appendChild(h('span', { class: 'ther-pillar', 'aria-hidden': 'true' }));
 
-    var wheels = h('div', { class: 'ther-wheels' });
-    wheels.innerHTML = WHEELS;
-
     body.appendChild(kalasam);
     body.appendChild(half(true));
     body.appendChild(deck);
     body.appendChild(half(false));
+    var wheels = h('div', { class: 'ther-wheels' });
+    wheels.innerHTML = WHEELS;
     body.appendChild(wheels);
-    stage.appendChild(body);
 
     root.textContent = '';
     root.appendChild(bar);
-    root.appendChild(stage);
-
-    // Fit the whole chariot in the window, under the bar.
-    function fit() {
-      var natural = body.offsetHeight;
-      if (!natural) return;
-      var room = window.innerHeight - bar.offsetHeight - 16;
-      var s = Math.min(stage.clientWidth / WIDTH, room / natural, 1.15);
-      s = Math.max(s, 0.1);
-      body.style.transform = 'translateX(' + ((stage.clientWidth - WIDTH * s) / 2) + 'px) scale(' + s + ')';
-      stage.style.height = Math.ceil(natural * s) + 'px';
-    }
-    window.addEventListener('resize', fit);
-    if (window.ResizeObserver) new ResizeObserver(fit).observe(stage);
-    if (document.fonts && document.fonts.ready) document.fonts.ready.then(fit);
-    fit();
+    root.appendChild(body);
 
     // Highlighting
     var current = null;
@@ -352,9 +345,14 @@
       });
     }
     if (player) attach(player);
+
+    // Narrow screens get the numbers view; the caption carries the words.
+    function fit() { root.classList.toggle('is-narrow', body.clientWidth < NARROW); }
+    if (window.ResizeObserver) new ResizeObserver(fit).observe(body);
+    fit();
     say(-1);
 
-    // Timing tool (?mark)
+    // Timing tool
     var markUI = null;
     function jumpBack(i) {
       if (!player || i > marks.length) return;
@@ -412,7 +410,7 @@
       box.appendChild(row);
       box.appendChild(next);
       box.appendChild(out);
-      root.insertBefore(box, stage);
+      bar.appendChild(box);
       markUI = { count: count, next: next };
 
       markBtn.addEventListener('click', mark);

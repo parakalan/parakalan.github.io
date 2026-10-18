@@ -14,78 +14,76 @@
   --muted: #7d746b;
   --tamil: "Noto Serif Tamil", "Tamil Sangam MN", "Latha", "Nirmala UI", serif;
   --tamil-tight: "Noto Sans Tamil", "Tamil Sangam MN", "Latha", "Nirmala UI", sans-serif;
-  /* the bar and the chariot break out of the text column */
-  --stage: min(1400px, 100vw - 32px);
-  --stage-left: calc(50% - min(700px, 50vw - 16px));
-  --bar: min(1100px, 100vw - 32px);
-  --bar-left: calc(50% - min(550px, 50vw - 16px));
   margin: 2rem 0 2.5rem;
   color: var(--ink);
 }
 
-/* Sticky bar: the player and the line being recited, side by side. */
+/* Sticky bar: player, the line being recited, and the view switch. */
 .ther-bar {
   position: sticky;
   top: 0;
   z-index: 3;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: .4rem 1.25rem;
-  box-sizing: border-box;
-  width: var(--bar);
-  margin-left: var(--bar-left);
-  padding: .5rem 0;
-  border-bottom: 1px solid #e4ded2;
   background: var(--paper);
+  padding: .6rem 0 .55rem;
+  border-bottom: 1px solid #e4ded2;
 }
-.ther-bar audio { flex: 0 1 380px; min-width: 240px; }
+.ther-bar audio { display: block; width: 100%; }
 .ther-bar audio[hidden] { display: none; }
+.ther-line {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  margin-top: .45rem;
+}
 .ther-caption {
-  flex: 1 1 320px;
+  flex: 1;
   min-width: 0;
-  height: 1.45em;
+  min-height: 1.7em;
   margin: 0;
-  overflow: hidden;
   font-family: var(--tamil);
   font-size: 1.2rem;
   line-height: 1.45;
-  white-space: nowrap;
-  text-overflow: ellipsis;
 }
-.ther-caption.is-hint { font-family: inherit; font-size: .95rem; line-height: 1.75; color: var(--muted); }
-@media (max-width: 640px) {
-  .ther-caption { flex-basis: 100%; height: 2.9em; white-space: normal; }
+.ther-caption.is-hint { font-family: inherit; font-size: .9rem; color: var(--muted); }
+.ther-view {
+  flex: none;
+  display: inline-flex;
+  border: 1px solid var(--ink);
+  border-radius: 999px;
+  overflow: hidden;
 }
+.ther-view button,
 .ther-demo,
 .ther-mark button {
   font: inherit;
   font-size: .85rem;
   line-height: 1.4;
   padding: .2rem .75rem;
-  border: 1px solid var(--ink);
-  border-radius: 999px;
+  border: 0;
   background: none;
   color: var(--ink);
   cursor: pointer;
 }
+.ther-view button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+.ther-demo,
+.ther-mark button {
+  border: 1px solid var(--ink);
+  border-radius: 999px;
+}
+.ther-demo { margin-top: .45rem; }
+.ther.is-narrow .ther-view { display: none; }
+
 .ther button:focus-visible {
   outline: 2px solid var(--indigo);
   outline-offset: 2px;
 }
 
-/* The chariot is laid out 1400px wide and scaled to fit the window (ther.js).
+/* The chariot. It breaks out of the text column, up to 1040px wide.
    Every measure is a fraction of one box: 1/13 of the width. */
-.ther-stage {
-  position: relative;
-  width: var(--stage);
-  margin: .75rem 0 0 var(--stage-left);
-  overflow: hidden;
-}
 .ther-body {
   container-type: inline-size;
-  width: 1400px;
-  transform-origin: 0 0;
+  width: min(1040px, 100vw - 32px);
+  margin: 1.25rem 0 0 calc(50% - min(520px, 50vw - 16px));
 }
 .ther-kalasam,
 .ther-half,
@@ -93,7 +91,7 @@
 
 .ther-kalasam {
   display: block;
-  width: 128px;
+  width: calc(var(--cw) * 2.6);
   margin: 0 auto -1px;
 }
 .ther-kalasam svg,
@@ -105,35 +103,43 @@
 }
 
 .ther-cell {
+  appearance: none;
   position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
   min-width: 0;
+  min-height: calc(var(--cw) * .95);
   margin: 0 -1px -1px 0;
+  padding: .3em .12em;
   border: 1px solid var(--ink);
+  border-radius: 0;
   background: var(--wash);
   color: var(--ink);
+  font-family: var(--tamil-tight);
+  /* sized so the longest word (முப்பொழுதும், about 5.5em condensed) fits whole */
+  font-size: clamp(9.5px, calc((100cqw / 13 - 6px) / 5.7), 13px);
+  font-stretch: 62.5%;
+  line-height: 1.28;
   text-align: center;
   transition: background-color .3s ease;
 }
-/* The canopy carries the words. */
-.ther-top .ther-cell {
-  min-height: 46px;
-  padding: .3em .35em;
-  font-family: var(--tamil-tight);
-  font-size: 14.5px;
-  font-stretch: 62.5%;
-  line-height: 1.3;
-}
 .ther-w { min-width: 0; overflow-wrap: break-word; }
-/* The base carries the numbers, shaded deeper as they climb to seven. */
-.ther-bottom .ther-cell {
-  height: 38px;
-  background: color-mix(in oklab, var(--indigo) calc(var(--n) * 6.5%), var(--wash));
-  font-family: var(--tamil-tight);
-  font-size: 19px;
+.ther-n {
+  display: none;
+  font-size: calc(var(--cw) * .42);
+  font-stretch: 100%;
   line-height: 1;
+}
+
+/* Numbers view: the boxes show only their number, shaded deeper as it climbs. */
+.ther.is-numbers .ther-w,
+.ther.is-narrow .ther-w { display: none; }
+.ther.is-numbers .ther-n,
+.ther.is-narrow .ther-n { display: block; }
+.ther.is-numbers .ther-cell,
+.ther.is-narrow .ther-cell {
+  background: color-mix(in oklab, var(--indigo) calc(var(--n) * 6.5%), var(--wash));
 }
 
 /* Recited boxes stay lit; the current one burns brightest. */
@@ -150,8 +156,8 @@
   align-self: end;
   justify-self: center;
   position: relative;
-  width: 66%;
-  height: 46px;
+  width: 86%;
+  height: calc(var(--cw) * .62);
   border: 1px solid var(--indigo);
   border-bottom: 0;
   border-radius: 50% 50% 0 0 / 100% 100% 0 0;
@@ -161,18 +167,19 @@
   content: "";
   position: absolute;
   left: 50%;
-  top: -10px;
-  width: 10px;
-  height: 10px;
+  top: calc(var(--cw) * -.14);
+  width: calc(var(--cw) * .14);
+  height: calc(var(--cw) * .14);
   border-radius: 50%;
   background: var(--gold);
   transform: translateX(-50%);
 }
 .ther-bell {
-  align-self: stretch;
+  align-self: start;
   justify-self: center;
   position: relative;
-  width: 40%;
+  width: 60%;
+  height: calc(var(--cw) * .85);
 }
 .ther-bell::before {
   content: "";
@@ -180,7 +187,7 @@
   left: 50%;
   top: 0;
   width: 1px;
-  height: 40%;
+  height: 38%;
   background: var(--gold);
 }
 .ther-bell::after {
@@ -188,22 +195,22 @@
   position: absolute;
   left: 50%;
   top: 36%;
-  width: 11px;
-  height: 52%;
+  width: 46%;
+  height: 46%;
   transform: translateX(-50%);
   border-bottom: 2px solid var(--gold);
   border-radius: 50% 50% 40% 40% / 70% 70% 30% 30%;
   background: var(--kumkum);
 }
 
-/* The deck: the closing lines sit where the Lord sits, in two columns. */
+/* The deck: the closing lines sit where the Lord sits. */
 .ther-deck {
   position: relative;
   display: grid;
-  grid-template-columns: calc(var(--cw) * .6) minmax(0, 1fr) calc(var(--cw) * .6);
+  grid-template-columns: var(--cw) minmax(0, 1fr) var(--cw);
   margin: 0 0 -1px;
-  border-top: 12px solid var(--teak);
-  border-bottom: 12px solid var(--teak);
+  border-top: calc(var(--cw) * .14) solid var(--teak);
+  border-bottom: calc(var(--cw) * .14) solid var(--teak);
   background: #fbf8ef;
 }
 .ther-deck::before,
@@ -219,19 +226,19 @@
 .ther-deck::after { bottom: 3px; }
 .ther-pillar {
   justify-self: center;
-  width: 22px;
+  width: 38%;
   margin: 6px 0;
-  border-top: 9px solid var(--gold);
-  border-bottom: 9px solid var(--gold);
+  border-top: calc(var(--cw) * .12) solid var(--gold);
+  border-bottom: calc(var(--cw) * .12) solid var(--gold);
   background: linear-gradient(90deg, var(--indigo), #6a82bd 50%, var(--indigo));
 }
 .ther-deck-text {
-  columns: 2;
-  column-gap: 2.5em;
-  padding: .7em .25em;
+  margin: 0;
+  padding: 1.1em .6em;
   font-family: var(--tamil);
-  font-size: 16px;
-  line-height: 1.65;
+  font-size: clamp(12.5px, 2.25cqw, 16.5px);
+  line-height: 1.75;
+  text-align: center;
 }
 .ther-deck-line {
   display: block;
@@ -239,9 +246,13 @@
   margin: 0 auto;
   padding: 0 .3em;
   border-radius: 2px;
-  break-inside: avoid;
   transition: background-color .3s ease;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
 }
+/* On phones the longer lines wrap; indent the wrapped part so each stays one line. */
+.ther.is-narrow .ther-deck-text { text-align: left; padding-left: .4em; padding-right: .4em; }
+.ther.is-narrow .ther-deck-line { width: auto; margin: 0; padding-left: 1.4em; text-indent: -1.1em; }
 .ther .ther-deck-line.is-done { background: var(--turmeric-soft); }
 .ther .ther-deck-line.is-active { background: var(--turmeric); box-shadow: inset 0 -2px var(--kumkum); }
 
