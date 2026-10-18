@@ -389,8 +389,9 @@
     width: calc(100vw - 48px);
     margin-left: calc(50% - 50vw + 24px);
   }
-  /* The notes are much shorter than the chariot; sit them at its middle, by the deck. */
-  .ther-notes { align-self: center; }
+  /* The notes are much shorter than the chariot; ther.js lowers them a little
+     (--lift) so they sit by its upper half and deck. */
+  .ther-notes { margin-top: var(--lift, 0); }
   .ther-notes > :first-child { margin-top: 0; }
   .ther-notes .post-header { text-align: center; }
   .ther-notes .post-title { font-size: clamp(26px, 2.2vw, 42px); overflow-wrap: anywhere; }

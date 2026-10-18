@@ -459,8 +459,25 @@
     if (player) attach(player);
 
     // Narrow screens get the numbers view; the caption carries the words.
-    function fit() { root.classList.toggle('is-narrow', body.clientWidth < NARROW); }
-    if (window.ResizeObserver) new ResizeObserver(fit).observe(body);
+    // Beside the chariot, centre the notes on its upper half and deck, so they
+    // sit lower than the kalasam but no lower than the deck.
+    function level() {
+      if (!notes.parentNode) return;
+      var side = getComputedStyle(root).display === 'grid';
+      var top = body.getBoundingClientRect().top;
+      var mid = (deck.getBoundingClientRect().bottom - top) / 2;
+      var lift = side ? Math.max(0, Math.round(mid - notes.offsetHeight / 2)) : 0;
+      root.style.setProperty('--lift', lift + 'px');
+    }
+    function fit() {
+      root.classList.toggle('is-narrow', body.clientWidth < NARROW);
+      level();
+    }
+    if (window.ResizeObserver) {
+      var ro = new ResizeObserver(fit);
+      ro.observe(body);
+      ro.observe(notes);
+    }
     fit();
     say(-1);
 
