@@ -185,7 +185,8 @@
     }
 
     // Bar: the player, the line being recited, and the switches.
-    var bar = h('div', { class: 'ther-bar' });
+    // The panel sits on the chariot's deck, beside the closing lines.
+    var bar = h('div', { class: 'ther-panel' });
     if (audio) {
       bar.appendChild(audio);
       if (!hasAudio) audio.hidden = true;
@@ -280,8 +281,11 @@
       deckText.appendChild(span);
       u.nodes.push(span);
     });
+    var deckInner = h('div', { class: 'ther-deck-inner' });
+    deckInner.appendChild(bar);
+    deckInner.appendChild(deckText);
     deck.appendChild(h('span', { class: 'ther-pillar', 'aria-hidden': 'true' }));
-    deck.appendChild(deckText);
+    deck.appendChild(deckInner);
     deck.appendChild(h('span', { class: 'ther-pillar', 'aria-hidden': 'true' }));
 
     body.appendChild(kalasam);
@@ -293,7 +297,7 @@
     body.appendChild(wheels);
 
     // Whatever the post says before the chariot becomes its notes: above it on
-    // narrow screens, in a column to its right on wide ones (see ther.css).
+    // narrow screens, in a column to its left on wide ones (see ther.css).
     var notes = h('div', { class: 'ther-notes' });
     var before = [];
     for (var el = root.previousElementSibling; el; el = el.previousElementSibling) before.unshift(el);
@@ -301,7 +305,6 @@
 
     root.textContent = '';
     if (before.length) root.appendChild(notes);
-    root.appendChild(bar);
     root.appendChild(body);
 
     // Highlighting

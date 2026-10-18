@@ -18,54 +18,50 @@
   color: var(--ink);
 }
 
-/* Sticky bar: the player, the line being recited, and the switches. On wide
-   screens it becomes a column beside the chariot (see the end of this file). */
-.ther-bar {
-  position: sticky;
-  top: 0;
-  z-index: 3;
+/* The panel on the chariot's deck: the player, the line being recited, and
+   the view switch, beside the closing lines. */
+.ther-panel {
   display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: .45rem .75rem;
-  background: var(--paper);
-  padding: .6rem 0 .55rem;
-  border-bottom: 1px solid #e4ded2;
-}
-.ther-bar audio { display: block; flex: 1 1 100%; width: 100%; }
-.ther-bar audio[hidden] { display: none; }
-.ther-caption {
-  flex: 1 1 0;
+  flex-direction: column;
+  gap: .8rem;
   min-width: 0;
-  min-height: 1.7em;
+}
+.ther-panel audio { display: block; width: 100%; }
+.ther-panel audio[hidden] { display: none; }
+.ther-caption {
+  min-height: 2.9em;
   margin: 0;
   font-family: var(--tamil);
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1.45;
 }
 .ther-caption.is-hint { font-family: inherit; font-size: .9rem; color: var(--muted); }
 .ther-controls {
-  flex: none;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   gap: .5rem .9rem;
 }
 
-/* The player: a kumkum play button, a long track ticked where each tier
-   begins, and the time. */
+/* The player: a kumkum play button, the time, and a long track ticked where
+   each tier begins. */
 .ther-player {
-  flex: 1 1 100%;
-  display: flex;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-areas: "play time" "track track";
   align-items: center;
-  gap: .9rem;
+  gap: 1rem .9rem;
+  padding: .9rem 1rem 1.2rem;
+  border: 1px solid #e4ded2;
+  border-radius: 14px;
+  background: var(--paper);
 }
 .ther-play {
-  flex: none;
+  grid-area: play;
   display: grid;
   place-items: center;
-  width: 52px;
-  height: 52px;
+  width: 56px;
+  height: 56px;
   padding: 0;
   border: 0;
   border-radius: 50%;
@@ -76,13 +72,13 @@
   transition: background-color .2s ease;
 }
 .ther-play:hover { background: #8f1f18; }
-.ther-play svg { width: 26px; height: 26px; fill: currentColor; }
+.ther-play svg { width: 28px; height: 28px; fill: currentColor; }
 .ther-i-pause { display: none; }
 .ther.is-playing .ther-i-play { display: none; }
 .ther.is-playing .ther-i-pause { display: inline; }
 .ther-track {
+  grid-area: track;
   position: relative;
-  flex: 1;
   height: 10px;
   border-radius: 5px;
   background: #ebe4d4;
@@ -128,12 +124,10 @@
   pointer-events: none;
 }
 .ther-time {
-  flex: none;
-  min-width: 6.5em;
+  grid-area: time;
   color: var(--muted);
-  font-size: .9rem;
+  font-size: .95rem;
   font-variant-numeric: tabular-nums;
-  text-align: right;
 }
 .ther-view {
   flex: none;
@@ -293,11 +287,11 @@
   background: var(--kumkum);
 }
 
-/* The deck: the closing lines sit where the Lord sits. */
+/* The deck: the player and the closing lines sit where the Lord sits. */
 .ther-deck {
   position: relative;
   display: grid;
-  grid-template-columns: var(--cw) minmax(0, 1fr) var(--cw);
+  grid-template-columns: calc(var(--cw) * .7) minmax(0, 1fr) calc(var(--cw) * .7);
   margin: 0 0 -1px;
   border-top: calc(var(--cw) * .14) solid var(--teak);
   border-bottom: calc(var(--cw) * .14) solid var(--teak);
@@ -322,11 +316,19 @@
   border-bottom: calc(var(--cw) * .12) solid var(--gold);
   background: linear-gradient(90deg, var(--indigo), #6a82bd 50%, var(--indigo));
 }
+.ther-deck-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.2rem 1.6rem;
+  padding: 1.2rem .3rem;
+}
+.ther-panel { flex: 1 1 250px; max-width: 300px; }
 .ther-deck-text {
+  flex: 999 1 340px;
   margin: 0;
-  padding: 1.1em .6em;
   font-family: var(--tamil);
-  font-size: clamp(12.5px, 2.25cqw, 16.5px);
+  font-size: clamp(12.5px, 2.2cqw, 16px);
   line-height: 1.75;
   text-align: center;
 }
@@ -372,65 +374,20 @@
   .ther.is-playing .ther-wheel { animation: none; }
 }
 
-/* Wide screens: the player sits in a sticky column left of the chariot, with
-   the notes above them both. */
+/* Wide screens: the notes in a column on the left, the chariot on the right. */
 @media (min-width: 1300px) {
   .ther {
     display: grid;
-    grid-template-columns: 280px minmax(0, 1fr);
-    grid-template-areas: "notes notes" "bar body";
-    column-gap: 2rem;
+    grid-template-columns: 300px minmax(0, 1040px);
+    column-gap: 2.5rem;
+    justify-content: center;
     align-items: start;
     width: calc(100vw - 48px);
     margin-left: calc(50% - 50vw + 24px);
   }
-  .ther-notes {
-    grid-area: notes;
-    justify-self: center;
-    width: 100%;
-    max-width: 740px;
-    margin-bottom: 1.25rem;
-  }
-  .ther-bar {
-    grid-area: bar;
-    top: 1.5rem;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    align-items: stretch;
-    gap: .9rem;
-    padding: 0;
-    border-bottom: 0;
-    background: none;
-  }
-  .ther-bar audio { flex: none; }
-  .ther-player {
-    flex: none;
-    display: grid;
-    grid-template-columns: auto 1fr;
-    grid-template-areas: "play time" "track track";
-    align-items: center;
-    gap: 1rem .9rem;
-    padding: 1rem 1.1rem 1.3rem;
-    border: 1px solid #e4ded2;
-    border-radius: 14px;
-    background: #fbf8ef;
-  }
-  .ther-play { grid-area: play; width: 60px; height: 60px; }
-  .ther-play svg { width: 30px; height: 30px; }
-  .ther-track { grid-area: track; }
-  .ther-time { grid-area: time; text-align: left; font-size: 1rem; }
-  .ther-caption { flex: none; min-height: 4.4em; font-size: 1.3rem; }
-  .ther-body { grid-area: body; justify-self: start; width: 100%; max-width: 1040px; margin: 0; }
-}
-
-/* Wider still: player on the left, the chariot in the middle, the notes on the right. */
-@media (min-width: 1560px) {
-  .ther {
-    grid-template-columns: minmax(240px, 300px) minmax(860px, 1040px) minmax(320px, 440px);
-    grid-template-areas: "bar body notes";
-    justify-content: center;
-  }
-  .ther-notes { justify-self: stretch; max-width: none; margin: 0; font-size: .95rem; }
   .ther-notes > :first-child { margin-top: 0; }
-  .ther-body { justify-self: center; }
+  .ther-body { width: 100%; margin: 0; }
+}
+@media (min-width: 1500px) {
+  .ther { grid-template-columns: 420px minmax(0, 1040px); }
 }
