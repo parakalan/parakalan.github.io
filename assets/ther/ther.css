@@ -1,0 +1,287 @@
+/* Ratha bandham: a chariot of boxes that light up with the recital. */
+
+.ther {
+  --teak: #4a2e1c;
+  --ink: #2b2420;
+  --wash: #f3f4ec;
+  --indigo: #2e4a8b;
+  --indigo-soft: #a9badf;
+  --kumkum: #b0281f;
+  --turmeric: #e9b23b;
+  --turmeric-soft: #f7e6b3;
+  --gold: #c9962e;
+  --paper: #fdfdfd;
+  --muted: #7d746b;
+  --tamil: "Noto Serif Tamil", "Tamil Sangam MN", "Latha", "Nirmala UI", serif;
+  --tamil-tight: "Noto Sans Tamil", "Tamil Sangam MN", "Latha", "Nirmala UI", sans-serif;
+  margin: 2rem 0 2.5rem;
+  color: var(--ink);
+}
+
+/* Sticky bar: player, the line being recited, and the view switch. */
+.ther-bar {
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  background: var(--paper);
+  padding: .6rem 0 .55rem;
+  border-bottom: 1px solid #e4ded2;
+}
+.ther-bar audio { display: block; width: 100%; }
+.ther-bar audio[hidden] { display: none; }
+.ther-line {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  margin-top: .45rem;
+}
+.ther-caption {
+  flex: 1;
+  min-width: 0;
+  min-height: 1.7em;
+  margin: 0;
+  font-family: var(--tamil);
+  font-size: 1.2rem;
+  line-height: 1.45;
+}
+.ther-caption.is-hint { font-family: inherit; font-size: .9rem; color: var(--muted); }
+.ther-view {
+  flex: none;
+  display: inline-flex;
+  border: 1px solid var(--ink);
+  border-radius: 999px;
+  overflow: hidden;
+}
+.ther-view button,
+.ther-demo,
+.ther-mark button {
+  font: inherit;
+  font-size: .85rem;
+  line-height: 1.4;
+  padding: .2rem .75rem;
+  border: 0;
+  background: none;
+  color: var(--ink);
+  cursor: pointer;
+}
+.ther-view button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+.ther-demo,
+.ther-mark button {
+  border: 1px solid var(--ink);
+  border-radius: 999px;
+}
+.ther-demo { margin-top: .45rem; }
+.ther.is-narrow .ther-view { display: none; }
+
+.ther button:focus-visible {
+  outline: 2px solid var(--indigo);
+  outline-offset: 2px;
+}
+
+/* The chariot. It breaks out of the text column, up to 1040px wide.
+   Every measure is a fraction of one box: 1/13 of the width. */
+.ther-body {
+  container-type: inline-size;
+  width: min(1040px, 100vw - 32px);
+  margin: 1.25rem 0 0 calc(50% - min(520px, 50vw - 16px));
+}
+.ther-kalasam,
+.ther-half,
+.ther-deck,
+.ther-wheels { --cw: calc(100cqw / 13); }
+
+.ther-kalasam {
+  display: block;
+  width: calc(var(--cw) * 2.6);
+  margin: 0 auto -1px;
+}
+.ther-kalasam svg,
+.ther-wheels svg { display: block; width: 100%; height: auto; }
+
+.ther-half {
+  display: grid;
+  grid-template-columns: repeat(13, minmax(0, 1fr));
+}
+
+.ther-cell {
+  appearance: none;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+  min-height: calc(var(--cw) * .95);
+  margin: 0 -1px -1px 0;
+  padding: .3em .12em;
+  border: 1px solid var(--ink);
+  border-radius: 0;
+  background: var(--wash);
+  color: var(--ink);
+  font-family: var(--tamil-tight);
+  /* sized so the longest word (முப்பொழுதும், about 5.5em condensed) fits whole */
+  font-size: clamp(9.5px, calc((100cqw / 13 - 6px) / 5.7), 13px);
+  font-stretch: 62.5%;
+  line-height: 1.28;
+  text-align: center;
+  transition: background-color .3s ease;
+}
+button.ther-cell { cursor: pointer; }
+.ther-w { min-width: 0; overflow-wrap: break-word; }
+.ther-n {
+  display: none;
+  font-size: calc(var(--cw) * .42);
+  font-stretch: 100%;
+  line-height: 1;
+}
+
+/* Numbers view: the boxes show only their number, shaded deeper as it climbs. */
+.ther.is-numbers .ther-w,
+.ther.is-narrow .ther-w { display: none; }
+.ther.is-numbers .ther-n,
+.ther.is-narrow .ther-n { display: block; }
+.ther.is-numbers .ther-cell,
+.ther.is-narrow .ther-cell {
+  background: color-mix(in oklab, var(--indigo) calc(var(--n) * 6.5%), var(--wash));
+}
+
+/* Recited boxes stay lit; the current one burns brightest. */
+.ther .ther-cell.is-done { background: var(--turmeric-soft); }
+.ther .ther-cell.is-active {
+  z-index: 1;
+  background: var(--turmeric);
+  outline: 2px solid var(--kumkum);
+  outline-offset: -2px;
+}
+
+/* Domes at the steps of the canopy, bells under the steps of the base. */
+.ther-dome {
+  align-self: end;
+  justify-self: center;
+  position: relative;
+  width: 86%;
+  height: calc(var(--cw) * .62);
+  border: 1px solid var(--indigo);
+  border-bottom: 0;
+  border-radius: 50% 50% 0 0 / 100% 100% 0 0;
+  background: repeating-linear-gradient(90deg, var(--indigo) 0 2px, var(--indigo-soft) 2px 5px);
+}
+.ther-dome::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: calc(var(--cw) * -.14);
+  width: calc(var(--cw) * .14);
+  height: calc(var(--cw) * .14);
+  border-radius: 50%;
+  background: var(--gold);
+  transform: translateX(-50%);
+}
+.ther-bell {
+  align-self: start;
+  justify-self: center;
+  position: relative;
+  width: 60%;
+  height: calc(var(--cw) * .85);
+}
+.ther-bell::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 0;
+  width: 1px;
+  height: 38%;
+  background: var(--gold);
+}
+.ther-bell::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 36%;
+  width: 46%;
+  height: 46%;
+  transform: translateX(-50%);
+  border-bottom: 2px solid var(--gold);
+  border-radius: 50% 50% 40% 40% / 70% 70% 30% 30%;
+  background: var(--kumkum);
+}
+
+/* The deck: the closing lines sit where the Lord sits. */
+.ther-deck {
+  position: relative;
+  display: grid;
+  grid-template-columns: var(--cw) minmax(0, 1fr) var(--cw);
+  margin: 0 0 -1px;
+  border-top: calc(var(--cw) * .14) solid var(--teak);
+  border-bottom: calc(var(--cw) * .14) solid var(--teak);
+  background: #fbf8ef;
+}
+.ther-deck::before,
+.ther-deck::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: var(--gold);
+}
+.ther-deck::before { top: 3px; }
+.ther-deck::after { bottom: 3px; }
+.ther-pillar {
+  justify-self: center;
+  width: 38%;
+  margin: 6px 0;
+  border-top: calc(var(--cw) * .12) solid var(--gold);
+  border-bottom: calc(var(--cw) * .12) solid var(--gold);
+  background: linear-gradient(90deg, var(--indigo), #6a82bd 50%, var(--indigo));
+}
+.ther-deck-text {
+  margin: 0;
+  padding: 1.1em .6em;
+  font-family: var(--tamil);
+  font-size: clamp(12.5px, 2.25cqw, 16.5px);
+  line-height: 1.75;
+  text-align: center;
+}
+.ther-deck-line {
+  appearance: none;
+  display: inline;
+  margin: 0;
+  padding: .08em .15em;
+  border: 0;
+  border-radius: 2px;
+  background: none;
+  color: inherit;
+  font: inherit;
+  line-height: inherit;
+  text-align: inherit;
+  cursor: pointer;
+  transition: background-color .3s ease;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+.ther .ther-deck-line.is-done { background: var(--turmeric-soft); }
+.ther .ther-deck-line.is-active { background: var(--turmeric); box-shadow: inset 0 -2px var(--kumkum); }
+
+.ther-wheels { margin-top: -1px; }
+.ther-wheel { transform-box: view-box; }
+.ther.is-playing .ther-wheel { animation: ther-roll 14s linear infinite; }
+@keyframes ther-roll { to { transform: rotate(360deg); } }
+
+/* Timing tool (?mark) */
+.ther-mark {
+  margin-top: .6rem;
+  padding: .6rem .75rem;
+  border: 1px dashed var(--muted);
+  font-size: .9rem;
+}
+.ther-mark p { margin: 0 0 .4rem; }
+.ther-mark .ther-mark-row { display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; }
+.ther-mark .ther-mark-next { font-family: var(--tamil); }
+.ther-mark textarea { width: 100%; height: 5rem; margin-top: .5rem; font-size: .8rem; }
+.ther-mark input[type="file"] { font-size: .85rem; }
+
+@media (prefers-reduced-motion: reduce) {
+  .ther-cell,
+  .ther-deck-line { transition: none; }
+  .ther.is-playing .ther-wheel { animation: none; }
+}
