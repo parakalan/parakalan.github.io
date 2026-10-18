@@ -18,25 +18,24 @@
   color: var(--ink);
 }
 
-/* Sticky bar: player, the line being recited, and the view switch. */
+/* Sticky bar: the player, the line being recited, and the switches. On wide
+   screens it becomes a column beside the chariot (see the end of this file). */
 .ther-bar {
   position: sticky;
   top: 0;
   z-index: 3;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .45rem .75rem;
   background: var(--paper);
   padding: .6rem 0 .55rem;
   border-bottom: 1px solid #e4ded2;
 }
-.ther-bar audio { display: block; width: 100%; }
+.ther-bar audio { display: block; flex: 1 1 100%; width: 100%; }
 .ther-bar audio[hidden] { display: none; }
-.ther-line {
-  display: flex;
-  align-items: center;
-  gap: .75rem;
-  margin-top: .45rem;
-}
 .ther-caption {
-  flex: 1;
+  flex: 1 1 0;
   min-width: 0;
   min-height: 1.7em;
   margin: 0;
@@ -45,6 +44,22 @@
   line-height: 1.45;
 }
 .ther-caption.is-hint { font-family: inherit; font-size: .9rem; color: var(--muted); }
+.ther-controls {
+  flex: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .5rem .9rem;
+}
+.ther-follow {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+  font-size: .85rem;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.ther-follow input { margin: 0; accent-color: var(--kumkum); }
 .ther-view {
   flex: none;
   display: inline-flex;
@@ -70,7 +85,7 @@
   border: 1px solid var(--ink);
   border-radius: 999px;
 }
-.ther-demo { margin-top: .45rem; }
+.ther-demo { flex: none; }
 .ther.is-narrow .ther-view { display: none; }
 
 .ther button:focus-visible {
@@ -280,4 +295,29 @@
   .ther-cell,
   .ther-deck-line { transition: none; }
   .ther.is-playing .ther-wheel { animation: none; }
+}
+
+/* Wide screens: the player sits in a sticky column to the left of the chariot. */
+@media (min-width: 1240px) {
+  .ther {
+    display: grid;
+    grid-template-columns: 280px minmax(0, 1fr);
+    column-gap: 2rem;
+    align-items: start;
+    width: min(1352px, 100vw - 32px);
+    margin-left: calc(50% - min(676px, 50vw - 16px));
+  }
+  .ther-bar {
+    top: 1.5rem;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: stretch;
+    gap: .9rem;
+    padding: 0;
+    border-bottom: 0;
+    background: none;
+  }
+  .ther-bar audio { flex: none; }
+  .ther-caption { flex: none; min-height: 4.4em; font-size: 1.3rem; }
+  .ther-body { width: auto; margin: 0; }
 }
