@@ -60,6 +60,90 @@
   cursor: pointer;
 }
 .ther-follow input { margin: 0; accent-color: var(--kumkum); }
+
+/* The player: a kumkum play button, a long track ticked where each tier
+   begins, and the time. */
+.ther-player {
+  flex: 1 1 100%;
+  display: flex;
+  align-items: center;
+  gap: .9rem;
+}
+.ther-play {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 52px;
+  height: 52px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: var(--kumkum);
+  color: #fffaf0;
+  box-shadow: 0 0 0 4px var(--turmeric-soft);
+  cursor: pointer;
+  transition: background-color .2s ease;
+}
+.ther-play:hover { background: #8f1f18; }
+.ther-play svg { width: 26px; height: 26px; fill: currentColor; }
+.ther-i-pause { display: none; }
+.ther.is-playing .ther-i-play { display: none; }
+.ther.is-playing .ther-i-pause { display: inline; }
+.ther-track {
+  position: relative;
+  flex: 1;
+  height: 10px;
+  border-radius: 5px;
+  background: #ebe4d4;
+  cursor: pointer;
+  touch-action: none;
+}
+.ther-track::before {
+  content: "";
+  position: absolute;
+  inset: -12px 0;
+}
+.ther-track:focus-visible { outline: 2px solid var(--indigo); outline-offset: 6px; }
+.ther-fill {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  border-radius: inherit;
+  background: var(--turmeric);
+}
+.ther-tick {
+  position: absolute;
+  top: -4px;
+  bottom: -4px;
+  width: 2px;
+  margin-left: -1px;
+  background: var(--indigo);
+  opacity: .6;
+  pointer-events: none;
+}
+.ther-knob {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 18px;
+  height: 18px;
+  margin: -9px 0 0 -9px;
+  border: 3px solid var(--paper);
+  border-radius: 50%;
+  background: var(--kumkum);
+  box-shadow: 0 0 0 1px var(--kumkum);
+  pointer-events: none;
+}
+.ther-time {
+  flex: none;
+  min-width: 6.5em;
+  color: var(--muted);
+  font-size: .9rem;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
 .ther-view {
   flex: none;
   display: inline-flex;
@@ -297,15 +381,16 @@
   .ther.is-playing .ther-wheel { animation: none; }
 }
 
-/* Wide screens: the player sits in a sticky column to the left of the chariot. */
-@media (min-width: 1240px) {
+/* Wide screens: the player sits in a sticky column at the left edge of the
+   window, with the chariot as far left as it can go beside it. */
+@media (min-width: 1300px) {
   .ther {
     display: grid;
     grid-template-columns: 280px minmax(0, 1fr);
     column-gap: 2rem;
     align-items: start;
-    width: min(1352px, 100vw - 32px);
-    margin-left: calc(50% - min(676px, 50vw - 16px));
+    width: calc(100vw - 48px);
+    margin-left: calc(50% - 50vw + 24px);
   }
   .ther-bar {
     top: 1.5rem;
@@ -318,6 +403,30 @@
     background: none;
   }
   .ther-bar audio { flex: none; }
+  .ther-player {
+    flex: none;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-template-areas: "play time" "track track";
+    align-items: center;
+    gap: 1rem .9rem;
+    padding: 1rem 1.1rem 1.3rem;
+    border: 1px solid #e4ded2;
+    border-radius: 14px;
+    background: #fbf8ef;
+  }
+  .ther-play { grid-area: play; width: 60px; height: 60px; }
+  .ther-play svg { width: 30px; height: 30px; }
+  .ther-track { grid-area: track; }
+  .ther-time { grid-area: time; text-align: left; font-size: 1rem; }
   .ther-caption { flex: none; min-height: 4.4em; font-size: 1.3rem; }
-  .ther-body { width: auto; margin: 0; }
+  .ther-body { justify-self: start; width: 100%; max-width: 1040px; margin: 0; }
+}
+
+/* Wider still: the chariot sits centred under the text, the player in the
+   margin. The chariot gives up a little width before the player gets too narrow. */
+@media (min-width: 1412px) {
+  .ther { grid-template-columns: minmax(220px, 1fr) minmax(0, 1040px) minmax(220px, 1fr); }
+  .ther-bar { grid-column: 1; width: 100%; max-width: 360px; }
+  .ther-body { grid-column: 2; justify-self: center; }
 }

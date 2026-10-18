@@ -15,7 +15,7 @@
 
   var COLS = 13;
   var NARROW = 860;   // below this width the boxes show numbers only
-  var SIDE = '(min-width: 1240px)';   // wide enough to put the player beside the chariot (see ther.css)
+  var SIDE = '(min-width: 1300px)';   // wide enough to put the player beside the chariot (see ther.css)
   var LEAD = 0.12;    // light a box this many seconds early
 
   function h(tag, attrs, text) {
@@ -142,6 +142,12 @@
     return self;
   }
 
+  function clock(t) {
+    if (!isFinite(t)) return '0:00';
+    t = Math.max(0, Math.floor(t));
+    return Math.floor(t / 60) + ':' + ('0' + (t % 60)).slice(-2);
+  }
+
   function previewTimings(units) {
     var t = 0.6, out = [];
     units.forEach(function (u) {
@@ -179,19 +185,36 @@
       player = Clock(pv.duration);
     }
 
-    // Bar
+    // Bar: the player, the line being recited, and the switches.
     var bar = h('div', { class: 'ther-bar' });
     if (audio) {
       bar.appendChild(audio);
       if (!hasAudio) audio.hidden = true;
     }
-    var demoBtn = null;
-    if (demo) {
-      demoBtn = h('button', { type: 'button', class: 'ther-demo' }, 'Play preview');
-      demoBtn.addEventListener('click', function () {
-        if (player.paused) player.play(); else player.pause();
-      });
-      bar.appendChild(demoBtn);
+
+    // Our own player in place of the browser's: a play button, a track marked
+    // where each tier begins (drag or click it to move), and the time. The
+    // timing tool keeps the browser's controls.
+    var pl = null;
+    if (player && !marking) {
+      if (audio) { audio.controls = false; audio.hidden = true; }
+      pl = {
+        wrap: h('div', { class: 'ther-player' }),
+        play: h('button', { type: 'button', class: 'ther-play', 'aria-label': 'Play' }),
+        track: h('div', { class: 'ther-track', role: 'slider', tabindex: '0', 'aria-label': 'Position in the recital', 'aria-valuemin': '0' }),
+        fill: h('span', { class: 'ther-fill' }),
+        knob: h('span', { class: 'ther-knob' }),
+        time: h('span', { class: 'ther-time' }, '0:00')
+      };
+      pl.play.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true">' +
+        '<path class="ther-i-play" d="M8.5 5.5v13l10.5-6.5z"/>' +
+        '<g class="ther-i-pause"><rect x="6.5" y="5.5" width="4" height="13" rx="1"/><rect x="13.5" y="5.5" width="4" height="13" rx="1"/></g></svg>';
+      pl.track.appendChild(pl.fill);
+      pl.track.appendChild(pl.knob);
+      pl.wrap.appendChild(pl.play);
+      pl.wrap.appendChild(pl.track);
+      pl.wrap.appendChild(pl.time);
+      bar.appendChild(pl.wrap);
     }
     var caption = h('p', { class: 'ther-caption', 'aria-live': 'polite' });
     var controls = h('div', { class: 'ther-controls' });
@@ -322,8 +345,10 @@
       current = key;
       paint(i, true);
       say(i);
-      follow(i);
+      follow(i, jumped);
+      jumped = false;
     }
+    var jumped = false;
 
     // Follow along: while the recital plays, keep the lit box in view. Back off
     // for a few seconds whenever the reader scrolls by hand.
@@ -354,28 +379,100 @@
       if (followBox.checked && player && !player.paused) follow(at, true);
     });
 
+    // Player
+    var ticked = false;
+    function length() { return player && isFinite(player.duration) ? player.duration : 0; }
+    function progress() {
+      if (!pl) return;
+      var d = length(), t = player.currentTime;
+      var pct = d ? Math.min(100, t / d * 100) : 0;
+      pl.fill.style.width = pct + '%';
+      pl.knob.style.left = pct + '%';
+      pl.time.textContent = clock(t) + ' / ' + clock(d);
+      pl.track.setAttribute('aria-valuemax', String(Math.round(d)));
+      pl.track.setAttribute('aria-valuenow', String(Math.round(t)));
+      pl.track.setAttribute('aria-valuetext', clock(t));
+      if (d && timings && !ticked) {
+        ticked = true;
+        // A tick where each tier begins, where the deck begins, and where the closing verse begins.
+        units.forEach(function (u, i) {
+          var first = u.kind === 'cell' ? (i === 0 || units[i - 1].tier !== u.tier) : units[i - 1].kind === 'cell';
+          if (first && timings[i] != null) {
+            pl.track.insertBefore(h('span', { class: 'ther-tick', style: 'left:' + (timings[i] / d * 100) + '%' }), pl.knob);
+          }
+        });
+        if (endAt != null) {
+          pl.track.insertBefore(h('span', { class: 'ther-tick', style: 'left:' + (endAt / d * 100) + '%' }), pl.knob);
+        }
+      }
+    }
+    function moveTo(t) {
+      var d = length();
+      if (!d) return;
+      player.currentTime = Math.max(0, Math.min(d, t));
+      jumped = true;
+      current = null;
+      progress();
+      sync();
+    }
+    if (pl) {
+      pl.play.addEventListener('click', function () {
+        if (player.paused) {
+          var started = player.play();
+          if (started && started.catch) started.catch(function () {});
+        } else {
+          player.pause();
+        }
+      });
+      var dragging = false;
+      var at = function (e) {
+        var r = pl.track.getBoundingClientRect();
+        moveTo((e.clientX - r.left) / r.width * length());
+      };
+      pl.track.addEventListener('pointerdown', function (e) {
+        dragging = true;
+        pl.track.setPointerCapture(e.pointerId);
+        at(e);
+      });
+      pl.track.addEventListener('pointermove', function (e) { if (dragging) at(e); });
+      pl.track.addEventListener('pointerup', function () { dragging = false; });
+      pl.track.addEventListener('pointercancel', function () { dragging = false; });
+      pl.track.addEventListener('keydown', function (e) {
+        var step = { ArrowRight: 5, ArrowUp: 5, ArrowLeft: -5, ArrowDown: -5 }[e.key];
+        if (step) { e.preventDefault(); moveTo(player.currentTime + step); }
+        if (e.key === 'Home') { e.preventDefault(); moveTo(0); }
+        if (e.key === 'End') { e.preventDefault(); moveTo(length()); }
+      });
+      ['loadedmetadata', 'durationchange', 'timeupdate', 'seeked'].forEach(function (type) {
+        player.addEventListener(type, progress);
+      });
+      progress();
+    }
+
     var raf = 0;
     function loop() {
       sync();
+      progress();
       if (player && !player.paused) raf = requestAnimationFrame(loop);
     }
 
     function attach(p) {
       p.addEventListener('play', function () {
         root.classList.add('is-playing');
-        if (demoBtn) demoBtn.textContent = 'Pause preview';
+        if (pl) pl.play.setAttribute('aria-label', 'Pause');
         cancelAnimationFrame(raf);
         loop();
       });
       p.addEventListener('pause', function () {
         root.classList.remove('is-playing');
-        if (demoBtn) demoBtn.textContent = 'Play preview';
+        if (pl) pl.play.setAttribute('aria-label', 'Play');
         sync();
       });
       p.addEventListener('seeked', sync);
       p.addEventListener('timeupdate', function () { if (p.paused) sync(); });
       p.addEventListener('ended', function () {
         root.classList.remove('is-playing');
+        if (pl) pl.play.setAttribute('aria-label', 'Play');
         current = 'end';
         paint(units.length, true);
         say(-1);
