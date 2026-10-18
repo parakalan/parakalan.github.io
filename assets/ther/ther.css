@@ -372,17 +372,27 @@
   .ther.is-playing .ther-wheel { animation: none; }
 }
 
-/* Wide screens: the player sits in a sticky column just left of the chariot. */
+/* Wide screens: the player sits in a sticky column left of the chariot, with
+   the notes above them both. */
 @media (min-width: 1300px) {
   .ther {
     display: grid;
     grid-template-columns: 280px minmax(0, 1fr);
+    grid-template-areas: "notes notes" "bar body";
     column-gap: 2rem;
     align-items: start;
     width: calc(100vw - 48px);
     margin-left: calc(50% - 50vw + 24px);
   }
+  .ther-notes {
+    grid-area: notes;
+    justify-self: center;
+    width: 100%;
+    max-width: 740px;
+    margin-bottom: 1.25rem;
+  }
   .ther-bar {
+    grid-area: bar;
     top: 1.5rem;
     flex-direction: column;
     flex-wrap: nowrap;
@@ -410,14 +420,17 @@
   .ther-track { grid-area: track; }
   .ther-time { grid-area: time; text-align: left; font-size: 1rem; }
   .ther-caption { flex: none; min-height: 4.4em; font-size: 1.3rem; }
-  .ther-body { justify-self: start; width: 100%; max-width: 1040px; margin: 0; }
+  .ther-body { grid-area: body; justify-self: start; width: 100%; max-width: 1040px; margin: 0; }
 }
 
-/* Wider still: the chariot sits centred under the text and the player in the
-   margin, against the chariot's left side. The chariot gives up a little width
-   before the player gets too narrow. */
-@media (min-width: 1412px) {
-  .ther { grid-template-columns: minmax(220px, 1fr) minmax(0, 1040px) minmax(220px, 1fr); }
-  .ther-bar { grid-column: 1; justify-self: end; width: 100%; max-width: 340px; }
-  .ther-body { grid-column: 2; justify-self: center; }
+/* Wider still: player on the left, the chariot in the middle, the notes on the right. */
+@media (min-width: 1560px) {
+  .ther {
+    grid-template-columns: minmax(240px, 300px) minmax(860px, 1040px) minmax(320px, 440px);
+    grid-template-areas: "bar body notes";
+    justify-content: center;
+  }
+  .ther-notes { justify-self: stretch; max-width: none; margin: 0; font-size: .95rem; }
+  .ther-notes > :first-child { margin-top: 0; }
+  .ther-body { justify-self: center; }
 }

@@ -292,7 +292,15 @@
     wheels.innerHTML = WHEELS;
     body.appendChild(wheels);
 
+    // Whatever the post says before the chariot becomes its notes: above it on
+    // narrow screens, in a column to its right on wide ones (see ther.css).
+    var notes = h('div', { class: 'ther-notes' });
+    var before = [];
+    for (var el = root.previousElementSibling; el; el = el.previousElementSibling) before.unshift(el);
+    before.forEach(function (e) { notes.appendChild(e); });
+
     root.textContent = '';
+    if (before.length) root.appendChild(notes);
     root.appendChild(bar);
     root.appendChild(body);
 
