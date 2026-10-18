@@ -45,30 +45,6 @@
     '<path d="M45 0 C49 4 50 8 45 10 C40 8 41 4 45 0 Z" fill="#b0281f"/>' +
     '</svg>';
 
-  function wheel(cx, cy, r) {
-    var spokes = '';
-    for (var k = 0; k < 12; k++) {
-      var a = (k * Math.PI) / 6;
-      spokes += '<line x1="' + cx + '" y1="' + cy + '" x2="' + (cx + Math.cos(a) * r).toFixed(1) +
-        '" y2="' + (cy + Math.sin(a) * r).toFixed(1) + '"/>';
-    }
-    return '<g class="ther-wheel" style="transform-origin:' + cx + 'px ' + cy + 'px">' +
-      '<g stroke="#4a2e1c" stroke-width="3">' + spokes + '</g>' +
-      '<circle cx="' + cx + '" cy="' + cy + '" r="' + r + '" fill="none" stroke="#4a2e1c" stroke-width="9"/>' +
-      '<circle cx="' + cx + '" cy="' + cy + '" r="' + (r - 7) + '" fill="none" stroke="#c9962e" stroke-width="1.5"/>' +
-      '<circle cx="' + cx + '" cy="' + cy + '" r="9" fill="#c9962e" stroke="#4a2e1c" stroke-width="2"/>' +
-      '</g>';
-  }
-
-  var WHEELS =
-    '<svg viewBox="0 0 390 100" aria-hidden="true">' +
-    '<rect x="150" y="0" width="90" height="24" fill="#4a2e1c"/>' +
-    '<rect x="156" y="6" width="78" height="3" fill="#c9962e"/>' +
-    '<rect x="36" y="18" width="318" height="12" rx="2" fill="#4a2e1c"/>' +
-    wheel(80, 54, 42) + wheel(310, 54, 42) +
-    '<line x1="0" y1="98" x2="390" y2="98" stroke="#d8d0c2" stroke-width="2"/>' +
-    '</svg>';
-
   // A stand-in for <audio> so the preview can run before there is a recording.
   function Clock(duration) {
     var bus = document.createElement('span');
@@ -230,14 +206,10 @@
     deck.appendChild(deckText);
     deck.appendChild(h('span', { class: 'ther-pillar', 'aria-hidden': 'true' }));
 
-    var wheels = h('div', { class: 'ther-wheels' });
-    wheels.innerHTML = WHEELS;
-
     body.appendChild(kalasam);
     body.appendChild(half(true));
     body.appendChild(deck);
     body.appendChild(half(false));
-    body.appendChild(wheels);
 
     root.textContent = '';
     root.appendChild(bar);
