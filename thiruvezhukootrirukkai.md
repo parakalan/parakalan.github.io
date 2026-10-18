@@ -14,7 +14,7 @@ Kumbakonam is a town of chariots. Sarangapani's own sanctum is built as one, wit
 
 The old charts draw it as a full chariot, with the tiers mirrored below as its base and the Lord seated on the deck in the middle. A painting like that hangs in the temple. The closing lines of the poem belong on that deck: the town of Kudanthai, the serpent bed, and the Azhwar at his feet. The poem is still recited when the ther festival begins at many Divya Desams.
 
-To read along, press play. Each box lights up as I recite it, in both halves of the chariot, and the line being recited also shows under the player. The page scrolls along with the recital; untick *Follow along* if you would rather scroll yourself. The recording opens with the thaniyan, வாழி பரகாலன், before the first box lights, and ends with the verse இடங்கொண்ட நெஞ்சத்து, while the whole chariot stays lit.
+To read along, press play. Each box lights up as I recite it, in both halves of the chariot, and the line being recited also shows under the player. The recording opens with the thaniyan, வாழி பரகாலன், before the first box lights, and ends with the verse இடங்கொண்ட நெஞ்சத்து, while the whole chariot stays lit.
 
 *Best viewed on a computer screen. On a phone the boxes show only their numbers, so follow the line under the player.*
 

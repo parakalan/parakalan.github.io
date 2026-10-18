@@ -15,7 +15,6 @@
 
   var COLS = 13;
   var NARROW = 860;   // below this width the boxes show numbers only
-  var SIDE = '(min-width: 1300px)';   // wide enough to put the player beside the chariot (see ther.css)
   var LEAD = 0.12;    // light a box this many seconds early
 
   function h(tag, attrs, text) {
@@ -223,13 +222,7 @@
     var numsBtn = h('button', { type: 'button', 'aria-pressed': 'false' }, 'Numbers');
     view.appendChild(wordsBtn);
     view.appendChild(numsBtn);
-    var followLabel = h('label', { class: 'ther-follow' });
-    var followBox = h('input', { type: 'checkbox' });
-    followBox.checked = store('ther-follow') !== false;
-    followLabel.appendChild(followBox);
-    followLabel.appendChild(document.createTextNode('Follow along'));
     controls.appendChild(view);
-    controls.appendChild(followLabel);
     bar.appendChild(caption);
     bar.appendChild(controls);
 
@@ -345,39 +338,7 @@
       current = key;
       paint(i, true);
       say(i);
-      follow(i, jumped);
-      jumped = false;
     }
-    var jumped = false;
-
-    // Follow along: while the recital plays, keep the lit box in view. Back off
-    // for a few seconds whenever the reader scrolls by hand.
-    var handScrolled = 0;
-    var calm = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    ['wheel', 'touchmove'].forEach(function (type) {
-      window.addEventListener(type, function () { handScrolled = Date.now(); }, { passive: true });
-    });
-    window.addEventListener('keydown', function (e) {
-      if (/^(ArrowUp|ArrowDown|PageUp|PageDown|Home|End| )$/.test(e.key)) handScrolled = Date.now();
-    });
-    function follow(i, now) {
-      if (!followBox.checked || !units[i]) return;
-      if (!now && (!player || player.paused || Date.now() - handScrolled < 4000)) return;
-      var side = window.matchMedia && window.matchMedia(SIDE).matches;
-      var inset = side ? 0 : bar.offsetHeight;
-      var r = units[i].nodes[0].getBoundingClientRect();
-      var room = window.innerHeight - inset;
-      if (r.top >= inset + 24 && r.bottom <= inset + room * 0.75) return;
-      window.scrollTo({
-        top: Math.max(0, window.scrollY + r.top - inset - room * 0.3),
-        behavior: calm ? 'auto' : 'smooth'
-      });
-    }
-    followBox.addEventListener('change', function () {
-      store('ther-follow', followBox.checked);
-      var at = current && current.charAt(0) === 'p' ? +current.slice(1) : -1;
-      if (followBox.checked && player && !player.paused) follow(at, true);
-    });
 
     // Player
     var ticked = false;
@@ -410,7 +371,6 @@
       var d = length();
       if (!d) return;
       player.currentTime = Math.max(0, Math.min(d, t));
-      jumped = true;
       current = null;
       progress();
       sync();

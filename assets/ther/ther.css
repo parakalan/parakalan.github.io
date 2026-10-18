@@ -51,15 +51,6 @@
   align-items: center;
   gap: .5rem .9rem;
 }
-.ther-follow {
-  display: inline-flex;
-  align-items: center;
-  gap: .35rem;
-  font-size: .85rem;
-  white-space: nowrap;
-  cursor: pointer;
-}
-.ther-follow input { margin: 0; accent-color: var(--kumkum); }
 
 /* The player: a kumkum play button, a long track ticked where each tier
    begins, and the time. */
@@ -381,8 +372,7 @@
   .ther.is-playing .ther-wheel { animation: none; }
 }
 
-/* Wide screens: the player sits in a sticky column at the left edge of the
-   window, with the chariot as far left as it can go beside it. */
+/* Wide screens: the player sits in a sticky column just left of the chariot. */
 @media (min-width: 1300px) {
   .ther {
     display: grid;
@@ -423,10 +413,11 @@
   .ther-body { justify-self: start; width: 100%; max-width: 1040px; margin: 0; }
 }
 
-/* Wider still: the chariot sits centred under the text, the player in the
-   margin. The chariot gives up a little width before the player gets too narrow. */
+/* Wider still: the chariot sits centred under the text and the player in the
+   margin, against the chariot's left side. The chariot gives up a little width
+   before the player gets too narrow. */
 @media (min-width: 1412px) {
   .ther { grid-template-columns: minmax(220px, 1fr) minmax(0, 1040px) minmax(220px, 1fr); }
-  .ther-bar { grid-column: 1; width: 100%; max-width: 360px; }
+  .ther-bar { grid-column: 1; justify-self: end; width: 100%; max-width: 340px; }
   .ther-body { grid-column: 2; justify-self: center; }
 }
