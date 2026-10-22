@@ -2,6 +2,18 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- unless page.url contains '.html' %}
+  <script>
+    // This page's link has no .html; show that link even when the visit came
+    // through the .html file GitHub Pages serves it from.
+    (function (p) {
+      var clean = p.replace(/\/index\.html$/, '/').replace(/\.html$/, '');
+      if (clean !== p && window.history && history.replaceState) {
+        history.replaceState(null, '', clean + location.search + location.hash);
+      }
+    })(location.pathname);
+  </script>
+  {%- endunless %}
   {%- seo -%}
   <link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
