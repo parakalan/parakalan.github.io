@@ -8,9 +8,16 @@ layout: post
 exclude: true
 ---
 
-Kumbakonam is a town of chariots. Sarangapani's own sanctum is built as one, with wheels, drawn by horses and elephants. His ther is one of the biggest in Tamil Nadu, and it is said that the first one was set up by Thirumangai Azhwar. The Azhwar also built him a second chariot, out of words.
+Kumbakonam is a town of chariots. Sarangapani's own sanctum is built as one, with wheels, drawn by horses and elephants. His ther (chariot) is one of the biggest in Tamil Nadu, and it is said that the first one was set up by Thirumangai Azhwar. The Azhwar also built him a second chariot, out of words.
 
-*Thiruvezhukootrirukkai* is a single poem of 46 lines on Aravamudhan, the Lord of Thirukkudanthai. It counts as it goes. The first tier goes one, two, one: ஒரு பேருந்தி, இரு மலர்த் தவிசில், ஒருமுறை அயனை ஈன்றனை. The next climbs to three and comes back down, the next to four, and so on up to seven. There are seven tiers, the *ezhu kootru* of the name, and the last two both go all the way to seven. Stack them and the poem takes the shape of a ther, narrow at the top and widest at the deck. Each tier is also the square of a row of ones: 11 × 11 = 121, 111 × 111 = 12321, and so on up to 1111111 × 1111111 = 1234567654321.
+*Thiruvezhukootrirukkai* is a single poem of 46 lines on Aravamudhan, the Lord of Thirukkudanthai. It counts as it goes. The first tier goes one, two, one, and the next climbs to three and comes back down:
+
+<p class="ther-count">
+  <span>ஒரு (1) பேருந்தி, இரு (2) மலர்த் தவிசில், ஒரு (1) முறை அயனை ஈன்றனை.</span>
+  <span>ஒரு (1) முறை, இரு (2) சுடர் மீதினில் இயங்கா, மும் (3) மதிள் இலங்கை, இரு (2) கால் வளைய, ஒரு (1) சிலை</span>
+</p>
+
+The tier after that goes to four, and so on up to seven. There are seven tiers, the *ezhu kootru* of the name, and the last two both go all the way to seven. Stack them and the poem takes the shape of a ther, narrow at the top and widest at the deck. Each tier is also the square of a row of ones: 11 × 11 = 121, 111 × 111 = 12321, and so on up to 1111111 × 1111111 = 1234567654321.
 
 The old charts draw it as a full chariot, with the tiers mirrored below as its base and the Lord seated on the deck in the middle. A painting like that hangs in the temple. The closing lines of the poem belong on that deck: the town of Kudanthai, the serpent bed, and the Azhwar at his feet. The poem is still recited when the ther festival begins at many Divya Desams.
 

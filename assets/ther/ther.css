@@ -397,3 +397,13 @@
   .ther-notes .post-title { font-size: clamp(26px, 2.2vw, 42px); overflow-wrap: anywhere; }
   .ther-body { width: 100%; margin: 0; }
 }
+
+/* The first two tiers, quoted in the notes with their counts. */
+.ther-count {
+  padding-left: .9em;
+  border-left: 3px solid #e9b23b;
+  font-family: "Noto Serif Tamil", "Tamil Sangam MN", "Latha", "Nirmala UI", serif;
+  line-height: 1.8;
+}
+.ther-count span { display: block; padding-left: 1.2em; text-indent: -1.2em; }
+.ther-count span + span { margin-top: .35em; }
