@@ -23,7 +23,7 @@ The tier after that goes to four, and so on up to seven. There are seven tiers, 
 
 The old charts draw it as a full chariot, with the tiers mirrored below as its base and the Lord seated on the deck in the middle. A painting like that hangs in the temple. The closing lines of the poem belong on that deck: the town of Kudanthai, the serpent bed, and the Azhwar at his feet. The poem is still recited when the ther festival begins at many Divya Desams.
 
-To read along, press play on the chariot's deck. Each box lights up as I recite it, in both halves of the chariot, and the line being recited also shows under the player. The recording opens with the thaniyan, வாழி பரகாலன், before the first box lights, and ends with the verse இடங்கொண்ட நெஞ்சத்து, while the whole chariot stays lit.
+To read along, press play on the chariot's deck. Each box lights up as I recite it, in both halves of the chariot, and the line being recited also shows under the player. The recording opens with the thaniyan, written above the chariot, and ends with the verse இடங்கொண்ட நெஞ்சத்து, written below its wheels. Those light up line by line too.
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil:wdth,wght@62.5..100,400..700&family=Noto+Serif+Tamil:wght@400..700&display=swap">
 <link rel="stylesheet" href="{{ '/assets/ther/ther.css' | relative_url }}?v={{ site.time | date: '%s' }}">

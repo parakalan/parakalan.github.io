@@ -346,8 +346,31 @@
 .ther.is-narrow .ther-deck-text { display: none; }
 .ther.is-narrow .ther-deck-inner { justify-content: center; }
 .ther.is-narrow .ther-panel { max-width: 420px; }
-.ther .ther-deck-line.is-done { background: var(--turmeric-soft); }
-.ther .ther-deck-line.is-active { background: var(--turmeric); box-shadow: inset 0 -2px var(--kumkum); }
+.ther .ther-deck-line.is-done,
+.ther .ther-line.is-done { background: var(--turmeric-soft); }
+.ther .ther-deck-line.is-active,
+.ther .ther-line.is-active { background: var(--turmeric); box-shadow: inset 0 -2px var(--kumkum); }
+
+/* The thaniyan above the kalasam and the closing verse below the wheels. */
+.ther-verse {
+  margin: 0 auto 1.1rem;
+  font-family: var(--tamil);
+  font-size: clamp(13.5px, 1.75cqw, 17px);
+  line-height: 1.9;
+  text-align: center;
+  color: var(--ink);
+}
+.ther-after { margin: 1.1rem auto 0; }
+.ther-line {
+  display: block;
+  width: fit-content;
+  margin: 0 auto;
+  padding: 0 .3em;
+  border-radius: 2px;
+  transition: background-color .3s ease;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
 
 /* The wheels turn only while the recital plays. */
 .ther-wheels { margin-top: -1px; }
@@ -371,7 +394,7 @@
 
 @media (prefers-reduced-motion: reduce) {
   .ther-cell,
-  .ther-deck-line { transition: none; }
+  .ther-deck-line, .ther-line { transition: none; }
   .ther.is-playing .ther-wheel { animation: none; }
 }
 

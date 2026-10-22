@@ -163,17 +163,28 @@
     var demo = !hasAudio && !marking && root.hasAttribute('data-demo');
     var markKey = 'ther-marks:' + location.pathname + ':' + root.getAttribute('data-ther');
 
-    // Recital order: every box tier by tier, then the deck.
+    // Recital order: the thaniyan, every box tier by tier, the deck, then the
+    // closing verse.
     var units = [];
+    var verse = function (part, kind) {
+      (part && part.lines || []).forEach(function (line) { units.push({ kind: kind, text: line, nodes: [] }); });
+    };
+    verse(data.before, 'before');
     data.tiers.forEach(function (tier, t) {
       tier.forEach(function (cell, p) {
         units.push({ kind: 'cell', tier: t, n: cell[0], text: cell[1], nodes: [] });
       });
     });
     data.deck.forEach(function (line) { units.push({ kind: 'deck', text: line, nodes: [] }); });
+    verse(data.after, 'after');
     units.forEach(function (u, i) { u.i = i; });
 
-    var timings = data.timings && data.timings.length === units.length ? data.timings.slice() : null;
+    var timings = [].concat(
+      data.before && data.before.timings || [],
+      data.timings || [],
+      data.after && data.after.timings || []
+    );
+    if (timings.length !== units.length) timings = null;
     var endAt = typeof data.end === 'number' && !marking ? data.end : null;
     var player = hasAudio ? audio : null;
     var marks = [];
@@ -243,6 +254,7 @@
     function half(top) {
       var grid = h('div', { class: 'ther-half ' + (top ? 'ther-top' : 'ther-bottom') });
       if (!top) grid.setAttribute('aria-hidden', 'true');
+      var boxes = units.filter(function (u) { return u.kind === 'cell'; });
       var i = 0;
       data.tiers.forEach(function (tier, t) {
         var w = tier.length;
@@ -257,7 +269,7 @@
           });
         }
         tier.forEach(function (cell, p) {
-          var u = units[i++];
+          var u = boxes[i++];
           var node = h('div', {
             class: 'ther-cell',
             style: 'grid-column:' + (start + p) + ';grid-row:' + row + ';--n:' + cell[0]
@@ -288,6 +300,22 @@
     deck.appendChild(deckInner);
     deck.appendChild(h('span', { class: 'ther-pillar', 'aria-hidden': 'true' }));
 
+    // The thaniyan above the kalasam, the closing verse below the wheels.
+    function stanza(kind) {
+      var lines = units.filter(function (u) { return u.kind === kind; });
+      if (!lines.length) return null;
+      var box = h('p', { class: 'ther-verse ther-' + kind });
+      lines.forEach(function (u) {
+        var line = h('span', { class: 'ther-line', 'data-i': u.i }, u.text);
+        box.appendChild(line);
+        u.nodes.push(line);
+      });
+      return box;
+    }
+    var thaniyan = stanza('before');
+    var closing = stanza('after');
+
+    if (thaniyan) body.appendChild(thaniyan);
     body.appendChild(kalasam);
     body.appendChild(half(true));
     body.appendChild(deck);
@@ -295,6 +323,7 @@
     var wheels = h('div', { class: 'ther-wheels' });
     wheels.innerHTML = WHEELS;
     body.appendChild(wheels);
+    if (closing) body.appendChild(closing);
 
     // Whatever the post says before the chariot becomes its notes: above it on
     // narrow screens, in a column to its left on wide ones (see ther.css).
@@ -373,9 +402,10 @@
       pl.track.setAttribute('aria-valuetext', clock(t));
       if (d && timings && !ticked) {
         ticked = true;
-        // A tick where each tier begins, where the deck begins, and where the closing verse begins.
+        // A tick where the thaniyan, each tier, the deck and the closing verse begin.
         units.forEach(function (u, i) {
-          var first = u.kind === 'cell' ? (i === 0 || units[i - 1].tier !== u.tier) : units[i - 1].kind === 'cell';
+          var prev = units[i - 1];
+          var first = !prev || prev.kind !== u.kind || (u.kind === 'cell' && prev.tier !== u.tier);
           if (first && timings[i] != null) {
             pl.track.insertBefore(h('span', { class: 'ther-tick', style: 'left:' + (timings[i] / d * 100) + '%' }), pl.knob);
           }

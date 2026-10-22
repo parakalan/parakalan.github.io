@@ -4,7 +4,18 @@
 //
 // timings: start time in seconds of each unit in recital order (the 61 boxes,
 // then the deck lines). Open the post with ?mark to re-time them by tapping.
+// The thaniyan (before) sits above the chariot and the closing verse (after)
+// below it; each has its lines and their start times.
 window.THER_TVK = {
+  before: {
+    lines: [
+      "வாழி பரகாலன் வாழி கலிகன்றி",
+      "வாழி குறையலூர் வாழ்வேந்தன் — வாழியரோ",
+      "மாயோனை வாள்வலியால் மந்திரங்கொள் மங்கையர்கோன்",
+      "தூயோன் சுடர்மான வேல்"
+    ],
+    timings: [0.58, 2.54, 5.84, 9.34]
+  },
   tiers: [
     [
       [1, "ஒருபேர் உந்தி"],
@@ -103,6 +114,13 @@ window.THER_TVK = {
     114.32, 118.84, 122.72, 125.78, 129.44, 132.32, 135.64, 139.94, 141.94, 143.34,
     144.90, 147.62, 151.88, 155.22, 159.02, 162.48, 166.26, 172.92, 176.76, 180.54
   ],
-  // The closing verse (இடங்கொண்ட நெஞ்சத்து…) starts here; the chariot stays fully lit.
-  end: 186.94
+  after: {
+    lines: [
+      "இடங்கொண்ட நெஞ்சத்து இணங்கிக் கிடப்பன என்றும் பொன்னி",
+      "தடங்கொண்ட தாமரை சூழும் மலர்ந்து தண் பூங்குடந்தை",
+      "விடங்கொண்ட வெண்பல் கருந்துத்தி செங்கண் தழலுமிழ்வாய்",
+      "படங்கொண்ட பாம்பணைப் பள்ளி கொண்டான் திருப்பாதங்களே"
+    ],
+    timings: [186.94, 191.84, 197.04, 201.92]
+  }
 };
