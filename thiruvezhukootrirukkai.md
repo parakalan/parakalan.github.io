@@ -8,14 +8,16 @@ layout: post
 exclude: true
 ---
 
+*Best viewed on a computer screen. On a phone the chariot shows only its numbers, so follow the line under the player.*
+
 Kumbakonam is a town of chariots. Sarangapani's own sanctum is built as one, with wheels, drawn by horses and elephants. His ther (chariot) is one of the biggest in Tamil Nadu, and it is said that the first one was set up by Thirumangai Azhwar. The Azhwar also built him a second chariot, out of words.
 
 *Thiruvezhukootrirukkai* is a single poem of 46 lines on Aravamudhan, the Lord of Thirukkudanthai. It counts as it goes. The first tier goes one, two, one, and the next climbs to three and comes back down:
 
-<p class="ther-count">
-  <span>ஒரு (1) பேருந்தி, இரு (2) மலர்த் தவிசில், ஒரு (1) முறை அயனை ஈன்றனை.</span>
-  <span>ஒரு (1) முறை, இரு (2) சுடர் மீதினில் இயங்கா, மும் (3) மதிள் இலங்கை, இரு (2) கால் வளைய, ஒரு (1) சிலை</span>
-</p>
+<div class="ther-count">
+  <p>ஒரு (1) பேருந்தி, இரு (2) மலர்த் தவிசில், ஒரு (1) முறை அயனை ஈன்றனை.</p>
+  <p>ஒரு (1) முறை, இரு (2) சுடர் மீதினில் இயங்கா, மும் (3) மதிள் இலங்கை, இரு (2) கால் வளைய, ஒரு (1) சிலை</p>
+</div>
 
 The tier after that goes to four, and so on up to seven. There are seven tiers, the *ezhu kootru* of the name, and the last two both go all the way to seven. Stack them and the poem takes the shape of a ther, narrow at the top and widest at the deck. Each tier is also the square of a row of ones: 11 × 11 = 121, 111 × 111 = 12321, and so on up to 1111111 × 1111111 = 1234567654321.
 
@@ -23,14 +25,12 @@ The old charts draw it as a full chariot, with the tiers mirrored below as its b
 
 To read along, press play on the chariot's deck. Each box lights up as I recite it, in both halves of the chariot, and the line being recited also shows under the player. The recording opens with the thaniyan, வாழி பரகாலன், before the first box lights, and ends with the verse இடங்கொண்ட நெஞ்சத்து, while the whole chariot stays lit.
 
-*Best viewed on a computer screen. On a phone the chariot shows only its numbers, so follow the line under the player.*
-
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil:wdth,wght@62.5..100,400..700&family=Noto+Serif+Tamil:wght@400..700&display=swap">
-<link rel="stylesheet" href="{{ '/assets/ther/ther.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/ther/ther.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 
 <div class="ther" data-ther="THER_TVK">
   <audio controls preload="metadata" src="{{ '/assets/thiruvezhukootrirukkai.mp3' | relative_url }}"></audio>
 </div>
 
-<script src="{{ '/assets/ther/thiruvezhukootrirukkai.js' | relative_url }}"></script>
-<script src="{{ '/assets/ther/ther.js' | relative_url }}"></script>
+<script src="{{ '/assets/ther/thiruvezhukootrirukkai.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
+<script src="{{ '/assets/ther/ther.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>

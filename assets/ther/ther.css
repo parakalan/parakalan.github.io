@@ -405,5 +405,6 @@
   font-family: "Noto Serif Tamil", "Tamil Sangam MN", "Latha", "Nirmala UI", serif;
   line-height: 1.8;
 }
-.ther-count span { display: block; padding-left: 1.2em; text-indent: -1.2em; }
-.ther-count span + span { margin-top: .35em; }
+.ther-count p { margin: 0; padding-left: 1.2em; text-indent: -1.2em; }
+.ther-count p + p { margin-top: .5em; }
+.ther-count { margin-bottom: 15px; }
